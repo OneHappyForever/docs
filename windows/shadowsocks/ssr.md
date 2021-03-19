@@ -1,0 +1,99 @@
+# SSR
+
+Updated: 11 October, 2020
+
+{% hint style="info" %}
+We personally find that the Netch app is easier to use and fully supports ShadowsocksR. [See the guide here &gt;](../v2ray-shadowsocks/netch-1.md)
+{% endhint %}
+
+This app ONLY support Shadowsocks. It does NOT support v2ray.
+
+## Download and install ShadowsocksR
+
+[Click here](https://wannaflix.net/dl.php?type=d&id=25) to download the app. It will download it in .ZIP format.
+
+{% hint style="success" %}
+Alternative mirrors:
+
+Download on [Github](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) 
+{% endhint %}
+
+Find the ShadowsocksR-win-4.9.2.zip file in your download folder. Unzip it \(right click &gt; Extract all... \). Then, open the unzipped folder.
+
+![](../../.gitbook/assets/ssr-extract.png)
+
+Double-click on the "ShadowsocksR-dotnet4.0" file to run the ShadowsocksR \(SSR\) app.
+
+{% hint style="info" %}
+If you are running **Windows 7**, please run the ShadowsocksR-dotnet**2.0** instead.
+{% endhint %}
+
+![](../../.gitbook/assets/ssr-open.png)
+
+{% hint style="info" %}
+If you get any popups or if your antivirus says anything, select yes / allow access / create exception, according to the situation to allow the app to run.
+{% endhint %}
+
+Close the SSR window if it appeared.
+
+## Add the API link
+
+### Get your API
+
+1. Go to your [client area](https://wannaflix.com/clientarea.php) Shadowsocks page
+2. Click on the "Windows SSR" button in the API box to copy the API
+
+### Paste your API
+
+1. Find the ShadowsocksR icon in the tray. **Right-click** on it to show the menu
+
+![](../../.gitbook/assets/ssr-sub-1.png)
+
+{% hint style="info" %}
+If you can't find the icon, that means the app is NOT running. Double-click on the "ShadowsocksR-dotnet4.0" file to run the ShadowsocksR \(SSR\) app.
+
+See previous section.
+{% endhint %}
+
+    2. Go to Server Subscribe &gt; Subscribe setting...
+
+![](../../.gitbook/assets/ssr-sub-2.png)
+
+    3. Click Add, and past the API in the URL box. Then click OK.
+
+![](../../.gitbook/assets/ssr-sub-add.png)
+
+    4. Right-click on the icon again to show the menu. 
+
+    5. Go to Server Subscribe &gt; Update subscribe SSR node \(bypass proxy\) to pull the server list
+
+![](../../.gitbook/assets/ssr-sub-3.png)
+
+## Connect
+
+    1. Right-click on the icon
+
+    2. Go to Servers &gt; Wannaflix and select a server from the list
+
+    3. Right-click on the icon again. Click Mode &gt; Global to connect
+
+{% hint style="success" %}
+To disconnect, click Mode &gt; Disable System Proxy 
+{% endhint %}
+
+## Additional steps
+
+### Disable load balancing
+
+1. Right-click on the icon
+2. Click on Load Balance to uncheck it
+
+### Delete the default server
+
+1. **Left-click** on the icon
+2. Find the default server. Select it and click "Delete"
+
+## Troubleshooting
+
+So far no common issues have been reported. We'll edit this section should the need arise.
+
