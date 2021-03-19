@@ -12,7 +12,7 @@ Updated: ****October 11, 2020
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-{% embed url="https://watch.cloudflarestream.com/5ceac0d642744c812af04af1942cc332" %}
+[Video](https://watch.cloudflarestream.com/5ceac0d642744c812af04af1942cc332)
 
 ## Download and install
 

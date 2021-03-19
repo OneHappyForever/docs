@@ -14,7 +14,7 @@ Shadowrocket now support the new VLESS+XTLS protocol. We HIGHLY recommend updati
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-{% embed url="https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1" %}
+[Video](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)
 
 ## Download the app
 

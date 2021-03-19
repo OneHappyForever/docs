@@ -12,7 +12,7 @@ The google play version does not support XTLS yet. If you are running that versi
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-{% embed url="https://watch.cloudflarestream.com/7461e3fd68eb477e395064ccdcf6caa8" %}
+[Video](https://watch.cloudflarestream.com/7461e3fd68eb477e395064ccdcf6caa8)
 
 ## Download and install
 

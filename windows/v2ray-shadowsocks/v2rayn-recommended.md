@@ -28,7 +28,7 @@ NOTE: This is the tutorial for the older version \(version 2.50\). They look bas
 We'll be releasing the new video tutorial soon
 {% endhint %}
 
-{% embed url="https://watch.cloudflarestream.com/c52143e01e64eed9c6a109e38e3e3239" %}
+[Video](https://watch.cloudflarestream.com/c52143e01e64eed9c6a109e38e3e3239)
 
 ## Version 4.12 and up \(March 9, 2021
 

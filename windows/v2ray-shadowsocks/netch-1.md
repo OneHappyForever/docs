@@ -18,7 +18,7 @@ If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter vari
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-{% embed url="https://watch.cloudflarestream.com/0f2cacf89acf69faba816fe44603720a" %}
+[Video](https://watch.cloudflarestream.com/0f2cacf89acf69faba816fe44603720a)
 
 ## Download and install Netch
 

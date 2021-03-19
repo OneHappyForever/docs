@@ -8,7 +8,7 @@ ClashR for Android supports both v2ray and SSR. It has a clean and easy to use U
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-{% embed url="https://watch.cloudflarestream.com/f8c5ab1c85bc573fe3c1faab226a5dc9" %}
+[Video](https://watch.cloudflarestream.com/f8c5ab1c85bc573fe3c1faab226a5dc9)
 
 ## Download and Install ClashR for Android
 
