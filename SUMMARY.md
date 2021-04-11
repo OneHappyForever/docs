@@ -97,6 +97,7 @@
     * [Clash for Windows](installation-guides/windows/clash-for-windows.md)
     * [SSTap](installation-guides/windows/sstap.md)
     * [SSR for Windows](installation-guides/windows/ssr-for-windows.md)
+    * [Proxifier 4.05](installation-guides/windows/proxifier-4.05.md)
   * [Mac OS](installation-guides/mac-os/README.md)
     * [ShadowsocksX-NG \(Recommended\)](installation-guides/mac-os/shadowsocksx-ng.md)
     * [ClashX v1.20 \(deprecated\)](installation-guides/mac-os/clashx-1.md)
