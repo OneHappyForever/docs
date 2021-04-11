@@ -58,3 +58,11 @@ Leave the credentials blank.
 The only exception to the rule is Netch, which needs to be run on the Non-system proxy mode.
 {% endhint %}
 
+That's it!
+
+## Troubleshooting
+
+### No internet
+
+Check that the port is correct and that the v2ray app is running in the background. Make sure the v2ray app is NOT turned on \(except in the case of Netch\).
+
