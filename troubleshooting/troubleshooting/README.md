@@ -8,15 +8,13 @@ Type in the search box on the top right to find even more troubleshooting articl
 
 [Download and install the VPN app](download-and-install-the-vpn-app.md)
 
-Download and upgrade to the latest version of WannaFlix
-
 [Frequently asked questions](../../faq/)
 
 [How many devices can I connect to simultaneously?](../../faq/#how-many-devices-can-be-connected-to-wannaflix-simultaneously) 
 
 [What devices and platforms do you support?](../../faq/#what-devices-and-platforms-do-you-support)
 
-Is WannaFlix working? \(to be done...\)
+Is WannaFlix vpn working? \(to be done...\)
 
 ## Accounts
 
