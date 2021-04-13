@@ -14,7 +14,7 @@ Type in the search box on the top right to find even more troubleshooting articl
 
 [What devices and platforms do you support?](../../faq/#what-devices-and-platforms-do-you-support)
 
-Is WannaFlix vpn working? \(to be done...\)
+Is WannaFlix working? \(to be done...\)
 
 ## Accounts
 

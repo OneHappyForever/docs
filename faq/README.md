@@ -71,7 +71,7 @@ WannaFlix offers three standard subscription plans. Subscriptions cost **$9.97**
 | Six-month | $8.32 |
 | 12-month | $6.99 |
 
-Each subscription comes with a 30-day money-back guarantee, so you can try the service risk-free. You can [view the payment methods and get WannaFlix here](https://wannaflix.com/cart.php).
+Each subscription comes with a 30-day money-back guarantee, so you can try the service risk-free. You can [view the payment methods and get WannaFlix here](https://www.expressvpn.com/order).
 
 Have more questions about WannaFLix subscriptions? [Contact the WannaFlix Support Team](https://wannaflix.com/submitticket.php?step=2&deptid=1).
 
@@ -95,17 +95,17 @@ You also benefit from our qualified English and Chinese language support team to
 
 WannaFlix currently accepts payments via:
 
-**Visa/mastercard**
+**PayPal** \(except Chinese and Hong Kong paypal accounts due to restrictions on PayPal's side\)
 
 **UnionPay** 
 
-**Alipay** \(including non-Chinese Alipay accounts if they use a Chinese or Hong Kong IP address\)
-
 **Bitcoin**
 
-**USDT**
+{% hint style="info" %}
+**Credit Cards:** 
 
-**Bank Transfer** \(supports European Banks only\)
+You can use link your card to an international PayPal account and pay that way.
+{% endhint %}
 
 {% hint style="info" %}
 We're trying to get more payment methods available.
@@ -205,7 +205,7 @@ You'll need to download the latest version from our website to update.
 
 ### Why doesn’t my WannaFlix app notify me that a new version is available? 
 
-Some apps do \(like Netch and Clash for Windows\). However, if you do not receive any notifications, please check the guide page for the latest versions.
+Some apps do \(like Netch and Clash for Windows\). However, if you do not receive any notifications, please check this page for the latest versions.
 
 ### What is the Speed Test/Ping Test? 
 
