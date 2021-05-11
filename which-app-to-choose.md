@@ -307,11 +307,15 @@ To be done...
 
 ## Routers
 
-Recommendation: OpenWRT with Passwall isntalled. You can usually get one on taobao, but make sure you ask the seller if Passwall is already installed or not. Otherwise, Merlin-Koolshare routers can be installed later, but they do not support Xray, so we'd recommend trying to get Passwall on OpenWRT if at all possible.
+Recommendation: OpenWRT with Passwall installed. You can usually get one on taobao, but make sure you ask the seller if Passwall is already installed or not. Otherwise, Merlin-Koolshare routers can be installed later, but they do not support Xray, so we'd recommend trying to get Passwall on OpenWRT if at all possible.
 
 Routers are NOT officially supported. Support provided on a best-effort basis.
 
 If you get a OpenWRT or Padavan router, it is **HIGHLY, HIGHLY** recommended to get it pre-installed. Installing it yourself is very complicated, if not impossible. We do not provide guides or support on how to install OpenWRT or Padavan due to the complexity.
+
+{% hint style="info" %}
+If you need a router, or have a router but need help installing OpenWRT with all the apps needed, many of our users have had a good experience with @OpenFirmware. You can contact him on telegram via our group chat \(mention him @OpenFirmware\) or by private message [here](https://t.me/OpenFirmware).
+{% endhint %}
 
 <table>
   <thead>
