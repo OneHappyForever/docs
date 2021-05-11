@@ -144,7 +144,7 @@ _Gaming:_ A measurement of how the protocol performs when gaming. Gaming usually
 
 ## Xray
 
-Xray is a fork of the v2ray protocol by a coder under the name of _rprx_ on github. The fork was created on November 9, 2020, and has quickly gained popularity over these past 6 months, passing 3,000 stars on it's github repository \(it is now March of 2021\). 
+Xray is a fork of the v2ray protocol by a coder under the name of _rprx_ on github. The fork was created on November 9, 2020, and has quickly gained popularity over these past 6 months, passing 3,000 stars on it's github repository \(as of March 2021\). 
 
 The fork fixes several important issues with the original v2ray code, including enabling full UDP gaming support on the original VMESS protocol, optimization of the code \(about 30% faster than the original v2ray code\), and most importantly, the introduction of several new technologies, including the one we are currently using, XTLS.
 
