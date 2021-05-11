@@ -117,7 +117,7 @@ Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choic
     </tr>
     <tr>
       <td style="text-align:left">VoIP/Video Conference</td>
-      <td style="text-align:center">&#x1F7E8;</td>
+      <td style="text-align:center">&#x1F7E7;</td>
       <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -151,6 +151,8 @@ The fork fixes several important issues with the original v2ray code, including 
 The only downside is that only a minority of apps have updated their software to support Xray, so you may need to update or switch to a different app to take advantage of this new technology. But trust me, it's worth it.
 
 Most of our servers now run Xray by default. Xray is fully compatible with v2ray.
+
+Update: Xray currently has some compatibility issues with Whatsapp calls. If you need Whatsapp call support, please use v2ray instead, or add both APIs in and switch to the one you want based on your needs.
 
 {% hint style="info" %}
 We HIGHLY recommend upgrading to Xray as soon as possible from v2ray and Shadowsocks.
