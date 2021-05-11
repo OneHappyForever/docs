@@ -1,6 +1,6 @@
 # Netch \(Recommended\)
 
-Updated: May 11, 2021
+Updated: March 8, 2021
 
 Netch supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software.
 
@@ -18,7 +18,7 @@ If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter vari
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-[Video](https://watch.videodelivery.net/ba79ea793a3aa730b2eac46ab94f8c1b)
+[Video](https://watch.cloudflarestream.com/0f2cacf89acf69faba816fe44603720a)
 
 ## Download and install Netch
 

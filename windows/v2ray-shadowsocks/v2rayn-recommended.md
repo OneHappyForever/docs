@@ -48,6 +48,14 @@ Alternative mirrors:
 Download on [Github](https://github.com/2dust/v2rayN/releases) \(it will download as V2rayN-Core.zip instead of V2rayN.zip; look for that filename instead in the next step\)
 {% endhint %}
 
+{% hint style="warning" %}
+IMPORTANT: When using the github version or **updating to a newer version from within the app** \(which uses the github version by default\), you will need to manually change the core type to Xray\_core. 
+
+To do so, open your v2rayN app, and go to Settings &gt; OptionSetting &gt; V2rayN Settings and change the core type from the dropdown menu to Xray\_core.
+
+The version from our website has already been setup to use the Xray\_core by default.
+{% endhint %}
+
 Find the V2rayN.zip file in your download folder. Unzip it \(right click &gt; Extract all... \). Then, open the unzipped folder. 
 
 Double-click on the "V2rayN" file to install.
