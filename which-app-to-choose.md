@@ -276,7 +276,7 @@ Recommendation: Shadowrocket. Only Shadowrocket.
 | Eclipse | ❌ | ❌ | ✅ |
 | Ease of Use | ✅ | ✅🟨 | 🟨 |
 | Speed | ✅ | 🟨 | 🟨🟧 |
-| Stability | ✅🟨 | ✅ | 🟨 |
+| Stability | ✅ | ✅ | 🟨 |
 | TCP | ✅ | ✅ | ✅ |
 | UDP | ✅ | ✅🟨 | ✅ |
 | Netflix support | ✅ | ✅ | 🟧 |
