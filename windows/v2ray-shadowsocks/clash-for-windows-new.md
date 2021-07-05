@@ -6,6 +6,8 @@ This guide is for Clash for Windows **version 0.13.6** and up.
 
 {% hint style="warning" %}
 Clash for Windows does NOT support the new VLESS+XTLS protocol. We recommend using [Netch ](netch-1.md)or [v2rayN ](v2rayn-recommended.md)instead.
+
+Clash for Windows is not officially supported but we provide this guide for those that may want to use it.
 {% endhint %}
 
 Updated: 9 December, 2020

@@ -5,6 +5,7 @@
 * [Which Protocol to Choose?](which-protocol-to-choose.md)
 * [Which App to Choose?](which-app-to-choose.md)
 * [中文教程](zhong-wen-jiao-cheng/README.md)
+  * [更新服务器列表](zhong-wen-jiao-cheng/geng-xin-fu-wu-qi-lie-biao.md)
   * [Windows](zhong-wen-jiao-cheng/windows/README.md)
     * [Netch \(SSR + v2ray\) - 推荐](zhong-wen-jiao-cheng/windows/netch-ssr-+-v2ray-tui-jian.md)
     * [v2rayN \(v2ray\)](zhong-wen-jiao-cheng/windows/v2rayn-v2ray.md)
