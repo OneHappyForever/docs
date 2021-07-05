@@ -10,13 +10,11 @@ description: 完成安装设置所需时间：8分钟
 Shadowrocket 现在支持新的 VLESS+XTLS 协议。 我们强烈推荐你更新到最新API。
 {% endhint %}
 
-## **观看视频教程：** 
+## **观看视频教程：**
 
-我们强烈建议您观看视频教程，在中国也可以直接观看本视频。  
+我们强烈建议您观看视频教程，在中国也可以直接观看本视频。
 
-
-\*\*\*\*[**视频**](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)  
-****
+\*\*\*\*[**视频**](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)
 
 ## **软件下载**
 
