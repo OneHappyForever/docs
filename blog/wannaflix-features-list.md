@@ -95,11 +95,3 @@ But there are now so many of them that it's difficult to keep track of all of th
   * Otherwise, we default them to US Netflix
   * All servers with "Netflix" in the name unblock the LOCAL version of Netflix, NOT US Netflix, though they will still unblock BBC iPlayer, etc. which only has 1 region.
 
-
-
-
-
-
-
-
-
