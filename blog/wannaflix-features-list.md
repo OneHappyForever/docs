@@ -74,6 +74,9 @@ But there are now so many of them that it's difficult to keep track of all of th
   * This works on Clash for Windows, ClashX, Clash for Android,  MerlinClash, and OpenClash
   * It does NOT work on ClashR \(android\). Please switch to Clash for Android instead \(you can get it from github or the play store\)
 
+* If your API has been compromised, you can reset it in the dashboard. 
+  * NOTE: This will change your VPN password as well, so all your v2ray apps will stop working until you add the servers back in via the new API
+
 ## Telegram
 
 * We have 2 Telegram channels:
