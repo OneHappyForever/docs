@@ -74,7 +74,27 @@ But there are now so many of them that it's difficult to keep track of all of th
   * This works on Clash for Windows, ClashX, Clash for Android,  MerlinClash, and OpenClash
   * It does NOT work on ClashR \(android\). Please switch to Clash for Android instead \(you can get it from github or the play store\)
 
-* 
+## Telegram
+
+* We have 2 Telegram channels:
+
+  * Our group chat
+  * Our News/Update channel were we post important information regarding updates, upgrades, or server issues
+  * You can subscribe to our news channel to be notified of our latest updates
+
+* We know the Telegram requires a VPN, which is annoying when you need help when your VPN stopped working. So we provide a Telegram proxy that you can use even when the VPN doesn't work.
+
+  * Click [here ](https://t.me/socks?server=wannaflix.teacher2070.com&port=62000&user=wannaflix&pass=wannaflix.com)to add it now
+
+## Other Tools \(lesser known quick list\)
+
+* A [free seedbox!](https://wannaflix.com/torrenting.php)
+
+* All v2ray servers that do NOT natively unblock Netflix/Hulu/BBC iPlayer, etc. now unblock them by default
+  * If they natively unblock them, we keep the local version
+  * Otherwise, we default them to US Netflix
+  * All servers with "Netflix" in the name unblock the LOCAL version of Netflix, NOT US Netflix, though they will still unblock BBC iPlayer, etc. which only has 1 region.
+
 
 
 
