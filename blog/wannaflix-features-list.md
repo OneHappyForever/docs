@@ -81,8 +81,8 @@ But there are now so many of them that it's difficult to keep track of all of th
 
 * We have 2 Telegram channels:
 
-  * Our group chat
-  * Our News/Update channel were we post important information regarding updates, upgrades, or server issues
+  * Our [group chat](https://t.me/wannaflixvpn)
+  * Our [News/Update channel](https://t.me/wannaflix) were we post important information regarding updates, upgrades, or server issues
   * You can subscribe to our news channel to be notified of our latest updates
 
 * We know the Telegram requires a VPN, which is annoying when you need help when your VPN stopped working. So we provide a Telegram proxy that you can use even when the VPN doesn't work.
