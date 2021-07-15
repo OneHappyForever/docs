@@ -67,7 +67,7 @@ But there are now so many of them that it's difficult to keep track of all of th
 
 * Clash now has a new API! With this new API, you can:
 
-  * Website split-tunneling, meaning you can have Netflix go via server A, Chinese sites via server B, and all other sites via server C
+  * Do website split-tunneling, meaning you can have Netflix go via server A, Chinese sites via server B, and all other sites via server C
   * Block Ads
   * Automatically use the fastest server \(and switches when another one gets faster or the one you are using stops working\)
   * To get it, login to your dashboard, select your APP from the dropdown, and copy the "Full API"
