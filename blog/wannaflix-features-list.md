@@ -69,7 +69,7 @@ But there are now so many of them that it's difficult to keep track of all of th
 
   * Do website split-tunneling, meaning you can have Netflix go via server A, Chinese sites via server B, and all other sites via server C
   * Block Ads
-  * Automatically use the fastest server \(and switches when another one gets faster or the one you are using stops working\)
+  * Automatically use the fastest server \(switches when another one gets faster or the one you are using stops working\)
   * To get it, login to your dashboard, select your APP from the dropdown, and copy the "Full API"
   * This works on Clash for Windows, ClashX, Clash for Android,  MerlinClash, and OpenClash
   * It does NOT work on ClashR \(android\). Please switch to Clash for Android instead \(you can get it from github or the play store\)
