@@ -39,7 +39,7 @@ But there are now so many of them that it's difficult to keep track of all of th
 
 * You can purchase multiple subscriptions under one account \(useful for companies for example\)
 
-  * A dropdown menu will automatically appearing once you have more than 1 subscription so you can select the one you want to manage
+  * A dropdown menu will automatically appear once you have more than 1 subscription so you can select the one you want to manage
   * Each subscription has their own Eclipse/SmartDNS subscription too 
 
 * You can register as an affiliate and earn money when people sign up with your link
