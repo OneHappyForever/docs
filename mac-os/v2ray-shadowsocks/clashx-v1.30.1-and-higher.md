@@ -1,11 +1,11 @@
 # ClashX v1.30.1 and Higher \(Recommended\)
 
-Updated: ****October 11, 2020
+Updated: ****August 13, 2021
 
 {% hint style="danger" %}
 **IMPORTANT**
 
-**We will be dropping support for ClashX versions lower than 1.30.1 by August 20, 2020. Please update to the latest version now!**
+**We no longer support versions under 1.30.1**
 {% endhint %}
 
 ## Watch Tutorial Video:
@@ -19,13 +19,17 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 [Click here](https://wannaflix.com/dl.php?type=d&id=26) to download the app, then run to install. ****
 
 {% hint style="info" %}
-Version: 1.30.2
+Version: 1.65.1.1
 
-Released: September 6, 2020
+Released: August 13, 2021
+
+Native M1 Mac support
 {% endhint %}
 
 {% hint style="success" %}
 Alternative mirrors:
+
+Download via [App Center](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) \(ClashX PRO v1.65.1 and up\)
 
 Download on [Github](https://github.com/yichengchen/clashX/releases/download/1.20.0/ClashX.dmg) \(version 1.30.1 and up\)
 {% endhint %}

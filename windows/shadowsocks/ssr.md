@@ -2,8 +2,6 @@
 
 Updated: 11 October, 2020
 
-NOTE: This guide will no longer be updated as SSR is no longer under active development and the installation steps won't change anymore.
-
 {% hint style="info" %}
 We personally find that the Netch app is easier to use and fully supports ShadowsocksR. [See the guide here &gt;](../v2ray-shadowsocks/netch-1.md)
 {% endhint %}
