@@ -1,6 +1,6 @@
 # Which App to Choose?
 
-Updated: March 19, 2021
+Updated: August 13, 2021
 
 {% hint style="info" %}
 **GLOSSARY**
@@ -17,7 +17,7 @@ Recommendation: Netch or V2rayN for Xray. Netch or Clash for Shadowsocks. Netch 
 {% hint style="info" %}
 If you don't need to game with it, we personally find v2rayN easier to use. 
 
-Both Netch and V2rayN run on the same Xray-core, so either one will give you about the same speeds.
+Both Netch and V2rayN run on the same Xray-core, so both will give you about the same speeds.
 
 Clash... is always behind the curve when it comes to protocol support. But some prefer the UI and the ability to add their own split-tunneling rules.
 {% endhint %}
@@ -79,7 +79,7 @@ Clash... is always behind the curve when it comes to protocol support. But some 
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x1F7E7;</td>
-      <td style="text-align:center">&#x1F7E7;</td>
+      <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
@@ -205,7 +205,7 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;&#x1F7E7;</td>
+      <td style="text-align:center">&#x1F7E7;</td>
     </tr>
     <tr>
       <td style="text-align:left">Stability</td>
@@ -224,7 +224,7 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
     <tr>
       <td style="text-align:left">UDP</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;&#x1F7E8;</td>
+      <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
@@ -274,32 +274,32 @@ Recommendation: Shadowrocket. Only Shadowrocket.
 | v2ray | ✅ | ✅ | ❌ |
 | SSR | ✅ | ✅ | ❌ |
 | Eclipse | ❌ | ❌ | ✅ |
-| Ease of Use | ✅ | ✅🟨 | 🟨 |
-| Speed | ✅ | 🟨 | 🟨🟧 |
+| Ease of Use | ✅ | 🟨 | 🟨 |
+| Speed | ✅ | 🟨 | 🟧 |
 | Stability | ✅ | ✅ | 🟨 |
 | TCP | ✅ | ✅ | ✅ |
-| UDP | ✅ | ✅🟨 | ✅ |
+| UDP | ✅ | 🟨 | ✅ |
 | Netflix support | ✅ | ✅ | 🟧 |
 | Gaming | 🟨 | 🟨 | 🟧 |
 
 ## Android
 
-Recommendation: Latest V2rayNG with Xray. ClashR otherwise. Performance of all apps highly dependent on Phone type, Android version, and CPU.
+Recommendation: Latest AnXray. This app supports all our protocols except for OpenVPN. Performance of all apps highly dependent on Phone type, Android version, and CPU.
 
-|  | v2rayNG | ClashR | SSR | OpenVPN |
-| :--- | :---: | :---: | :---: | :---: |
-| Officially supported | ✅ | ✅ | ❌ | ✅ |
-| Xray | ✅ | ❌ | ❌ | ❌ |
-| v2ray | ✅ | ✅ | ❌ | ❌ |
-| SSR | ❌ | ✅ | ✅ | ❌ |
-| Eclipse | ❌ | ❌ | ❌ | ✅ |
-| Ease of Use | ✅ | ✅ | ✅ | 🟨 |
-| Speed | ✅ | ✅ | 🟨 | 🟨🟧 |
-| Stability | ✅ | ✅ | 🟨 | 🟨 |
-| TCP | ✅ | ✅ | ✅ | ✅ |
-| UDP | ✅ | ✅ | ✅ | ✅ |
-| Netflix support | ✅ | ✅ | 🟨 | 🟧 |
-| Gaming | 🟨 | 🟨 | 🟨 | 🟥 |
+|  | AnXray | v2rayNG | ClashR | SSR | OpenVPN |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Officially supported | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Xray | ✅ | ✅ | ❌ | ❌ | ❌ |
+| v2ray | ✅ | ✅ | ✅ | ❌ | ❌ |
+| SSR | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Eclipse | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Ease of Use | ✅ | ✅ | ✅ | ✅ | 🟨 |
+| Speed | ✅ | ✅ | ✅ | 🟨 | 🟧 |
+| Stability | ✅ | ✅ | ✅ | 🟨 | 🟨 |
+| TCP | ✅ | ✅ | ✅ | ✅ | ✅ |
+| UDP | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Netflix support | ✅ | ✅ | ✅ | 🟨 | 🟧 |
+| Gaming | ✅ | 🟨 | 🟨 | 🟨 | 🟥 |
 
 ## Linux
 
@@ -311,7 +311,7 @@ Recommendation: OpenWRT with Passwall installed. You can usually get one on taob
 
 Routers are NOT officially supported. Support provided on a best-effort basis.
 
-If you get a OpenWRT or Padavan router, it is **HIGHLY, HIGHLY** recommended to get it pre-installed. Installing it yourself is very complicated, if not impossible. We do not provide guides or support on how to install OpenWRT or Padavan due to the complexity.
+If you get a OpenWRT router, it is **HIGHLY, HIGHLY** recommended to get it pre-installed. Installing it yourself is very complicated, if not impossible. We do not provide guides or support on how to install OpenWRT due to the complexity.
 
 {% hint style="info" %}
 If you need a router, or have a router but need help installing OpenWRT with all the apps needed, many of our users have had a good experience with @OpenFirmware. You can contact him on telegram via our group chat \(mention him @OpenFirmware\) or by private message [here](https://t.me/OpenFirmware).
@@ -323,13 +323,11 @@ If you need a router, or have a router but need help installing OpenWRT with all
       <th style="text-align:left"></th>
       <th style="text-align:center">Merlin</th>
       <th style="text-align:center">OpenWRT</th>
-      <th style="text-align:center">Padavan</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">Officially supported</td>
-      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
     </tr>
@@ -341,11 +339,9 @@ If you need a router, or have a router but need help installing OpenWRT with all
         <p>Latest</p>
         <p>Passwall only</p>
       </td>
-      <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
       <td style="text-align:left">v2ray</td>
-      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
@@ -353,11 +349,9 @@ If you need a router, or have a router but need help installing OpenWRT with all
       <td style="text-align:left">SSR</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:left">Eclipse</td>
-      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
@@ -368,32 +362,24 @@ If you need a router, or have a router but need help installing OpenWRT with all
         <p><b>MUST </b>be</p>
         <p>pre-installed</p>
       </td>
-      <td style="text-align:center">
-        <p>&#x1F7E8;</p>
-        <p>Usually pre-installed</p>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">Ease of Use</td>
       <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
       <td style="text-align:left">Speed</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
       <td style="text-align:left">Stability</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
       <td style="text-align:left">TCP</td>
-      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
@@ -401,17 +387,14 @@ If you need a router, or have a router but need help installing OpenWRT with all
       <td style="text-align:left">UDP</td>
       <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
       <td style="text-align:left">Netflix support</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:left">Gaming</td>
-      <td style="text-align:center">?</td>
       <td style="text-align:center">?</td>
       <td style="text-align:center">?</td>
     </tr>

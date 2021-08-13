@@ -1,6 +1,6 @@
 # V2rayN
 
-Updated: March 9, 2021
+Updated: August 13, 2021
 
 Recommended environment:  Windows 10 
 

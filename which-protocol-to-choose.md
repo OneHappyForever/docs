@@ -1,6 +1,10 @@
 # Which Protocol to Choose?
 
 {% hint style="info" %}
+UPDATED on August 13, 2021 to reflect the latest Netflix unblocking information.
+
+-------
+
 This page has been updated on March 19, 2021, to reflect the changes brought by the new VLESS+XTLS protocol based on Xray-core.
 
 See the old page [here](archives/2021/which-protocol-to-choose-old.md).
@@ -12,7 +16,7 @@ Let's go through the main pros and cons of each protocol we offer.
 
 ## At a Glance...
 
-Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choice for Netflix, web-browsing, and streaming. If you don't have access to the new protocol \(mainly on Mac OS\), the old V2ray is good for Netflix, Shadowsocks for web-browsing and streaming, Eclipse for security and Video conferencing, and SmartDNS for Netflix unblocking on TVs and consoles.
+Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choice for web-browsing and streaming. If you don't have access to the new protocol \(mainly on Mac OS\), the old V2ray is the recommended option. We currently do not recommend Shadowsocks as it is based on an earlier version of the protocol. Choose Eclipse for security and video conferencing, and SmartDNS for Netflix unblocking on TVs and consoles \(SmartDNS only works with US Netflix\).
 
 <table>
   <thead>
@@ -75,7 +79,7 @@ Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choic
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
       <td style="text-align:left">Unblocks Netflix</td>
@@ -89,7 +93,10 @@ Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choic
         <p>&#x1F7E7;</p>
         <p>(US)</p>
       </td>
-      <td style="text-align:center">&#x2705;</td>
+      <td style="text-align:center">
+        <p>&#x2705;</p>
+        <p>(US)</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Web-browsing / Email</td>
@@ -125,11 +132,11 @@ Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choic
     </tr>
     <tr>
       <td style="text-align:left">Countries</td>
-      <td style="text-align:center">16</td>
-      <td style="text-align:center">16</td>
+      <td style="text-align:center">19</td>
+      <td style="text-align:center">19</td>
       <td style="text-align:center">6</td>
       <td style="text-align:center">6</td>
-      <td style="text-align:center">4</td>
+      <td style="text-align:center">1</td>
     </tr>
   </tbody>
 </table>
@@ -144,15 +151,15 @@ _Gaming:_ A measurement of how the protocol performs when gaming. Gaming usually
 
 ## Xray
 
-Xray is a fork of the v2ray protocol by a coder under the name of _rprx_ on github. The fork was created on November 9, 2020, and has quickly gained popularity over these past 6 months, passing 3,000 stars on it's github repository \(as of March 2021\). 
+Xray is a fork of the v2ray protocol by a coder under the name of _rprx_ on github. The fork was created on November 9, 2020, and has quickly gained popularity over these past year, passing 5,500 stars on it's github repository \(as of August 2021\). 
 
 The fork fixes several important issues with the original v2ray code, including enabling full UDP gaming support on the original VMESS protocol, optimization of the code \(about 30% faster than the original v2ray code\), and most importantly, the introduction of several new technologies, including the one we are currently using, XTLS.
 
-The only downside is that only a minority of apps have updated their software to support Xray, so you may need to update or switch to a different app to take advantage of this new technology. But trust me, it's worth it.
+The only downside is that only a minority of apps have updated their software to support Xray, so you may need to update or switch to a different app to take advantage of this new technology. But it's worth it.
 
 Most of our servers now run Xray by default. Xray is fully compatible with v2ray.
 
-Update: Xray currently has some compatibility issues with Whatsapp calls. If you need Whatsapp call support, please use v2ray instead, or add both APIs in and switch to the one you want based on your needs.
+Update: Xray currently has some compatibility issues with Whatsapp calls. If you need Whatsapp call support, please use the "WhatsApp" server.
 
 {% hint style="info" %}
 We HIGHLY recommend upgrading to Xray as soon as possible from v2ray and Shadowsocks.
