@@ -4,7 +4,7 @@ description: 'Time to complete the tutorial: 8 minutes'
 
 # Shadowrocket \(Recommended\)
 
-Updated: August 13, 2021
+Updated: March 17, 2020
 
 {% hint style="success" %}
 Shadowrocket now support the new VLESS+XTLS protocol. We HIGHLY recommend updating your APIs to the latest version 3.
