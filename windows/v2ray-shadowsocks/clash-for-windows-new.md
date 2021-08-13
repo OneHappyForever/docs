@@ -16,7 +16,7 @@ Clash for Windows **version 0.13.6 and up** supports both v2ray AND ShadowsocksR
 
 ## Download and install Clash
 
-[Click here](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.13.6/Clash.for.Windows.Setup.0.13.6.exe) to download the app. Once downloaded, double-click it to install.
+[Click here](https://wannaflix.com/dl.php?type=d&id=35) to download the app. Once downloaded, double-click it to install.
 
 {% hint style="info" %}
 Version: v0.17.1
