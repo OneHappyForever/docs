@@ -72,9 +72,9 @@ It may be a better option to try another streaming service other than Netflix. W
 NOTE: These recommendations are for the current situation. If Netflix updates it's algorithm again or if we find a way to unblock additional regions, these recommendations may change in the future.
 {% endhint %}
 
-The internet situation is constantly changing; what we can do is adapt. 
+The internet situation is constantly changing; but we can adapt. 
 
 We hope this post has clarified some things regarding the current Netflix situation, and what can be expected in the future. 
 
-If you have any questions, please feel free to let us know by ticket or on our telegram group chat. We're always here to help.
+If you have any questions, please feel free to let us know by ticket or in our telegram group chat. We're always here to help.
 

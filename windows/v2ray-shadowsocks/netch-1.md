@@ -1,6 +1,6 @@
 # Netch \(Recommended\)
 
-Updated: May 11, 2021
+Updated: August 13, 2021
 
 Netch supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software.
 
@@ -36,6 +36,8 @@ Alternative mirrors:
 Download on [Github](https://github.com/netchx/Netch/releases) 
 
 NOTE: The Github version is NOT setup to use our DNS, and the "Global" modes are named "Bypass LAN". **We recommend getting our pre-setup version above for ease of use.**
+
+**IMPORTANT: ONLY DOWNLOAD VERSION 1.8.1. Later versions have serious bugs.**
 {% endhint %}
 
 Find the Netch.zip file in your download folder. Unzip it \(right click &gt; Extract all... \). Then, open the unzipped folder. 
@@ -113,6 +115,14 @@ If you want to play games or use video-conferencing, please use the Global \(TUN
 {% endhint %}
 
 ## Troubleshooting
+
+### Cannot find Privoxy
+
+This means your antivirus has quarantined/blocked part of the app. Open your antivirus software, navigate to the quarantine/virus chest tab, and restore the privoxy.exe program to it's location. 
+
+You may want to add an exception to the folder as well so the antivirus doesn't block it again in the future.
+
+You can also re-download the app from our website to restore the entire program. This will require adding the API link back in.
 
 ### Problem connecting after upgrading Netch app
 

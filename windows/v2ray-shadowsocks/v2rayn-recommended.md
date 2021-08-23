@@ -1,6 +1,6 @@
 # V2rayN
 
-Updated: March 9, 2021
+Updated: August 13, 2021
 
 Recommended environment:  Windows 10 
 
@@ -30,7 +30,7 @@ We'll be releasing the new video tutorial soon
 
 [Video](https://watch.cloudflarestream.com/c52143e01e64eed9c6a109e38e3e3239)
 
-## Version 4.12 and up \(March 9, 2021
+## Version 4.12 and up \(March 9, 2021\)
 
 {% hint style="success" %}
 We HIGHLY recommend upgrading to this version. 

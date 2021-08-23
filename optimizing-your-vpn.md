@@ -5,7 +5,7 @@ description: Get the most out of your VPN subscription
 # Optimizing your connection
 
 {% hint style="info" %}
-This information is current as of October 15, 2020
+This information is current as of August 13, 2021
 {% endhint %}
 
 {% hint style="success" %}
@@ -22,9 +22,8 @@ China Telecom's international connections have been increasingly throttled over 
 
 Right now, almost no direct connections offer fast speeds. Please use \[CHINA\] servers for faster speeds.
 
+* **CHINA DAILY USAGE 1-4**
 * **All \[CHINA\] servers** 
-* Korea
-* US Los Angeles \(some locations\)
 
 #### China Unicom
 
@@ -32,20 +31,22 @@ China Unicom has the best international speeds of all 3 ISPs in China. Internati
 
 If you have a choice of ISPs, we suggest getting a China Unicom line rather than China Telecom. 
 
+* **CHINA DAILY USAGE 1,3,4**
 * **All \[CHINA\] servers**
 * Russia \(recommended for north of China, including Beijing\)
 * Germany \(some locations\)
 
 #### China Mobile
 
-China Mobile's recently supassed China Unicom in total number of users, but with much less total international bandwidth, speeds tend to slow down considerably in the evenings.
+China Mobile's recently surpassed China Unicom in total number of users, but with much less total international bandwidth, speeds tend to slow down considerably in the evenings.
 
 Try Germany, or else stick with the \[CHINA\] servers.
 
+* **CHINA DAILY USAGE 1-4**
 * **All \[CHINA\] servers**
-* Hong Kong 1 & 2 \(some locations\)
+* Hong Kong 2 \(some locations\)
+* Japan \(some locations\)
 * Germany \(some locations\)
-* Canada \(some locations\)
 
 #### Other ISPs in China\(GreatWall, etc.\)
 
@@ -53,6 +54,7 @@ These ISPs purchase international bandwidth from the big 3. Lines are oversold a
 
 Some locations may benefit from the \[CHINA\] servers special routing. If the \[CHINA\] servers don't give you any kind of speed, then you're left with only 1 option: finding a better ISP. 
 
+* **CHINA DAILY USAGE 3, 4**
 * All \[CHINA\] servers
 
 ### North America
@@ -122,6 +124,10 @@ If you are in South Africa, you can connect to our South African server as well.
 * Netherlands
 * UK
 * South Africa \(for South Africans only\)
+
+## Netflix
+
+Since August 2021, Netflix has been cracking down really hard on VPNs, so we've had to start using a different system to unblock it. Some servers may be faster than others, so if one is slow, try another in the target location.
 
 ## Recommendations
 
