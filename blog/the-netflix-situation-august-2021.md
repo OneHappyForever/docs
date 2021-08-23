@@ -36,7 +36,7 @@ However, Netflix has now changed it's blocking model from a blacklist to a dynam
 
 In fact, as mentioned before, it even blocks residential IPs of home users, which means VPNs can't even rely on truly residential IPs either \(i.e. running a server inside someone's home instead of in a datacenter\).
 
-In our opinion, it seems likely that Netflix is looking at a variety of factors, including how many connections are coming from a single IP.
+In our opinion, it seems likely that Netflix is looking at a variety of factors, including how many connections are coming from a single IP, whether the range is part of a datacenter IP range, etc.
 
 Now you can understand why even the largest VPNs with large teams and a lot of resources still have not found a solution.
 
@@ -55,16 +55,16 @@ This is what we have found:
 {% hint style="warning" %}
 You may have noticed that 2 of our main regions are now unable to unblock Netflix: UK and Korea.
 
-We know Korea is an important region for some of you Korean expats. We are still trying to find a solution, but to be perfectly honest: we are not very hopeful.
+We know Korea is an important region for some of you Korean expats. We are still trying to find a solution, but to be perfectly honest, we are not very hopeful.
 {% endhint %}
 
 ### Recommendations and looking ahead
 
 Here is what we recommend:
 
-If you are only interested in Japan, Hong Kong, or US Netflix, everything should be fine. Especially in the US, we can reliably unblock it right now.
+If you are only interested in Japan, Hong Kong, or US Netflix, everything should be fine. Especially for the US region, we can reliably unblock it right now.
 
-We are still working for Netflix's original shows, connecting to those regions will let you watch them in those languages \(Korean, etc.\). If you need to watch the other part of the catalog in those regions, and this is the only reason why you are using us, you may need to consider other options. Just one word of advice: almost all VPNs currently do not work with Korea or UK at the moment, so just be careful not to lose your time and money when searching for an alternative. 
+We are still working when watching Netflix's original shows. Connecting to those regions will let you watch them in those languages \(Korean, etc.\). If you need to watch the other part of the catalog in those regions, and this is the only reason why you are using us, you may need to consider other options. Just one word of advice: almost all VPNs currently do not work with Korea or UK at the moment, so just be careful not to lose your time and money when searching for an alternative. 
 
 It may be a better option to try another streaming service other than Netflix. We are still working just fine with all the other streaming providers like Hulu, Disney+, Amazon Prime, etc. Check that they have the shows you want in advance.
 
