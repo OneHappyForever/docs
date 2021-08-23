@@ -4,6 +4,10 @@
 
 Netflix has updated its algorithm. Most regions can no longer unblock Netflix reliably, but we continue to unblock US, Japan, and Hong Kong regions going forward without too much difficulty. 
 
+{% hint style="success" %}
+If you know someone who is having problems unblocking Netflix, feel free to let them know about WannaFlix's solution. :\)
+{% endhint %}
+
 NOTE: This does not affect any other streaming services like Hulu, Disney+, etc.
 
 ### Long version:
