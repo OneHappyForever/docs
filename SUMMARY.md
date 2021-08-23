@@ -131,6 +131,7 @@
   * [Updating the Server List](faq/updating-the-server-list.md)
   * [Alternative Apps + Downloads](faq/alternative-apps-+-downloads.md)
 * [BLOG](blog/README.md)
+  * [The Netflix Situation - August 2021](blog/the-netflix-situation-august-2021.md)
   * [WannaFlix Features List](blog/wannaflix-features-list.md)
   * [New Protocol!](blog/new-protocol.md)
   * [What's new in January 2021?](blog/whats-new-in-january-2021.md)
