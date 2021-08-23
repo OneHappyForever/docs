@@ -2,7 +2,7 @@
 
 ### TL;DR \(aka. short version\)
 
-Netflix has updated its algorithm. Most regions can no longer unblock Netflix reliably. We believe we will be able to unblock US, Japan, and Hong Kong regions going forward without too much difficulty. As for the other regions, we will continue to try to keep them unblocked, but we cannot provide any guarantees at this time.
+Netflix has updated its algorithm. Most regions can no longer unblock Netflix reliably. We believe we will be able to continue to unblock US, Japan, and Hong Kong regions going forward without too much difficulty. As for the other regions, we will continue to try to keep them unblocked, but we cannot provide any guarantees at this time.
 
 NOTE: This does not affect any other streaming services like Hulu, Disney+, etc.
 
