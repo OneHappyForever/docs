@@ -1,4 +1,4 @@
-# v2rayNG
+# v2rayNG \(NEW PROTOCOL\)
 
 Updated: March 9, 2021
 

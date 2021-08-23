@@ -10,18 +10,18 @@ Clash for Windows does NOT support the new VLESS+XTLS protocol. We recommend usi
 Clash for Windows is not officially supported but we provide this guide for those that may want to use it.
 {% endhint %}
 
-Updated: August 13, 2020
+Updated: 9 December, 2020
 
 Clash for Windows **version 0.13.6 and up** supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software. 
 
 ## Download and install Clash
 
-[Click here](https://wannaflix.com/dl.php?type=d&id=35) to download the app. Once downloaded, double-click it to install.
+[Click here](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.13.6/Clash.for.Windows.Setup.0.13.6.exe) to download the app. Once downloaded, double-click it to install.
 
 {% hint style="info" %}
-Version: v0.17.1
+Version: v0.13.6
 
-Released on: August 13, 2021
+Released on: December 4, 2020.
 {% endhint %}
 
 {% hint style="success" %}
@@ -69,7 +69,7 @@ Modes:
 
 Global - All websites go through WannaFlix
 
-Rule - Websites go to different servers based on pre-configured rule sets.
+Proxy - Chinese websites do NOT go through WannaFlix. All other websites do.
 {% endhint %}
 
 ### Connect
@@ -145,7 +145,7 @@ Windows Store apps don't go through Clash by default. You need to force them to 
 
 If it still doesn't work, make sure you've installed the TAP interface \(see above\).
 
-### Netflix/other website is using another server to connect instead of the one I selected.
+### Netflix/other website is using another server to connect instead of the one I selected
 
-You have probably selected "Rule" mode and the Netflix website is being redirected to another server based on the Netflix rule set. Select the server you want under "Netflix" in the server list.
+See [here](clash-for-windows-new.md#kill-all-connections-when-changing-server).
 
