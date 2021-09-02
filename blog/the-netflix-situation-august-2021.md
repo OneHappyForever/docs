@@ -1,8 +1,10 @@
 # The Netflix Situation - August 2021
 
+### Update: September 2, 2021
+
 ### TL;DR \(aka. short version\)
 
-Netflix has updated its algorithm. Most regions can no longer unblock Netflix reliably, but we continue to unblock US, Japan, and Hong Kong regions going forward without too much difficulty. 
+Netflix has updated its algorithm. Most regions can no longer unblock Netflix reliably, but we continue to unblock US, Japan, UK, and Hong Kong regions going forward without too much difficulty. 
 
 {% hint style="success" %}
 If you know someone who is having problems unblocking Netflix, feel free to let them know about WannaFlix's solution. :\)
@@ -24,24 +26,22 @@ This is why it took us 2-3 weeks before writing this post. We wanted to gather e
 
 This is what we have found:
 
-* We have several ways to unblock the US, Japan, and Hong Kong
-* It is no longer possible to guarantee with any degree of certainty the unblocking of Netflix in other regions
-* We may still be able to unblock these regions occasionally \(but we realize occasionally is probably not good enough as you need to be able to watch your shows when you want to, not hit-or-miss\): Germany, Taiwan, Canada
-* We currently have no reliable way to unblock UK and Korea Netflix
+* We have several ways to unblock the US, UK, Japan, and Hong Kong
+* It is not currently possible to guarantee the unblocking of Netflix in other regions
+* We may still be able to unblock these regions \(depending on how Netflix updates its algorithm going forward\): Germany, Taiwan, Canada
+* We currently have no reliable way to unblock Korea Netflix
 
 {% hint style="warning" %}
-You may have noticed that 2 of our main regions are now unable to unblock Netflix: UK and Korea.
-
-We know Korea is an important region for some of you Korean expats. We are still trying to find a solution, but to be perfectly honest, we are not very hopeful.
+We know Korea is an important region for some of you Korean expats. We are still trying to find a solution, but seeing how things are going, we are not very hopeful.
 {% endhint %}
 
 ### Recommendations and looking ahead
 
 Here is what we recommend:
 
-If you are only interested in Japan, Hong Kong, or US Netflix, everything should be fine. Especially for the US region, we can reliably unblock it right now.
+If you are only interested in Japan, Hong Kong, UK, or US Netflix, everything should be fine. Especially for the US region, we can reliably unblock it.
 
-We are still working when watching Netflix's original shows. Connecting to those regions will let you watch them in those languages \(Korean, etc.\). If you need to watch the other part of the catalog in those regions, and this is the only reason why you are using us, you may need to consider other options. Just one word of advice: almost no VPNs work with Korea or UK at the moment, so just be careful not to lose your time and money when searching for an alternative. 
+Our servers are still working for watching Netflix's original shows. Connecting to most regions will let you watch them in those languages \(Korean, etc.\). If you need to watch the other part of the catalog in those regions, and this is the only reason why you are using us, you may need to consider other options. Just one word of advice: almost no VPNs work with Korea at the moment, so just be careful not to lose your time and money when searching for an alternative. 
 
 For Korea, it may be a better option to try another streaming service other than Netflix. We are still working just fine with all the other streaming providers like Hulu, Disney+, Amazon Prime, etc. Check that they have the shows you want in advance.
 
