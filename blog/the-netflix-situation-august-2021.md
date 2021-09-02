@@ -1,6 +1,6 @@
 # The Netflix Situation - August 2021
 
-### Update: September 2, 2021
+### Updated: September 2, 2021
 
 ### TL;DR \(aka. short version\)
 
