@@ -1,4 +1,4 @@
-# ClashX v1.30.1 and Higher \(Recommended\)
+# ClashX v1.30.1 and Higher
 
 Updated: ****August 13, 2021
 
@@ -16,7 +16,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d&id=26) to download the app, then run to install. ****
+[Click here](https://wannaflix.com/dl.php?type=d&id=36) to download the app, then run to install. ****
 
 {% hint style="info" %}
 Version: 1.65.1.1

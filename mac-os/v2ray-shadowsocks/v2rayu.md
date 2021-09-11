@@ -1,27 +1,21 @@
-# V2rayU
+# V2rayU 3.2.0 and Higher \(Recommended\)
 
-Updated: October 11, 2020
+Updated: September 11, 2021
 
 {% hint style="info" %}
-If you want SSR support, please use the [ClashX app version 1.30.1 and higher](clashx-v1.30.1-and-higher.md) instead.
-{% endhint %}
+System requirements:
 
-{% hint style="warning" %}
-Older versions of v2rayU may stop working suddenly. Please regularly update your app by downloading the latest version here:
-
-[Version 2.3.1](https://wannaflix.com/dl.php?type=d&id=22) 
-
-Released on: August 13, 2020
+* MacOS 10.12+
 {% endhint %}
 
 ## Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d&id=22) to download the app, then run to install.
+[Click here](https://wannaflix.com/dl.php?type=d&id=39) to download the app, then run to install.
 
 {% hint style="success" %}
 Alternative mirrors:
 
-Download on [Github](https://github.com/yanue/V2rayU/releases/download/2.3.1/V2rayU.dmg) \(version 2.3.1\)
+Download on [Github](https://github.com/yanue/V2rayU/releases) \(download version 3.2.0 or later\)
 {% endhint %}
 
 If it is the first time using V2rayU, a pop up will appear saying that the app is from an unknown developer. You will need to allow this app to open.
@@ -36,7 +30,7 @@ If for some reason you cannot install the app or the app keeps crashing, please 
 
 1. Go to your [client area](https://wannaflix.net/clientarea.php) on our website. 
 2. Select "Mac OS" as your device.
-3. Choose"V2ray" as your VPN type.
+3. Choose"V2rayU" as your VPN type.
 4. Copy the link provided.
 5. After V2rayU is running, click the V2rayU icon \(Circle with a U/V in the middle\), and then click the subscribe button.  
 
@@ -79,7 +73,7 @@ This is because the port 1087 is already taken by another program on your Mac. Y
 
 ### The app suddenly stopped working. I can't connect to any servers.
 
-It is possible you are on an older version of v2rayU. Please download the latest version from your client area or from [this link](https://wannaflix.com/dl.php?type=d&id=22), and replace your old version with the new one.
+It is possible you are on an older version of v2rayU. Please download the latest version from your client area or from [this link](https://github.com/yanue/V2rayU/releases), and replace your old version with the new one.
 
 
 
