@@ -141,7 +141,9 @@ Clash... is always behind the curve when it comes to protocol support. But some 
 
 ## Mac OS
 
-Recommendation: Latest ClashX version \(at the very least, version 1.30.1 and up\). 
+Recommendation: Latest V2rayU version \(at least v3.2.0\) as it now supports our new protocol \(VLESS+XTLS\) 
+
+If you need SSR servers, then download the latest ClashX version \(at the very least, version 1.30.1 and up\). 
 
 {% hint style="info" %}
 ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, even if it is the only app that supports Xray.
@@ -153,7 +155,6 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
       <th style="text-align:left"></th>
       <th style="text-align:center">ClashX</th>
       <th style="text-align:center">V2rayU</th>
-      <th style="text-align:center">Qv2ray</th>
       <th style="text-align:center">Tunnelblick</th>
     </tr>
   </thead>
@@ -161,20 +162,17 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
     <tr>
       <td style="text-align:left">Officially supported</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
+      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:left">Xray</td>
-      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
       <td style="text-align:left">v2ray</td>
-      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x274C;</td>
@@ -184,11 +182,9 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
-      <td style="text-align:center">&#x274C;</td>
     </tr>
     <tr>
       <td style="text-align:left">Eclipse</td>
-      <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x274C;</td>
       <td style="text-align:center">&#x2705;</td>
@@ -197,19 +193,16 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
       <td style="text-align:left">Ease of Use</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E7;</td>
       <td style="text-align:center">&#x1F7E8;</td>
     </tr>
     <tr>
       <td style="text-align:left">Speed</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x1F7E7;</td>
     </tr>
     <tr>
       <td style="text-align:left">Stability</td>
-      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x1F7E8;</td>
@@ -219,12 +212,10 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
     </tr>
     <tr>
       <td style="text-align:left">UDP</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x1F7E8;</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
     </tr>
@@ -232,20 +223,12 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
       <td style="text-align:left">Netflix support</td>
       <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x2705;</td>
-      <td style="text-align:center">&#x2705;</td>
       <td style="text-align:center">&#x1F7E7;</td>
     </tr>
     <tr>
       <td style="text-align:left">Gaming</td>
       <td style="text-align:center">
-        <p>&#x1F7E8;</p>
-        <p>May</p>
-        <p>need</p>
-        <p>separate</p>
-        <p>software</p>
-      </td>
-      <td style="text-align:center">
-        <p>&#x1F7E7;</p>
+        <p>&#x2705;</p>
         <p>May</p>
         <p>need</p>
         <p>separate</p>

@@ -2,6 +2,10 @@
 
 Updated: September 11, 2021
 
+{% hint style="success" %}
+V2rayU 3.2.0+ now supports the new VLESS+XTLS protocol!
+{% endhint %}
+
 {% hint style="info" %}
 System requirements:
 
