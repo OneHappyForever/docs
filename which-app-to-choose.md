@@ -263,7 +263,7 @@ Recommendation: Shadowrocket. Only Shadowrocket.
 | TCP | ✅ | ✅ | ✅ |
 | UDP | ✅ | 🟨 | ✅ |
 | Netflix support | ✅ | ✅ | 🟧 |
-| Gaming | 🟨 | 🟨 | 🟧 |
+| Gaming | ✅ | 🟨 | 🟧 |
 
 ## Android
 
@@ -341,10 +341,7 @@ If you need a router, or have a router but need help installing OpenWRT with all
     <tr>
       <td style="text-align:left">Installation</td>
       <td style="text-align:center">&#x1F7E7;</td>
-      <td style="text-align:center">
-        <p><b>MUST </b>be</p>
-        <p>pre-installed</p>
-      </td>
+      <td style="text-align:center">pre-installed</td>
     </tr>
     <tr>
       <td style="text-align:left">Ease of Use</td>
