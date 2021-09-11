@@ -1,4 +1,4 @@
-# ClashR for Android \(Recommended\)
+# ClashR for Android
 
 Updated: October 11, 2020
 
