@@ -70,7 +70,7 @@ Please only purchase routers listed below
 
 &#x20;     ASUS routers: `RT-AC86U` `GT-AC5300` `RT-AX88U` `GT-AX11000`&#x20;
 
-&#x20;    Other routers: `NETGEAR RAX80` `TUF-AX3000`
+&#x20;    Other routers: `NETGEAR RAX80`&#x20;
 
 **Running Fancyss\_arm384:**
 
@@ -107,21 +107,22 @@ Find which version of Fancyss your router supports from the router list above.
 
 #### For **Fancyss\_hnd:**
 
-* [ASUS RT-AC86U merlin改版固件](http://koolshare.cn/thread-127878-1-1.html)
-* [ASUS RT-AC86U 官改固件](http://koolshare.cn/thread-139965-1-1.html)
-* [ASUS GT-AC5300 官改固件](http://koolshare.cn/thread-130902-1-1.html)
-* [ASUS RT-AX88U merlin改版固件](http://koolshare.cn/thread-158199-1-1.html)
-* [ASUS GT-AX11000 官改固件](http://koolshare.cn/thread-159465-1-1.html)
-* [NETGEAR RAX80 梅林改版固件](https://koolshare.cn/thread-177255-1-1.html)
-* [TUF-AX3000 官改固件](https://koolshare.cn/thread-179968-1-1.html)
+* [ASUS RT-AC86U merlin改版固件](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_386/RT-AC68U/)
+* [ASUS RT-AC86U 官改固件](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_386/RT-AC86U/)
+* [ASUS GT-AC5300 官改固件](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_386/RT-AC5300/)
+* [ASUS RT-AX88U merlin改版固件](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_386/RT-AX88U/)
+* [ASUS GT-AX11000 官改固件](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_386/GT-AX11000/)
+* [NETGEAR RAX80 梅林改版固件](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_386/Netgear/RAX80/)
+
+
 
 #### **For Fancyss\_arm384:**
 
-{% embed url="https://firmware.koolshare.cn/Koolshare_Merlin_New_Gen_384/" %}
+[https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_384/](https://fw.koolcenter.com/Koolshare\_RMerl\_New\_Gen\_384/)
 
 #### **For Fancyss\_arm:**
 
-{% embed url="https://firmware.koolshare.cn/Koolshare_Merlin_Legacy_380/" %}
+[https://fw.koolcenter.com/Koolshare\_Merlin\_Legacy\_380/](https://fw.koolcenter.com/Koolshare\_Merlin\_Legacy\_380/)
 
 {% hint style="info" %}
 For EA6200 router, download the latest 7.9.1 firmware [here](https://wannaflix.com/dl.php?type=d\&id=23).&#x20;

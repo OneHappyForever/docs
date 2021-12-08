@@ -1,6 +1,6 @@
 # ClashX v1.30.1 and Higher
 
-Updated: **** August 13, 2021
+Updated: ****August 13, 2021
 
 {% hint style="danger" %}
 **IMPORTANT**
@@ -16,7 +16,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d\&id=36) to download the app, then run to install. ****&#x20;
+[Click here](https://wannaflix.com/dl.php?type=d&id=36) to download the app, then run to install. ****
 
 {% hint style="info" %}
 Version: 1.65.1.1
@@ -29,16 +29,16 @@ Native M1 Mac support
 {% hint style="success" %}
 Alternative mirrors:
 
-Download via [App Center](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public) (ClashX PRO v1.65.1 and up)
+Download via [App Center](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) \(ClashX PRO v1.65.1 and up\)
 
-Download on [Github](https://github.com/yichengchen/clashX/releases/download/1.20.0/ClashX.dmg) (version 1.30.1 and up)
+Download on [Github](https://github.com/yichengchen/clashX/releases/download/1.20.0/ClashX.dmg) \(version 1.30.1 and up\)
 {% endhint %}
 
 If it is the first time using ClashX, a pop up will appear saying that the app is from an unknown developer. You need to allow this app to open.
 
 The first time ClashX runs, you will be prompted to install a plugin. This plugin is used to set up the system proxy, otherwise you will need to enter your administrator password each time you connect to the VPN. Click "Install" and macOS will prompt for the user password.
 
-![](<../../.gitbook/assets/27ea88123713c4a37330dadc0a60d44f (1).png>)
+![](../../.gitbook/assets/27ea88123713c4a37330dadc0a60d44f%20%281%29.png)
 
 ## Add the servers
 
@@ -49,11 +49,11 @@ The first time ClashX runs, you will be prompted to install a plugin. This plugi
 
 ### Paste the API
 
-1. After running ClashX, click the Clash icon (a kitten) on the menu bar, and then click “Config – Remote Config – "Manage" in the menu.
+1. After running ClashX, click the Clash icon \(a kitten\) on the menu bar, and then click “Config – Remote Config – "Manage" in the menu.
 
 ![](../../.gitbook/assets/screenshot-2020-08-26-at-10.47.30-pm.png)
 
-2\. A new window will open. Paste your Clash API link and click OK.
+2. A new window will open. Paste your Clash API link and click OK.
 
 If you have pasted the correct link and the network is properly connected to the Wannaflix API, you should see a success message.
 
@@ -61,11 +61,11 @@ If you have pasted the correct link and the network is properly connected to the
 
 ## Start the VPN
 
-1. Select Proxy Mode : (Global)
+1. Select Proxy Mode : \(Global\)
 2. Under GLOBAL, chose a server from the list
-3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix.&#x20;
+3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix. 
 
-You can select the server by clicking on Wannaflix and selecting a server from the list.&#x20;
+You can select the server by clicking on Wannaflix and selecting a server from the list. 
 
 {% hint style="info" %}
 We also recommend to check "Start at login" to automatically launch the ClashX application at boot time.
@@ -81,7 +81,7 @@ After updating from the old version of Clash to the new version, you may see the
 
 ![](../../.gitbook/assets/378125d64dc2b271c9b1cafc42fdd634.png)
 
-This is a known bug with the current version of clash. It's not related to the Wannaflix configuration API.&#x20;
+This is a known bug with the current version of clash. It's not related to the Wannaflix configuration API. 
 
 To solve this, click the ClashX icon in the status bar and select "Configure" - "Open Configuration Folder".
 
@@ -96,4 +96,6 @@ Then exit and restart the ClashX application.
 To be done...
 
 Please submit your issues to our telegram group chat. We will update this section with the most common issues.
+
+
 
