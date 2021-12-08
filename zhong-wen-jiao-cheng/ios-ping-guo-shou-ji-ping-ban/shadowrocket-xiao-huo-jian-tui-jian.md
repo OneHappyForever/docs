@@ -14,7 +14,7 @@ Shadowrocket 现在支持新的 VLESS+XTLS 协议。 我们强烈推荐你更新
 
 我们强烈建议您观看视频教程，在中国也可以直接观看本视频。
 
-\*\*\*\*[**视频**](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)
+****[**视频**](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)
 
 ## **软件下载**
 
@@ -69,12 +69,12 @@ API 链接应以 https://api.wannaflix.com/**apiv3.php**?type=**shadowrocket** �
 2. 如果是第一次设置本应用程序，它会要求您允许它在您的设备创建 VPN 配置文件。请您单击允许并输入您的 pin/touch ID/face ID。
 3. 否则，您将无法使用本应用程序。
 
-在服务器列表顶部，将“路由”更改为“代理“，以获得更好的稳定性  
+在服务器列表顶部，将“路由”更改为“代理“，以获得更好的稳定性\
 ****
 
 **Updating the App**
 
-**To update the app, simply log back in to our iTunes account and update it.** 
+**To update the app, simply log back in to our iTunes account and update it.**&#x20;
 
 **We recommend updating it once ever 6 months. If there is a major update that needs to be done earlier, we'll send you an email.**
 
@@ -87,4 +87,3 @@ API 链接应以 https://api.wannaflix.com/**apiv3.php**?type=**shadowrocket** �
 ## **故障排除**
 
 目前我们没有发现重大的问题，如果您在 iOS 上遇到任何问题，请联系我们。 如果我们发现经常出现的问题，我们会在这里解释解决方案。
-

@@ -1,6 +1,6 @@
 # V2rayN v2.50
 
-## Version 2.50 \(Nov 13, 2019\)
+## Version 2.50 (Nov 13, 2019)
 
 {% hint style="info" %}
 This is the old version of V2rayN. If you've downloaded it before the 11th of May 2020, chances are you are running this version.
@@ -8,7 +8,7 @@ This is the old version of V2rayN. If you've downloaded it before the 11th of Ma
 
 ### Watch Tutorial Video:
 
-We highly recommend watching the video tutorial. You can stream it in China too. 
+We highly recommend watching the video tutorial. You can stream it in China too.&#x20;
 
 {% hint style="info" %}
 **This is the old video tutorial for version 2.50**
@@ -20,7 +20,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 [Click here](https://github.com/2dust/v2rayN/releases/download/2.50/v2rayN.zip) to download the app. It will download it in .ZIP format.
 
-Find the V2rayN.zip file in your download folder. Unzip it \(right click &gt; Extract all... \). Then, open the unzipped folder. 
+Find the V2rayN.zip file in your download folder. Unzip it (right click > Extract all... ). Then, open the unzipped folder.&#x20;
 
 Double-click on the "V2rayN" file to install.
 
@@ -29,7 +29,7 @@ Double-click on the "V2rayN" file to install.
 If there's a pop-up, click "run".
 
 {% hint style="info" %}
-Once installed, you can find the app by searching for "v2rayN" in the search box next to the start menu. 
+Once installed, you can find the app by searching for "v2rayN" in the search box next to the start menu.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -51,25 +51,25 @@ The API link should start with https://api.wannaflix.com/apiv2.php?type=v2rayn
 
 #### Paste the api link into the app
 
-1. Open the app by double clicking on the v2rayN icon \(blue V\) in the tray on the bottom right corner of your screen.
+1. Open the app by double clicking on the v2rayN icon (blue V) in the tray on the bottom right corner of your screen.
 
 ![](../../.gitbook/assets/tempsnip.png)
 
 
 
-2. Go to "Subscription" &gt; "Subscription settings"
+2\. Go to "Subscription" > "Subscription settings"
 
-![](../../.gitbook/assets/v2rayn_sub.png)
+![](../../.gitbook/assets/v2rayn\_sub.png)
 
-3. Click "Add" on the bottom
+3\. Click "Add" on the bottom
 
-4. Paste the API link in the url box
+4\. Paste the API link in the url box
 
-5. Click OK
+5\. Click OK
 
-![](../../.gitbook/assets/v2rayn_apiapi%20%281%29.png)
+![](<../../.gitbook/assets/v2rayn\_apiapi (1).png>)
 
-6. Go to "Subscription" &gt; "Update Subscription"
+6\. Go to "Subscription" > "Update Subscription"
 
 ![](../../.gitbook/assets/v2rayngupdate.png)
 
@@ -83,13 +83,12 @@ The API link should start with https://api.wannaflix.com/apiv2.php?type=v2rayn
 
 ### Start the VPN
 
-Right click on the V2rayN icon in the tray \(bottom right\).
+Right click on the V2rayN icon in the tray (bottom right).
 
-Go to "Http Proxy" &gt; "Open Http proxy and automatically configure proxy server \(Global mode\)"
+Go to "Http Proxy" > "Open Http proxy and automatically configure proxy server (Global mode)"
 
 ![](../../.gitbook/assets/http.png)
 
 The v2ray icon should turn **red** when connected.
 
 ![](../../.gitbook/assets/red.png)
-
