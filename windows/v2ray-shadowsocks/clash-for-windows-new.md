@@ -12,22 +12,22 @@ Clash for Windows is not officially supported but we provide this guide for thos
 
 Updated: August 13, 2020
 
-Clash for Windows **version 0.13.6 and up** supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software. 
+Clash for Windows **version 0.13.6 and up** supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software.&#x20;
 
 ## Download and install Clash
 
-[Click here](https://wannaflix.com/dl.php?type=d&id=35) to download the app. Once downloaded, double-click it to install.
+[Click here](https://wannaflix.com/dl.php?type=d\&id=35) to download the app. Once downloaded, double-click it to install.
 
 {% hint style="info" %}
-Version: v0.17.1
+Version: v0.19.0
 
-Released on: August 13, 2021
+Released on: December 3, 2021
 {% endhint %}
 
 {% hint style="success" %}
 Alternative mirrors:
 
-Download on [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases) 
+Download on [Github](https://github.com/Fndroid/clash\_for\_windows\_pkg/releases)&#x20;
 {% endhint %}
 
 Once installed, you can find it on your desktop, or by doing a search for "Clash" in the windows search bar.
@@ -48,10 +48,10 @@ The app icon is a blue cat.
 2. Select "Clash for Windows" in the dropdown for Windows
 3. Click "Copy API"
 
-### Paste the API 
+### Paste the API&#x20;
 
-1. Open Clash by double-clicking on the app icon in the tray on the bottom right corner of your screen \(blue cat icon\)
-2. Go to "Profile" \(left-hand menu\)
+1. Open Clash by double-clicking on the app icon in the tray on the bottom right corner of your screen (blue cat icon)
+2. Go to "Profile" (left-hand menu)
 3. Paste the API in the "Download from URL" box and click "Download"
 
 Your server list has now been downloaded to the app.
@@ -60,8 +60,8 @@ Your server list has now been downloaded to the app.
 
 ### Select a server and mode
 
-1. Go to "Proxies" \(left-hand menu\)
-2. Select either Global mode or Proxy mode from the top \(see box below\)
+1. Go to "Proxies" (left-hand menu)
+2. Select either Global mode or Proxy mode from the top (see box below)
 3. Select a server from the list
 
 {% hint style="info" %}
@@ -84,12 +84,12 @@ To disconnect: Toggle the "System Proxy" switch again
 {% endhint %}
 
 {% hint style="danger" %}
-Make sure to **turn the "System Proxy" switch OFF before quiting the app** or you won't have any internet if you do so \(i.e. a kill-switch\).
+Make sure to **turn the "System Proxy" switch OFF before quiting the app** or you won't have any internet if you do so (i.e. a kill-switch).
 
 To fix it, restart the app and turn the "System Proxy" switch OFF and then quit the app.
 {% endhint %}
 
-## Additional Steps \[IMPORTANT\]
+## Additional Steps \[IMPORTANT]
 
 ### Install the TAP engine
 
@@ -99,7 +99,7 @@ If you want to play games with Clash or have all apps go through Clash, you need
 2. Click "Manage" next to "TAP Device"
 3. Click "Install"
 
-Now reconnect. 
+Now reconnect.&#x20;
 
 ### Windows Store apps
 
@@ -124,7 +124,7 @@ By default, old connections will not be redirected to the new server but will co
 
 This creates problems when you're switching servers to watch Netflix or if you need a specific IP address as the websites you've just visited will still be going through the old server.
 
-To kill all connections \(and therefore forcibly reconnect via the new server\), do this:
+To kill all connections (and therefore forcibly reconnect via the new server), do this:
 
 1. Go to "Settings"
 2. Scroll down to "Connections"
@@ -137,15 +137,14 @@ To be done.
 
 ### How can I play games with Clash for Windows?
 
-You need to install the TAP Device \(see [above](clash-for-windows-new.md#install-the-tap-engine)\), and connect to a server that supports UDP.
+You need to install the TAP Device (see [above](clash-for-windows-new.md#install-the-tap-engine)), and connect to a server that supports UDP.
 
 ### Spotify/OneDrive/Other app doesn't work
 
-Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper \(see [above](clash-for-windows-new.md#windows-store-apps)\).
+Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper (see [above](clash-for-windows-new.md#windows-store-apps)).
 
-If it still doesn't work, make sure you've installed the TAP interface \(see above\).
+If it still doesn't work, make sure you've installed the TAP interface (see above).
 
 ### Netflix/other website is using another server to connect instead of the one I selected.
 
 You have probably selected "Rule" mode and the Netflix website is being redirected to another server based on the Netflix rule set. Select the server you want under "Netflix" in the server list.
-
