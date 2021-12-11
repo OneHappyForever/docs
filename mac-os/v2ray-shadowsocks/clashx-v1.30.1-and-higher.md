@@ -8,6 +8,10 @@ Updated: December 10, 2021
 **We no longer support versions under 1.30.1**
 {% endhint %}
 
+{% hint style="warning" %}
+**If you have an M1 Mac, we recommend using** [**Shadowrocket**](shadowrocket-m1-macs-only.md) **instead.**
+{% endhint %}
+
 ## Watch Tutorial Video:
 
 We highly recommend watching the video tutorial. You can stream it in China too.
