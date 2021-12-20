@@ -126,3 +126,8 @@ The v2ray icon should turn **red** when connected.
 
 ![](../../.gitbook/assets/red.png)
 
+## Troubleshooting
+
+### Some apps don't work with V2rayN
+
+Some apps may need additional software to work with V2rayN, such as Signal. In this case, please install [Proxifier](../../installation-guides/windows/proxifier-4.05.md) and they will work.
