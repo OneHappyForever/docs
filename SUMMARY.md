@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [What's New](whats-new.md)
 * [Which Protocol to Choose?](which-protocol-to-choose.md)
 * [Which App to Choose?](which-app-to-choose.md)
 * [中文教程](zhong-wen-jiao-cheng/README.md)
@@ -146,7 +145,9 @@
   * [Routing](vip-servers/routing.md)
   * [FAQ](vip-servers/faq.md)
 * [Archives](archives/README.md)
+  * [2022](archives/2022.md)
   * [2021](archives/2021/README.md)
+    * [What's New](archives/2021/whats-new.md)
     * [Which Protocol to Choose? (old)](archives/2021/which-protocol-to-choose-old.md)
 * [WannaFlix Sub-sites and Tools](wannaflix-sub-sites-and-tools.md)
 * [Useful Websites](useful-websites.md)
