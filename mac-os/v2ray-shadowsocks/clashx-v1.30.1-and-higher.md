@@ -2,10 +2,10 @@
 
 Updated: December 10, 2021
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **IMPORTANT**
 
-**We no longer support versions under 1.30.1**
+**We no longer support versions under 1.30.1. Please update to the latest version if you are running a version older than 1.30.1.**
 {% endhint %}
 
 {% hint style="warning" %}
