@@ -37,6 +37,7 @@
     * [V2rayU 3.2.0 and Higher](mac-os/v2ray-shadowsocks/v2rayu.md)
   * [Shadowsocks](mac-os/shadowsocks/README.md)
     * [ClashX v1.30.1 and Above](mac-os/shadowsocks/clashx-v1.30.1-and-above.md)
+    * [Shadowrocket (M1 Macs ONLY) (Recommended)](mac-os/shadowsocks/shadowrocket-m1-macs-only-recommended.md)
   * [Eclipse (OpenVPN)](mac-os/eclipse-openvpn.md)
   * [SmartDNS](mac-os/smartdns.md)
   * [Troubleshooting](mac-os/troubleshooting.md)
