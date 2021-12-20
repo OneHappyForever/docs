@@ -93,7 +93,7 @@
 * [Old Installation Guides](installation-guides/README.md)
   * [Windows](installation-guides/windows/README.md)
     * [WannaFlix Official App (Recommended)](installation-guides/windows/wannaflix-official-app-recommended.md)
-    * [V2rayN v2.50](installation-guides/windows/v2rayn-v2.50.md)
+    * [V2rayN v3.18, v2.50](installation-guides/windows/v2rayn-v2.50.md)
     * [Clash For Windows (deprecated)](installation-guides/windows/clash-for-windows-1.md)
     * [Clash for Windows](installation-guides/windows/clash-for-windows.md)
     * [SSTap](installation-guides/windows/sstap.md)
