@@ -75,6 +75,10 @@ You can select the server by clicking on Wannaflix and selecting a server from t
 We also recommend to check "Start at login" to automatically launch the ClashX application at boot time.
 {% endhint %}
 
+{% hint style="success" %}
+If you are using ClashX **Pro**, you can enable "Enhanced Mode" in the dropdown menu for better stability (i.e. app support).
+{% endhint %}
+
 ![](../../.gitbook/assets/screenshot-2020-08-26-at-10.49.20-pm.png)
 
 ## If you already have ClashX
