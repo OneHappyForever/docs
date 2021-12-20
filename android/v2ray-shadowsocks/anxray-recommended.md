@@ -2,15 +2,11 @@
 description: 'Time to complete tutorial: 5 minutes'
 ---
 
-# AnXray
+# AnXray (Recommended)
 
 Updated: August 13, 2021
 
 AnXray supports Xray, V2ray, and SSR, works well with UDP and is a stable app. We now recommend this app for the latest Android OS.
-
-{% hint style="info" %}
-Some users have expereinced stability issues with this app. If that is your case, please use [V2rayNG](v2rayng-recommended.md) instead.
-{% endhint %}
 
 ## Download and install
 
