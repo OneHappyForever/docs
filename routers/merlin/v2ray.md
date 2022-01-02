@@ -1,5 +1,21 @@
 # V2ray
 
+## UPDATE \[IMPORTANT]
+
+For users who install FancySS before January 1, 2022:
+
+From **January 1, 2022** onward, v2ray will drop support for the legacy Vmess+MD5 protocol and will not force users to switch to Vmess+AEAD ciphers.&#x20;
+
+The official FancySS repository is over 2 years old, and does not support Vmess+AEAD. Therefore, if you have installed this version before, your router will most likely stop working. If that is the case for you, then you need to update your v2ray app.
+
+To fix this issue, **you’ll need to update your Merlin OS to the latest version** (Merlin Koolshare 380 X7.9.1), **and install the Shadowsocks.tar.gz file from this GitHub repository** (like you did when you first installed V2ray on your router).
+
+380 firmware:[ https://fw.koolcenter.com/Koolshare\_Merlin\_Legacy\_380/](https://fw.koolcenter.com/Koolshare\_Merlin\_Legacy\_380/)
+
+Latest V2ray-core: [https://github.com/cary-sas/v2ray\_bin](https://github.com/cary-sas/v2ray\_bin)
+
+If you are running a router that is incompatible with firmware 380, for example a router running firmware 384 or 386, you can install Merlin Clash instead: [https://mcreadme.gitbook.io/mc/](https://mcreadme.gitbook.io/mc/)
+
 ## Disclaimer
 
 {% hint style="danger" %}
