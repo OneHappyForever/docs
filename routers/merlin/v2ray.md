@@ -39,9 +39,13 @@ You'll need to **flash your router** with one of the firmwares in the links in t
 {% hint style="info" %}
 Additional resources:
 
-[FancySS Github](https://github.com/hq450/fancyss) - V2ray app repository, links to Merlin-Koolshare download locations
+[~~FancySS Github~~](https://github.com/hq450/fancyss) ~~- V2ray app repository, links to Merlin-Koolshare download locations \[OUTDATED, DOES NOT WORK]~~
 
-[Merlin-Koolshare kernels](https://firmware.koolshare.cn) - All available Merlin-Koolshare kernel downloads
+[V2ray\_bin Github](https://github.com/cary-sas/v2ray\_bin) - Latest v2ray app repository for Merlin Koolshare 380
+
+[Merlin Clash Docs ](https://mcreadme.gitbook.io/mc/)- Clash for Merlin, for those with Merlin Koolshare 384 and 286
+
+[Merlin-Koolshare kernels](https://fw.koolcenter.com) - All available Merlin-Koolshare kernel downloads
 {% endhint %}
 
 Alright! With that out of the way, let's get started!
@@ -55,7 +59,7 @@ Therefore, you'll need to get a router that can be flashed with Merlin-Koolshare
 {% hint style="info" %}
 #### Overview:
 
-1. Purchase a router that works with Merlin-koolshare
+1. Purchase a router that can run Merlin-koolshare
 2. Flash it with Merlin-Koolshare
 3. Download and install the FancySS app package
 {% endhint %}
@@ -156,17 +160,15 @@ Go to the corresponding page below and download the latest version of the shadow
 
 The file will have a version number. You'll need to **rename** it to just **shadowsocks.tar.gz**
 
-#### For **Fancyss\_hnd:**
+#### For Merlin Koolshare 380
 
-#### ****[**https://github.com/hq450/fancyss\_history\_package/tree/master/fancyss\_hnd**](https://github.com/hq450/fancyss\_history\_package/tree/master/fancyss\_hnd)****
+{% embed url="https://github.com/cary-sas/v2ray_bin/releases" %}
 
-#### **For Fancyss\_arm384:**
+#### For Merlin Koolshare 384/386
 
-#### ****[**https://github.com/hq450/fancyss\_history\_package/tree/master/fancyss\_arm384**](https://github.com/hq450/fancyss\_history\_package/tree/master/fancyss\_arm384)****
+Use Merlin Clash instead:
 
-#### **For Fancyss\_arm:**
-
-#### ****[**https://github.com/hq450/fancyss\_history\_package/tree/master/fancyss\_arm**](https://github.com/hq450/fancyss\_history\_package/tree/master/fancyss\_arm)****
+{% embed url="https://mcreadme.gitbook.io/mc" %}
 
 {% hint style="warning" %}
 **IMPORTANT**
@@ -174,7 +176,7 @@ The file will have a version number. You'll need to **rename** it to just **shad
 **Once downloaded, you have to rename the file to shadowsocks.tar.gz**
 {% endhint %}
 
-### Install FancySS on your router
+### Install Shadowsocks.tar.gz on your router
 
 1. Login to your router
 2. Go to "软件中心" on the left menu
@@ -205,6 +207,10 @@ See [https://hq450.github.io/fancyss/](https://hq450.github.io/fancyss/)
 2. Select "Router" > "Merlin" as your device type
 3. Choose "V2ray" as your VPN type
 4. Copy the api link provided
+
+{% hint style="info" %}
+If you are using Merlin Clash, get the Clash API from Clash for Windows in the Windows APIs on your dashboard
+{% endhint %}
 
 ### Add your servers <a href="#add-your-servers-1" id="add-your-servers-1"></a>
 
