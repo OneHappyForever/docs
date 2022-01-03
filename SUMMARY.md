@@ -132,6 +132,7 @@
   * [Updating the Server List](faq/updating-the-server-list.md)
   * [Alternative Apps + Downloads](faq/alternative-apps-+-downloads.md)
 * [BLOG](blog/README.md)
+  * [2022 Updates](blog/2022-updates.md)
   * [The Netflix Situation - August 2021](blog/the-netflix-situation-august-2021.md)
   * [WannaFlix Features List](blog/wannaflix-features-list.md)
   * [New Protocol!](blog/new-protocol.md)
