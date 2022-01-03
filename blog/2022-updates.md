@@ -40,7 +40,27 @@ You can now check your IP location on this page to make sure that you are indeed
 
 We only allow torrenting on servers marked "torrenting". However, you can use a seedbox and download the files via normal servers. We know seedboxes cost money, so we provide a free shared seedbox for those who want it. Access it [here](https://wannaflix.net/torrenting.php).
 
-##
+## Future plans
+
+### Get the VIP servers on the new protocol
+
+We've heard you and we're planing on adding VLESS+XLTS support for VIP servers within the next few weeks.
+
+### Send us your ideas
+
+We've already implemented most of what we wanted to do. If you have an idea on how to make the service better, please send us a message on our [telegram group](https://t.me/wannaflixvpn) (begin the message with \[NEW SUGGESTION]).
+
+\-------------------------------------------------------------------------------
+
+Well that's about it for today. I hope this update has helped you with any issues, and given you an idea of where we're headed!
+
+If you have any questions, or want to share your thoughts, feel free to talk to us via ticket or on our telegram group chat!
+
+Happy surfing!
+
+The WannaFlix Team
+
+
 
 
 
