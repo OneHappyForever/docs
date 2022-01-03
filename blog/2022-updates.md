@@ -58,6 +58,10 @@ We highly recommend all to join the group!
 
 We're planing on adding VLESS+XLTS support for VIP servers within the next few weeks.
 
+### Feedback form
+
+As we do every year, we're going to ask all who are willing to help us by giving us feedback on how to improve. We're finalizing the questions and will be sending the feedback form very soon via email and on the telegram group chat.&#x20;
+
 ### Send us your ideas
 
 We've already implemented most of what we wanted to do. If you have an idea on how to make the service better, please send us a message on our [telegram group](https://t.me/wannaflixvpn) (begin the message with \[NEW SUGGESTION]).
