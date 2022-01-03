@@ -60,7 +60,7 @@ We're planing on adding VLESS+XLTS support for VIP servers within the next few w
 
 ### Feedback form
 
-As we do every year, we're going to ask all who are willing to help us by giving us feedback on how to improve. We're finalizing the questions and will be sending the feedback form very soon via email and on the telegram group chat.&#x20;
+As we do every year, we're going to ask all who are willing to give us feedback on how to improve. We're finalizing the questions and will be sending the feedback form very soon via email and on the telegram group chat.&#x20;
 
 ### Send us your ideas
 
