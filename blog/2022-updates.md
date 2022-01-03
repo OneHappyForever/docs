@@ -1,6 +1,6 @@
 # 2022 Updates
 
-A new year has started, and with it new updates.&#x20;
+A new year has started, and with it comes new updates!&#x20;
 
 In this post, we will be going over some common issues and how to fix them, new updates that you may have missed, and what we are planing in the weeks ahead.
 
@@ -40,11 +40,23 @@ You can now check your IP location on this page to make sure that you are indeed
 
 We only allow torrenting on servers marked "torrenting". However, you can use a seedbox and download the files via normal servers. We know seedboxes cost money, so we provide a free shared seedbox for those who want it. Access it [here](https://wannaflix.net/torrenting.php).
 
+### Shadowrocket on M1 Macs
+
+In case you have an M1 Mac, you can now install Shadowrocket on your Mac from the App Store. Just search for Shadowrocket under "iOS Apps". If you have an M1 Mac, we highly recommend using Shadowrocket as it's stable and supports the latest protocol.
+
+### Telegram group
+
+This is more of a reminder for those who may be new to the service, but in case you didn't know, we have a group chat on Telegram! You can ask us questions, ask for help, and chat with hundreds of users just like you.&#x20;
+
+Also, we regularly post updates in the "pinned" messages at the top of the chat. You can stay updated with the latest news that way (especially if you're in China).
+
+We highly recommend all to join the group!
+
 ## Future plans
 
 ### Get the VIP servers on the new protocol
 
-We've heard you and we're planing on adding VLESS+XLTS support for VIP servers within the next few weeks.
+We're planing on adding VLESS+XLTS support for VIP servers within the next few weeks.
 
 ### Send us your ideas
 
