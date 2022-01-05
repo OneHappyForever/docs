@@ -10,6 +10,10 @@ All right! Let's get started.
 
 ## How to resolve recent issues
 
+### Some of my apps stopped working since January 1, 2022
+
+Your apps are out of date. This only affects the old protocol. You need to download the latest version from our dashboard and it will work again.&#x20;
+
 ### My router has stopped working since January 1, 2022
 
 This issue affects Merlin routers only. This is happening because your v2ray app is out of date. To fix it, please follow the steps on [this page](../routers/merlin/v2ray.md#update-important) (basically, update your firmware, and install a new version of the v2ray app).
