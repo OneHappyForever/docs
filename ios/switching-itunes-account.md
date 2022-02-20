@@ -36,7 +36,31 @@ Do **NOT** go to your Settings app. You must go to the App Store to log out.
 
 &#x20;    You can find our iTunes account details in your client area dashboard, under iOS Setup > Shadowrocket > Download
 
-#### 8. If a "Apple ID Security" popup appears, click on "other options" at the bottom. A new window will appear. Select "Do not upgrade".
+#### 8. When the "Two-Factor Authentication" popup appears, **Apple will send a code to the phone number linked to that account.**
+
+![](../.gitbook/assets/IMG\_0104.PNG)
+
+&#x20;**IMPORTANT: Apple will a send a code when you login.** You can find that link in your client area dashboard, under iOS Setup > Shadowrocket > Download
+
+<details>
+
+<summary><mark style="color:red;">WHAT IF NO CODE WAS RECEIVED ON THE "App Store login helper" PAGE?</mark></summary>
+
+If no code was sent to the "App Store login helper", then it may have been sent to another device that is logged into the same account.&#x20;
+
+**How to fix it :**&#x20;
+
+* When the "Two-Factor Authentication" popup appears, hit the **"Didn't get a verification code"**(The blue text, if in Chinese) &#x20;
+
+<!---->
+
+* Then hit "Send to phone number".
+
+<!---->
+
+* Once sent, you can refresh the  "App Store login helper" page to get the code.
+
+</details>
 
 Congratulations! You're now logged in. You can now use the new ID to download our recommended apps.&#x20;
 
