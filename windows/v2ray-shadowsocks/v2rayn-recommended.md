@@ -40,7 +40,7 @@ The new version uses the faster Xray-core instead of V2ray-core, and supports th
 
 ### Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d\&id=21) to download the app. It will download it in .ZIP format.
+[Click here](https://get.wannaflix.link/7c9303) to download the app. It will download it in .ZIP format.
 
 {% hint style="success" %}
 Alternative mirrors:
