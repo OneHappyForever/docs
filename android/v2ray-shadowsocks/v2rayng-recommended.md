@@ -1,4 +1,4 @@
-# v2rayNG
+# v2rayNG (Recommended)
 
 Updated: March 9, 2021
 
@@ -20,29 +20,31 @@ You need to download the correct installation file for your Android CPU architec
 
 We would suggest trying the 64-bit file first. If it doesn't work, please try the 32-bit file instead:
 
-[V2rayNG 64-bit \(v1.5.16\)](https://wannaflix.com/dl.php?type=d&id=31)
+[V2rayNG 64-bit (v1.6.30)](https://get.wannaflix.link/035c45)
 
-[V2rayNG 32-bit \(v1.5.16\)](https://wannaflix.com/dl.php?type=d&id=32)
+[V2rayNG 32-bit (v1.6.30)](https://get.wannaflix.link/639b6d)
 
 {% hint style="info" %}
-Neither apps above work? Try one of these versions: 
+Neither apps above work? Try one of these versions:&#x20;
 
-[https://github.com/2dust/v2rayNG/releases/download/1.5.16/v2rayNG\_1.5.16\_x86.apk](https://github.com/2dust/v2rayNG/releases/download/1.5.16/v2rayNG_1.5.16_x86.apk)
+[https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG\_1.6.30\_arm64-v8a.apk](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG\_1.6.30\_arm64-v8a.apk)
 
-[https://github.com/2dust/v2rayNG/releases/download/1.5.16/v2rayNG\_1.5.16\_x86\_64.apk](https://github.com/2dust/v2rayNG/releases/download/1.5.16/v2rayNG_1.5.16_x86_64.apk)
+[https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG\_1.6.30\_x86.apk](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG\_1.6.30\_x86.apk)
+
+[https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG\_1.6.30\_x86\_64.apk](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG\_1.6.30\_x86\_64.apk)
 {% endhint %}
 
 {% hint style="success" %}
 Alternative mirrors:
 
-Download on [Github](https://github.com/2dust/v2rayNG/releases) \(latest version, v1.5.16+\)
+Download on [Github](https://github.com/2dust/v2rayNG/releases) (latest version, v1.6.30+)
 {% endhint %}
 
-1. Find the apk \(likely in your downloads\) and click on it to launch the installation. Make sure to click allow on any popup that may appear.
+1. Find the apk (likely in your downloads) and click on it to launch the installation. Make sure to click allow on any popup that may appear.
 2. Once the app has installed, click "open"
 
 {% hint style="info" %}
-You may need to allow apps from "Unknown Sources" on your phone for the installation to complete. 
+You may need to allow apps from "Unknown Sources" on your phone for the installation to complete.&#x20;
 {% endhint %}
 
 ## Add the servers
@@ -50,15 +52,15 @@ You may need to allow apps from "Unknown Sources" on your phone for the installa
 ### Get the api link
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php) dashboard
-2. Under "Android", select "V2rayNG \(v1.5.16\)"
+2. Under "Android", select "V2rayNG (v1.5.16)"
 3. Click on the "Copy API" button to copy the API
 
 ### Paste the api link into the app
 
-1. Open the app 
+1. Open the app&#x20;
 2. Open the menu on the left
 3. Go to "Subscription Setting"
-4. Click on the plus \(+\) button on the top right
+4. Click on the plus (+) button on the top right
 5. Type "Wannaflix" in the remarks box
 6. Paste the api link into the 'url' box and click "Save"
 7. Go back to the main page by clicking on the back button
@@ -71,9 +73,8 @@ You can watch the step-by-step video tutorial above as well
 
 ## Select a server
 
-Go to the server list, scroll down and select a server 
+Go to the server list, scroll down and select a server&#x20;
 
 ## Start the VPN
 
 Click on the start button on the bottom right to connect. If there's a popup, click "yes".
-

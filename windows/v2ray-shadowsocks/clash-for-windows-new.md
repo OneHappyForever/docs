@@ -16,12 +16,12 @@ Clash for Windows **version 0.13.6 and up** supports both v2ray AND ShadowsocksR
 
 ## Download and install Clash
 
-[Click here](https://get.wannaflix.link/1bae24) to download the app. Once downloaded, double-click it to install.
+[Click here](https://wannaflix.com/dl.php?type=d\&id=35) to download the app. Once downloaded, double-click it to install.
 
 {% hint style="info" %}
-Version: v0.19.12
+Version: v0.19.0
 
-Released on: March 11, 2022
+Released on: December 3, 2021
 {% endhint %}
 
 {% hint style="success" %}

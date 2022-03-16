@@ -20,12 +20,12 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d\&id=36) to download the app, then run to install. ****&#x20;
+[Click here](https://get.wannaflix.link/9dc323) to download the app, then run to install. ****&#x20;
 
 {% hint style="info" %}
-Version: 1.72.0
+Version: 1.90.1.1
 
-Released: 3, 2021
+Released: January 22, 2022
 
 Native M1 Mac support
 {% endhint %}
