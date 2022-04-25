@@ -16,7 +16,7 @@ So the second way is to do the exact same thing, except we first send the traffi
 
 In previous years, it was our servers abroad that were vulnerable to getting blocked. However, with current protocols, we can effectively evade this kind of censorship. Therefore, it is not a protocol problem.&#x20;
 
-What has been affecting us these past few weeks is blocking of our middle servers in China. This week for example, our servers in China were completely blocked from accessing any website or IP outside of China. This means our middle servers can no longer forward traffic to our end servers, and all CHINA servers went offline.
+What has been affecting us these past few weeks is blocking of our middle servers in China. This week for example, our servers in China were completely blocked from accessing any website or IP outside of China. This means our middle servers can no longer forward traffic to our end servers, and most of our CHINA servers went offline.
 
 ### How WannaFlix adapts
 
