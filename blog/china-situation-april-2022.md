@@ -29,6 +29,8 @@ These tweaks require us to only proxy TLS traffic. Therefore, we need to push th
 
 These changes only require you to update your server list. See [this page.](../faq/updating-the-server-list.md)
 
+All current apps will continue to work, with the exception of v2rayU for Mac. As of April 25, 2022, we no longer support v2rayU. Please download and use ClashX instead.
+
 As for protocols that don't support TLS, we have setup a different middle server system. This requires the following changes:
 
 * SSR will be changed to SS, and the ports will be moved from 600-607 to 40600-40607
@@ -36,7 +38,19 @@ As for protocols that don't support TLS, we have setup a different middle server
 
 SSR changes will only require you to update your server list if you have the API. If you have manually added them into your apps, or if you are running MERLIN routers, you will need to manually add the servers in (MERLIN does not support SS APIs).
 
-The OpenVPN update will require you to re-downlaod the config files. We will announce when you can do so in our telegram group chat (go to your dashboard, and scroll down to the bottom to see it).
+The OpenVPN update will require you to re-download the config files. We will announce when you can do so in our telegram group chat (go to your dashboard, and scroll down to the bottom to see it).&#x20;
+
+### Final words
+
+We know it can be frustrating dealing with the internet in China sometimes, and we thank you again for your conitued support.
+
+Please be assured that the entire team is working hard to make sure you get the best possible internet experience.&#x20;
+
+If you have any questions or need help with the changes, please contact us on [our telegram group chat](https://t.me/wannaflixvpn), or via ticket.
+
+Happy surfing!
+
+The WannaFlix Team
 
 
 
