@@ -42,7 +42,7 @@ The OpenVPN update will require you to re-download the config files. We will ann
 
 ### Final words
 
-We know it can be frustrating dealing with the internet in China sometimes, and we thank you again for your conitued support.
+We know it can be frustrating dealing with the internet in China at times, and we thank you again for your conitued support.
 
 Please be assured that the entire team is working hard to make sure you get the best possible internet experience.&#x20;
 
@@ -51,14 +51,3 @@ If you have any questions or need help with the changes, please contact us on [o
 Happy surfing!
 
 The WannaFlix Team
-
-
-
-
-
-
-
-
-
-
-
