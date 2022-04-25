@@ -29,7 +29,7 @@ These tweaks require us to only proxy TLS traffic. Therefore, we need to push th
 
 These changes only require you to update your server list. See [this page.](../faq/updating-the-server-list.md)
 
-All current apps will continue to work, with the exception of v2rayU for Mac. As of April 25, 2022, we no longer support v2rayU. Please download and use ClashX instead.
+**NOTE:** All current apps will continue to work, with the exception of v2rayU for Mac. As of April 25, 2022, we no longer support v2rayU. Please download and use ClashX instead.
 
 As for protocols that don't support TLS, we have setup a different middle server system. This requires the following changes:
 
