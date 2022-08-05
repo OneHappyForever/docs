@@ -1,6 +1,6 @@
 # ClashX v1.30.1 and Higher
 
-Updated: December 10, 2021
+Updated: August 5, 2022
 
 {% hint style="info" %}
 **IMPORTANT**
@@ -23,9 +23,9 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 [Click here](https://get.wannaflix.link/9dc323) to download the app, then run to install. ****&#x20;
 
 {% hint style="info" %}
-Version: 1.90.1.1
+Version: 1.95.0.1
 
-Released: January 22, 2022
+Released: July 13, 2022
 
 Native M1 Mac support
 {% endhint %}
@@ -49,11 +49,12 @@ The first time ClashX runs, you will be prompted to install a plugin. This plugi
 ### Get the api link
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php) dashboard
-2. Under the "API LINKS" box, click "Mac OS ClashX" to copy the API
+2. Click on the dropdown menu under "Setup for Mac OS" and select ClashX for MacOS
+3. Click "Copy full API" to copy the API to your Clipboard
 
 ### Paste the API
 
-1. After running ClashX, click the Clash icon (a kitten) on the menu bar, and then click “Config – Remote Config – "Manage" in the menu.
+1. After running ClashX, click the Clash icon (a kitten) on the menu bar, and then click Config > Remote Config > Manage in the menu.
 
 ![](../../.gitbook/assets/screenshot-2020-08-26-at-10.47.30-pm.png)
 
