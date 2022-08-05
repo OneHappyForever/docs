@@ -1,9 +1,17 @@
 # V2rayU 3.2.0 and Higher
 
-Updated: December 11, 2021
+Updated: August 5, 2022
 
 {% hint style="danger" %}
-IMPORTANT: v2rayU is extremely unstable on M1 Macs. If you have M1, please use [Shadowrocket](shadowrocket-m1-macs-only.md) instead. Shadowrocket supports the new VLESS+XTLS protocol as well.
+**THIS APP IS NO LONGER SUPPORTED!**
+
+**THIS APP IS NO LONGER SUPPORTED!**
+
+**THIS APP IS NO LONGER SUPPORTED!**
+{% endhint %}
+
+{% hint style="danger" %}
+IMPORTANT: v2rayU is extremely unstable on M1 Macs. If you have M1, please use [Shadowrocket](../../mac-os/v2ray-shadowsocks/shadowrocket-m1-macs-only.md) instead. Shadowrocket supports the new VLESS+XTLS protocol as well.
 {% endhint %}
 
 {% hint style="success" %}
@@ -29,7 +37,7 @@ Download on [Github](https://github.com/yanue/V2rayU/releases) (download version
 If it is the first time using V2rayU, a pop up will appear saying that the app is from an unknown developer. You will need to allow this app to open.
 
 {% hint style="warning" %}
-If for some reason you cannot install the app or the app keeps crashing, please download [ClashX version 1.30.1 and higher](clashx-v1.30.1-and-higher.md) instead.
+If for some reason you cannot install the app or the app keeps crashing, please download [ClashX version 1.30.1 and higher](../../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md) instead.
 {% endhint %}
 
 ## Add the servers
