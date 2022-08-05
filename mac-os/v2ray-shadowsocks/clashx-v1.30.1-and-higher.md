@@ -20,7 +20,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install
 
-[Click here](https://get.wannaflix.link/9dc323) to download the app, then run to install. ****&#x20;
+[Click here](https://wannaflix.com/dl.php?type=d\&id=41) to download the app, then run to install. ****&#x20;
 
 {% hint style="info" %}
 Version: 1.95.0.1
@@ -42,7 +42,7 @@ If it is the first time using ClashX, a pop up will appear saying that the app i
 
 The first time ClashX runs, you will be prompted to install a plugin. This plugin is used to set up the system proxy, otherwise you will need to enter your administrator password each time you connect to the VPN. Click "Install" and macOS will prompt for the user password.
 
-![](<../../.gitbook/assets/27ea88123713c4a37330dadc0a60d44f (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 6.32.51 PM.png>)
 
 ## Add the servers
 
@@ -56,13 +56,25 @@ The first time ClashX runs, you will be prompted to install a plugin. This plugi
 
 1. After running ClashX, click the Clash icon (a kitten) on the menu bar, and then click Config > Remote Config > Manage in the menu.
 
-![](../../.gitbook/assets/screenshot-2020-08-26-at-10.47.30-pm.png)
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.04.24 PM.png>)
 
-2\. A new window will open. Paste your Clash API link and click OK.
+2\. A new window will open. Click "Add", paste your Clash API link and click OK.
+
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.00.15 PM.png>) ![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.02.22 PM.png>)
 
 If you have pasted the correct link and the network is properly connected to the Wannaflix API, you should see a success message.
 
 ![](../../.gitbook/assets/5d5c4570d5f092b49ab5137e92550bdc.png)
+
+{% hint style="info" %}
+If you do not see this message, check that you have an internet connection and an active subscription.&#x20;
+
+You can also try to manually update it by going to Config > remote config> update
+{% endhint %}
+
+{% hint style="success" %}
+**RECCOMENDATION:** Set the subscription to auto update by going to Config > remote config > auto update
+{% endhint %}
 
 ## Start the VPN
 
@@ -70,7 +82,9 @@ If you have pasted the correct link and the network is properly connected to the
 2. Under GLOBAL, chose a server from the list
 3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix.&#x20;
 
-You can select the server by clicking on Wannaflix and selecting a server from the list.&#x20;
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.12.32 PM.png>)
+
+You can select the server by clicking on Global and selecting a server from the list.&#x20;
 
 {% hint style="info" %}
 We also recommend to check "Start at login" to automatically launch the ClashX application at boot time.
@@ -79,8 +93,6 @@ We also recommend to check "Start at login" to automatically launch the ClashX a
 {% hint style="success" %}
 If you are using ClashX **Pro**, you can enable "Enhanced Mode" in the dropdown menu for better stability (i.e. app support).
 {% endhint %}
-
-![](../../.gitbook/assets/screenshot-2020-08-26-at-10.49.20-pm.png)
 
 ## If you already have ClashX
 

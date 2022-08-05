@@ -20,7 +20,7 @@
 
 ## Website still blocked&#x20;
 
-* Check that you are connected to the VPN (go to [ipx.ac](https://ipx.ac) to check your IP address)
+* Check that you are connected to the VPN (go to [ipx.ac](https://ipx.ac/) to check your IP address)
 * If you are using the SmartDNS and a website doesn't work, please open a [support ticket](https://wannaflix.com/submitticket.php?step=2\&deptid=1).
 
 {% hint style="info" %}
@@ -38,7 +38,7 @@ There may be 2 reasons why Netflix doesn't work. (1) The Netflix app itself, and
    * The Netflix front page and recommended movies no longer changes when switching regions. If movies do play but you believe your region still hasn't changed, try searching for a movie that is in the region you connected to. \
      Alternatively, you can create a new user profile in the Netflix app. Since you are currently connected to that region, the movie list will update to the region you're currently connected to (as it's a brand new profile).
 2. Your VPN settings:
-   * Check that you are connected to the VPN (go to [ipx.ac](https://ipx.ac) to check your IP address)
+   * Check that you are connected to the VPN (go to [ipx.ac](https://ipx.ac/) to check your IP address)
    * If you are using the SmartDNS and a website doesn't work, please open a [support ticket](https://wannaflix.com/submitticket.php?step=2\&deptid=1).
 
 P.S. Make sure that the region you are trying to access is actually supported. We only support US, UK, Canada, Germany, Korea, Japan, Hong Kong, and Singapore Netflix.

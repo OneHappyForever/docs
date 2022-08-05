@@ -22,7 +22,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install Netch
 
-[Click here](https://wannaflix.net/dl.php?type=d\&id=24) to download the app. It will download it in .ZIP format.
+[Click here](https://get.wannaflix.link/d2178f) to download the app. It will download it in .ZIP format.
 
 {% hint style="info" %}
 Version: v1.8.1

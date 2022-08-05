@@ -206,7 +206,7 @@ Use Merlin Clash instead:
 If you get an error message saying that the package is not allowed to be installed, you need to remove the restriction.
 
 1. Enable SSH in Administration > System
-2. SSH into your router (you can use [putty ](https://www.putty.org)on windows, or terminal on Mac) and run the following command:
+2. SSH into your router (you can use [putty ](https://www.putty.org/)on windows, or terminal on Mac) and run the following command:
 
 sed -i 's/\tdetect\_package/\t# detect\_package/g' /koolshare/scripts/ks\_tat\_install.sh
 
