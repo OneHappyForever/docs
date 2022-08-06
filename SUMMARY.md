@@ -20,7 +20,7 @@
 * [Windows](windows/README.md)
   * [V2ray](windows/v2ray-shadowsocks/README.md)
     * [V2rayN (Recommended)](windows/v2ray-shadowsocks/v2rayn-recommended.md)
-    * [Netch](windows/v2ray-shadowsocks/netch-1.md)
+    * [Netch (Deprecated)](windows/v2ray-shadowsocks/netch-1.md)
     * [Clash For Windows](windows/v2ray-shadowsocks/clash-for-windows-new.md)
   * [Shadowsocks](windows/shadowsocks/README.md)
     * [Netch (Recommended)](windows/shadowsocks/netch.md)

@@ -1,6 +1,16 @@
-# Netch (Recommended)
+# Netch (Deprecated)
 
-Updated: August 13, 2021
+Updated: August 5, 2022
+
+{% hint style="danger" %}
+**IMPORTANT: Netch is no longer updated and is now deprecated. Please use** [**V2rayN**](v2rayn-recommended.md) **instead.**
+{% endhint %}
+
+
+
+
+
+
 
 Netch supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software.
 
