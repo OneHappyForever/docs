@@ -174,3 +174,9 @@ See [https://hq450.github.io/fancyss/](https://hq450.github.io/fancyss/)
 {% endhint %}
 
 ## To be continued... <a href="#add-your-servers" id="add-your-servers"></a>
+
+We will be completing the page shortly.
+
+For those who want to try the rest, basically all that's left if copying the basic Clash api from Clash for Windows into the Merlin Clash app, then go to the main tab in the Merlin Clash app and click on "YACD" to open the graphical user interface and select your server.
+
+We will be adding detailed instructions very soon.
