@@ -66,6 +66,7 @@
     * [Qv2ray](linux/v2ray/qv2ray.md)
 * [Routers](routers/README.md)
   * [Merlin](routers/merlin/README.md)
+    * [MerlinClash](routers/merlin/merlinclash.md)
     * [V2ray](routers/merlin/v2ray.md)
   * [OpenWRT](routers/openwrt/README.md)
     * [OpenClash](routers/openwrt/openclash.md)
