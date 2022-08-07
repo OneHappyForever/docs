@@ -149,3 +149,28 @@ Then find the latest file for your router. You will need to know the CPU type of
 
 **Once downloaded, you have to rename the file to merlinclash.tar.gz**
 {% endhint %}
+
+### Install **merlinclash**.tar.gz on your router
+
+1. Login to your router
+2. Go to "软件中心" on the left menu
+3. Click on the "离线安装" tab at the top (see picture)
+4. Click on "Choose File" and select the \[shadowsocks.tar.gz] file you downloaded in step 1
+5. Click on "上传并安装"
+
+![](https://gblobscdn.gitbook.com/assets%2F-Lc04095R6CkPoB8xaCl%2F-Lc4kF0Z2i5WU51BNVBu%2F-Lc4llOuwDXNwqOVdoa2%2Fmerlin-installSSR.png?alt=media\&token=a3ee4696-a055-4762-bbb6-5e7362ccd25f)
+
+{% hint style="warning" %}
+If you get an error message saying that the package is not allowed to be installed, you need to remove the restriction.
+
+1. Enable SSH in Administration > System
+2. SSH into your router (you can use [putty ](https://www.putty.org/)on windows, or terminal on Mac) and run the following command:
+
+sed -i 's/\tdetect\_package/\t# detect\_package/g' /koolshare/scripts/ks\_tat\_install.sh
+
+That is one line only.
+
+See [https://hq450.github.io/fancyss/](https://hq450.github.io/fancyss/)
+{% endhint %}
+
+## To be continued... <a href="#add-your-servers" id="add-your-servers"></a>
