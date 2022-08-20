@@ -1,6 +1,6 @@
 # Useful Websites
 
-A list of websites we like. We are not affiliated with any of these sites, nor do we get any monetary compensation from them. 
+A list of websites we like. We are not affiliated with any of these sites, nor do we get any monetary compensation from them.&#x20;
 
 {% hint style="warning" %}
 Disclaimer
@@ -8,34 +8,13 @@ Disclaimer
 We are NOT responsible for any issues arising from your use of the services below. Prices and service quality may change over time and this page may not be updated frequently. Please do your own research. Should there be any problems with any of the services below, please address your concerns to their respective support system.
 {% endhint %}
 
-## Seedbox
+## Twitch Streaming in China without VPN
 
-[https://debrid-link.com/](https://debrid-link.com/) - Cheap and easy to use downloader and seedbox. Recommended for casual streaming.
+[https://restream.io](https://restream.io) - You can stream to multiple platforms at the same time including twitch. Some users report being able to upload in 1080p60fps without any drops. Has a free tier.
 
-* Download from Youtube and loads of other streaming sites.
-* Add magnet links and stream torrents in-browser without needing to download the files. 
-* 4 € /month, 9 € /3 months, 16 € /6 months \(less than half the price of normal seedboxes\)
-* Limits as of September 2020: 
+## Gaming
 
-  | Active transfers: | Limit |
-  | :--- | :--- |
-  | Data / day: | 300 GB |
-  | Torrents / day: | 40 |
-  | Data / 30 days: | 2 TB |
-  | Torrents / 30 days: | 400 |
-  | **Torrent** |  |
-  | Private torrent ratio: | 10 |
-  | Public torrent ratio: | 1 |
-  | Seed duration \(days\): | 15 |
-  | Files / torrent: | 500 |
-  | Size / torrent: | 600 GB |
-  | Storage duration \(days\): | 21 |
-
-{% hint style="info" %}
-On iOS, we recommend using the VLC media player app for streaming. 
-{% endhint %}
-
-[https://bytesized-hosting.com/](https://bytesized-hosting.com/) - The top recommended seedbox for PLEX streaming. 5 TB bandwidth per month, 3 PLEX transcoding at 14 € / month. 
+[https://www.uubooster.com/index.html](https://www.uubooster.com/index.html) OR [https://uu.163.com/](https://uu.163.com/) - UUBooster works well in China to speed up gaming with minimal lag and packet loss. Comes well recommended by our users.
 
 ## Netflix Catalogue
 
@@ -44,4 +23,3 @@ On iOS, we recommend using the VLC media player app for streaming.
 ## Whats my IP address?
 
 [https://ping.pe/](https://ping.pe/) - Shows your IP address and location. You can also ping your IP to see if it's blocked in China or not.
-
