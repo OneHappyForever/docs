@@ -25,3 +25,28 @@ We are NOT responsible for any issues arising from your use of the services belo
 ## Whats my IP address?
 
 [https://ping.pe/](https://ping.pe/) - Shows your IP address and location. You can also ping your IP to see if it's blocked in China or not.
+
+## Solve Google ReCaptcha and hCaptcha automatically
+
+### NoCaptcha extension
+
+{% hint style="warning" %}
+**IMPORTANT:** The organization providing this service has not had any security or privacy issues so far. However, it is still a relative small site and a newly released extension. There is some risk of data collection. Please **do your own research before installing** this extension, and **do so at your own risk.**
+
+**Description provided by the organization:**&#x20;
+
+{% code overflow="wrap" %}
+```
+How does it work?
+
+        We use state-of-the-art deep learning algorithms by Google, Meta, Microsoft, and NVIDIA AI. When you encounter a CAPTCHA challenge, it is solved on our GPU server farm, and our active learning pipeline automatically and continuously improves the AI.
+        Simply put, as more users use our extension, our AI gets better at solving CAPTCHAs. When new CAPTCHA types are added, our AI learns to solve them in real-time!
+```
+{% endcode %}
+
+In other words, it uploads the captcha data to their servers and the captcha is solved remotely. The answer is then sent back to your browser extension. It does not use your CPU or GPU, but does send some data to the cloud.
+{% endhint %}
+
+**Chrome and Microsoft Edge:** [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo)
+
+**Firefox:** [https://addons.mozilla.org/en-US/firefox/addon/noptcha/](https://addons.mozilla.org/en-US/firefox/addon/noptcha/)
