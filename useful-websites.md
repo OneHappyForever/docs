@@ -50,3 +50,11 @@ In other words, it uploads the captcha data to their servers and the captcha is 
 **Chrome and Microsoft Edge:** [https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo)
 
 **Firefox:** [https://addons.mozilla.org/en-US/firefox/addon/noptcha/](https://addons.mozilla.org/en-US/firefox/addon/noptcha/)
+
+{% hint style="info" %}
+You can test if it works or not here:
+
+ReCaptcha: [https://www.google.com/recaptcha/api2/demo](https://www.google.com/recaptcha/api2/demo)
+
+hCaptcha: [https://democaptcha.com/demo-form-eng/hcaptcha.html](https://democaptcha.com/demo-form-eng/hcaptcha.html)
+{% endhint %}
