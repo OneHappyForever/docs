@@ -18,6 +18,8 @@ We are NOT responsible for any issues arising from your use of the services belo
 
 ## Netflix Catalogue
 
+[https://search.wannaflix.com/](https://search.wannaflix.com/) - You can search for a specific movie or tv show and find out which streaming service has it and in which region. Better than unogs.com. Run in-house for our users.
+
 [https://unogs.com/](https://unogs.com/) - Want to find which Netflix region has the movie or tv show you want to watch? This is the one site for you.
 
 ## Whats my IP address?
