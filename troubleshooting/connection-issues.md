@@ -9,14 +9,41 @@
 
 ## Unable to connect to ANY servers
 
-* Check your network connection (go to a site that usually works without VPN). If it that doesn't work, that means it's not the VPN itself that has the issue, but your local internet connection. Try reconnecting to the wifi. If that still doesn't work, restart your computer and your internet router.
-* Check that your subscription has not run out
-* &#x20;**Make sure you have the latest servers as some will get blocked and will be replaced.** If you added the servers using the api link, you can update the server list via the link (see the guide [here](../faq/updating-the-server-list.md)).
+{% hint style="warning" %}
+This means no servers can connect. If some are still accessible, see further down below
+{% endhint %}
 
-#### For v2ray:
+{% hint style="success" %}
+How to check if a server is working:
+
+1. Connect to the server
+2. Go to [ip.sb ](https://ip.sb)
+3. Check that the IP address shown is of the country you connected to
+
+If the IP shown is your local IP, then the server may be working, but the VPN software is not capturing traffic and redirecting it to our servers. Check that the VPN is turned on.
+{% endhint %}
+
+Check our telegram group chat for any announcements. If there are none, then usually this is either an account issue or a local issue.&#x20;
+
+* Check your network connection (disconnect from the VPN and go to a site that usually works without VPN). If it that doesn't work, that means it's not the VPN itself that has the issue, but your local internet connection. Try reconnecting to the wifi. If that still doesn't work, restart your computer and your internet router.
+* Check that your subscription has not run out/expired. If you switched from the free trial to a paid subscription, you will need to get the new API links from the dashbaord, as the paid subscription is considered a new separate subscription from the free trial and has it's own set of API links.&#x20;
+* &#x20;**Make sure you have the latest servers as some will get blocked and will be replaced.** If you added the servers using the api link, you can update the server list via the link (see the guide [here](../faq/updating-the-server-list.md)).&#x20;
+
+#### For v2ray (vmess, aka "old protocol"):
 
 * Check that your computer/phone time is correct and within 90 seconds of the global clock (sync your time via the internet)
+
+**For v2rayN/Netch/Clash on Windows or Mac OS:**
+
 * Check if it's working on another browser (Chome/Edge). If it is, then maybe the browser you are using has a proxy plugin that is interfering with the VPN connection. Try to find it and turn it off.
+
+## Some servers are not working (but some are)
+
+In this case, it could be that the server you are trying to connect to has some issue, or that China's firewall has blocked it.
+
+* Check the status page: [https://status.wannaflix.com](https://status.wannaflix.com) If the server shows as offline, please wait for us to fix it, or send us a message on our telegram group chat.
+* If the server shows as online on the status page but is unaccessible to you, first update your server list, as the server details may have been updated.&#x20;
+* If that still doesn't work, send us a message in our telegram group chat.
 
 ## Website still blocked&#x20;
 
