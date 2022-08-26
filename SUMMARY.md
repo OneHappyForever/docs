@@ -17,6 +17,7 @@
     * [ClashR (SSR + v2ray) - 推荐](zhong-wen-jiao-cheng/android-an-zhuo/clashr-ssr-+-v2ray-tui-jian.md)
   * [Linux](zhong-wen-jiao-cheng/linux/README.md)
     * [Qv2ray](zhong-wen-jiao-cheng/linux/qv2ray.md)
+  * [Merlin路由器](zhong-wen-jiao-cheng/merlin-lu-you-qi.md)
 * [Windows](windows/README.md)
   * [V2ray](windows/v2ray-shadowsocks/README.md)
     * [V2rayN (Recommended)](windows/v2ray-shadowsocks/v2rayn-recommended.md)
