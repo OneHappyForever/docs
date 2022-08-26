@@ -197,12 +197,16 @@ If you have copied the full Clash API, you'll need to paste it in the second lar
 
 ## Connect <a href="#add-your-servers" id="add-your-servers"></a>
 
-### **Select your config**
+### **Select your config and start MerlinClash**
 
 1. Go back to the first tab "首页功能"
 2. Select your Config from the dropdown "配置文件选择"
+3. Start Clash by toggling the on/off switch
+4. Scroll to the bottom and click **"保存&启动"**
 
 <figure><img src="../../.gitbook/assets/51.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/2.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### **Select your server** <a href="#add-your-servers" id="add-your-servers"></a>
 
@@ -211,13 +215,6 @@ If you have copied the full Clash API, you'll need to paste it in the second lar
 3. Go to settings and select a Mode (for the Basic API, we recommend using the GLOBAL mode, for the full API, we recommend using the RULE mode). See screenshot for YACD settings.
 
 <figure><img src="../../.gitbook/assets/24.jpeg" alt=""><figcaption></figcaption></figure>
-
-### **Connect** <a href="#add-your-servers" id="add-your-servers"></a>
-
-1. Go back to the main tab
-2. Start Clash by toggling the on/off switch
-
-<figure><img src="../../.gitbook/assets/2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Additional resources
 
