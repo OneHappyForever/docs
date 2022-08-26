@@ -175,13 +175,13 @@ See [https://hq450.github.io/fancyss/](https://hq450.github.io/fancyss/)
 
 ## Add Servers <a href="#add-your-servers" id="add-your-servers"></a>
 
-**Copy your API**
+### **Copy your API**
 
 1. Go to the website dashboard
 2. Under Windows, select "Clash for windows"
 3. Copy the basic API for Clash
 
-**Paste your API into MerlinClash**
+### **Paste your API into MerlinClash**
 
 1. Go to your Koolshare app center (you can access it from the left-hand menu on Merlin)
 2. Click on MerlinClash to open the app
@@ -197,14 +197,14 @@ If you have copied the full Clash API, you'll need to paste it in the second lar
 
 ## Connect <a href="#add-your-servers" id="add-your-servers"></a>
 
-**Select your config**
+### **Select your config**
 
 1. Go back to the first tab "首页功能"
 2. Select your Config from the dropdown "配置文件选择"
 
 <figure><img src="../../.gitbook/assets/51.jpeg" alt=""><figcaption></figcaption></figure>
 
-**Select your server**
+### **Select your server** <a href="#add-your-servers" id="add-your-servers"></a>
 
 1. Scroll down and select either YACD-Clash or RAZORD-Clash to access the GUI (graphical user interface)
 2. Select a server
@@ -212,10 +212,13 @@ If you have copied the full Clash API, you'll need to paste it in the second lar
 
 <figure><img src="../../.gitbook/assets/24.jpeg" alt=""><figcaption></figcaption></figure>
 
-**Connect**
+### **Connect** <a href="#add-your-servers" id="add-your-servers"></a>
 
 1. Go back to the main tab
 2. Start Clash by toggling the on/off switch
 
 <figure><img src="../../.gitbook/assets/2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
+## Additional resources
+
+MerlinClash official documentation (Chinese) {You can try google translating}: [https://mcreadme.gitbook.io/mc/](https://mcreadme.gitbook.io/mc/)&#x20;
