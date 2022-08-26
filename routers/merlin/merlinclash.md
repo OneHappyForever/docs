@@ -195,10 +195,27 @@ See [https://hq450.github.io/fancyss/](https://hq450.github.io/fancyss/)
 If you have copied the full Clash API, you'll need to paste it in the second large box next to **"Clash-Yaml配置下载",** then click **"Clash订阅“**
 {% endhint %}
 
-## To be continued... <a href="#add-your-servers" id="add-your-servers"></a>
+## Connect <a href="#add-your-servers" id="add-your-servers"></a>
 
-We will be completing the page shortly.
+**Select your config**
 
-For those who want to try the rest, basically all that's left is copying the basic Clash api from Clash for Windows into the Merlin Clash app, then go to the main tab in the Merlin Clash app and click on "YACD" to open the graphical user interface and select your server.
+1. Go back to the first tab "首页功能"
+2. Select your Config from the dropdown "配置文件选择"
 
-We will be adding detailed instructions very soon.
+<figure><img src="../../.gitbook/assets/51.jpeg" alt=""><figcaption></figcaption></figure>
+
+**Select your server**
+
+1. Scroll down and select either YACD-Clash or RAZORD-Clash to access the GUI (graphical user interface)
+2. Select a server
+3. Go to settings and select a Mode (for the Basic API, we recommend using the GLOBAL mode, for the full API, we recommend using the RULE mode). See screenshot for YACD settings.
+
+<figure><img src="../../.gitbook/assets/24.jpeg" alt=""><figcaption></figcaption></figure>
+
+**Connect**
+
+1. Go back to the main tab
+2. Start Clash by toggling the on/off switch
+
+<figure><img src="../../.gitbook/assets/2 (1).jpeg" alt=""><figcaption></figcaption></figure>
+
