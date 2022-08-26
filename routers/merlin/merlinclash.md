@@ -173,6 +173,28 @@ That is one line only.
 See [https://hq450.github.io/fancyss/](https://hq450.github.io/fancyss/)
 {% endhint %}
 
+## Add Servers <a href="#add-your-servers" id="add-your-servers"></a>
+
+**Copy your API**
+
+1. Go to the website dashboard
+2. Under Windows, select "Clash for windows"
+3. Copy the basic API for Clash
+
+**Paste your API into MerlinClash**
+
+1. Go to your Koolshare app center (you can access it from the left-hand menu on Merlin)
+2. Click on MerlinClash to open the app
+3. Click on "配置文件“, the second tab from the right on the top menu
+4. Paste your API in the first box next to "**小白一键订阅助手**"
+5. Click **"开始转换"** to download the server list
+
+<figure><img src="../../.gitbook/assets/13.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you have copied the full Clash API, you'll need to paste it in the second large box next to **"Clash-Yaml配置下载",** then click **"Clash订阅“**
+{% endhint %}
+
 ## To be continued... <a href="#add-your-servers" id="add-your-servers"></a>
 
 We will be completing the page shortly.

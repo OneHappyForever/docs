@@ -37,7 +37,7 @@ Check our telegram group chat for any announcements. If there are none, then usu
 
 * Check if it's working on another browser (Chome/Edge). If it is, then maybe the browser you are using has a proxy plugin that is interfering with the VPN connection. Try to find it and turn it off.
 
-## Some servers are not working (but some are)
+## Some servers are not working (but others are)
 
 In this case, it could be that the server you are trying to connect to has some issue, or that China's firewall has blocked it.
 
