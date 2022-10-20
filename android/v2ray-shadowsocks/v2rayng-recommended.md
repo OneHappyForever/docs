@@ -18,11 +18,13 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 You need to download the correct installation file for your Android CPU architecture.
 
-We would suggest trying the 64-bit file first. If it doesn't work, please try the 32-bit file instead:
+We would suggest trying the compatible file first, then the 64-bit file. If it still doesn't work, please try the 32-bit file instead:
 
-[V2rayNG 64-bit (v1.6.30)](https://get.wannaflix.link/035c45)
+[V2rayNG Compatible (v1.7.20)](https://wannaflix-sz-edge.b-cdn.net/v2rayNG\_1.7.20.apk)
 
-[V2rayNG 32-bit (v1.6.30)](https://get.wannaflix.link/639b6d)
+[V2rayNG 64-bit (v1.7.20)](https://wannaflix-sz-edge.b-cdn.net/v2rayNG\_1.7.20\_arm64-v8a.apk)
+
+[V2rayNG 32-bit (v1.7.20)](https://wannaflix-sz-edge.b-cdn.net/v2rayNG\_1.7.20\_armeabi-v7a.apk)
 
 {% hint style="info" %}
 Neither apps above work? Try one of these versions:&#x20;
