@@ -25,6 +25,7 @@ Clash... is always behind the curve when it comes to protocol support. But some 
 |                      |                   v2rayN                   | Netch |                     SSR                    | Clash | OpenVPN |
 | -------------------- | :----------------------------------------: | :---: | :----------------------------------------: | :---: | :-----: |
 | Officially supported |                      ✅                     |   ✅   |                      ✅                     |   ❌   |    ✅    |
+| Trojan               |                      ✅                     |   ✅   |                      ❌                     |   ✅   |    ❌    |
 | Xray                 |                      ✅                     |   ✅   |                      ❌                     |   ❌   |    ❌    |
 | v2ray                |                      ✅                     |   ✅   |                      ❌                     |   ✅   |    ❌    |
 | SSR                  |                      ❌                     |   ✅   |                      ✅                     |   ✅   |    ❌    |
@@ -50,6 +51,7 @@ ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, 
 |                      | Shadowrocket (M1) |                             ClashX                             |                              V2rayU                             | Tunnelblick |
 | -------------------- | :---------------: | :------------------------------------------------------------: | :-------------------------------------------------------------: | :---------: |
 | Officially supported |         ✅         |                                ✅                               |                                ❌                                |      ✅      |
+| Trojan               |         ✅         |                                ✅                               |                                ❌                                |      ❌      |
 | Xray                 |         ✅         |                                ❌                               |                                ✅                                |      ❌      |
 | v2ray                |         ✅         |                                ✅                               |                                ✅                                |      ❌      |
 | SSR                  |         ✅         |                                ✅                               |                                ❌                                |      ❌      |
@@ -69,6 +71,7 @@ Recommendation: Shadowrocket. Only Shadowrocket.
 |                      | Shadowrocket | Quantumult | OpenVPN |
 | -------------------- | :----------: | :--------: | :-----: |
 | Officially supported |       ✅      |      ❌     |    ✅    |
+| Trojan               |       ✅      |      ❌     |    ❌    |
 | Xray                 |       ✅      |      ❌     |    ❌    |
 | v2ray                |       ✅      |      ✅     |    ❌    |
 | SSR                  |       ✅      |      ✅     |    ❌    |
@@ -87,7 +90,8 @@ Recommendation: Latest AnXray. This app supports all our protocols except for Op
 
 |                      | AnXray | v2rayNG | ClashR | SSR | OpenVPN |
 | -------------------- | :----: | :-----: | :----: | :-: | :-----: |
-| Officially supported |    ✅   |    ✅    |    ✅   |  ❌  |    ✅    |
+| Officially supported |    ✅   |    ✅    |    ❌   |  ❌  |    ✅    |
+| Trojan               |    ✅   |    ✅    |    ❌   |  ❌  |    ❌    |
 | Xray                 |    ✅   |    ✅    |    ❌   |  ❌  |    ❌    |
 | v2ray                |    ✅   |    ✅    |    ✅   |  ❌  |    ❌    |
 | SSR                  |    ✅   |    ❌    |    ✅   |  ✅  |    ❌    |
