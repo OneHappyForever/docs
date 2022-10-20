@@ -1,12 +1,8 @@
 # v2rayNG (Recommended)
 
-Updated: March 9, 2021
+Updated: October 20, 2022
 
 The latest v2rayNG supports Xray-core and the XTLS protocol. Make sure to update to version 1.5.16 or later!
-
-{% hint style="warning" %}
-The google play version does not support XTLS yet. If you are running that version, update it to ours or use the old API link from the dashboard if you want to keep the old app.
-{% endhint %}
 
 ## Watch Tutorial Video:
 
@@ -54,7 +50,7 @@ You may need to allow apps from "Unknown Sources" on your phone for the installa
 ### Get the api link
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php) dashboard
-2. Under "Android", select "V2rayNG (v1.5.16)"
+2. Under "Android", select "V2rayNG (v1.5.16+)"
 3. Click on the "Copy API" button to copy the API
 
 ### Paste the api link into the app

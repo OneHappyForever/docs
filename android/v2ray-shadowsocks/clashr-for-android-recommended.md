@@ -1,4 +1,8 @@
-# ClashR for Android
+# ClashR for Android (Deprecated)
+
+{% hint style="danger" %}
+ClashR for android is no longer supported. Please use Clash for Android or v2rayNG instead.
+{% endhint %}
 
 Updated: October 11, 2020
 

@@ -55,7 +55,7 @@
   * [V2ray](android/v2ray-shadowsocks/README.md)
     * [v2rayNG (Recommended)](android/v2ray-shadowsocks/v2rayng-recommended.md)
     * [AnXray](android/v2ray-shadowsocks/anxray-recommended.md)
-    * [ClashR for Android](android/v2ray-shadowsocks/clashr-for-android-recommended.md)
+    * [ClashR for Android (Deprecated)](android/v2ray-shadowsocks/clashr-for-android-recommended.md)
   * [Shadowsocks](android/shadowsocks/README.md)
     * [AnXray (Recommended)](android/shadowsocks/anxray-recommended.md)
     * [ClashR for Android](android/shadowsocks/clashr-for-android.md)
