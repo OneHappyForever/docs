@@ -18,20 +18,19 @@ Let's go through the main pros and cons of each protocol we offer.
 
 Recommendation: Xray, with the new VLESS+XTLS protocol, is the recommended choice for web-browsing and streaming. If you don't have access to the new protocol (mainly on intel Mac OS), the old V2ray is the recommended option. We currently do not recommend Shadowsocks as it is based on an earlier version of the protocol. Choose Eclipse for security and video conferencing, and SmartDNS for Netflix unblocking on TVs and consoles (SmartDNS only works with US Netflix).
 
-|                       | Xray | v2ray | <p>Shadow</p><p>socks</p> |        Eclipse       |       SmartDNS      |
-| --------------------- | :--: | :---: | :-----------------------: | :------------------: | :-----------------: |
-| TCP                   |   ✅  |   ✅   |             ✅             |           ✅          |          ❌          |
-| UDP                   |   ✅  |   🟨  |             ✅             |           ✅          |          ❌          |
-| ICMP                  |   ✅  |   ❌   |             ❌             |           ✅          |          ❌          |
-| Fast                  |   ✅  |   ✅   |             ✅             |          🟧          |          🟨         |
-| Stable                |   ✅  |   🟨  |             ✅             |          🟨          |          ✅          |
-| Works in China        |   ✅  |   ✅   |             ✅             |           ✅          |          🟨         |
-| Unblocks Netflix      |   ✅  |   ✅   |  <p>🟨 </p><p>(Some)</p>  | <p>🟧</p><p>(US)</p> | <p>✅</p><p>(US)</p> |
-| Web-browsing / Email  |   ✅  |   ✅   |             ✅             |           ✅          |          ❌          |
-| Video Streaming       |   ✅  |   ✅   |             ✅             |          🟨          |          ❌          |
-| Gaming                |  🟨  |   🟧  |             ✅             |          🟥          |          ❌          |
-| VoIP/Video Conference |   ✅  |   🟨  |             ✅             |           ✅          |          ❌          |
-| Countries             |  19  |   19  |             6             |           6          |          1          |
+| TCP                   |  ✅  |            ✅            |            ✅            |            ✅            |           ✅          |          ❌          |
+| --------------------- | :-: | :---------------------: | :---------------------: | :---------------------: | :------------------: | :-----------------: |
+| UDP                   |  🟨 |            🟨           |            🟨           |            🟨           |           ✅          |          ❌          |
+| ICMP                  |  ✅  |            ✅            |            ❌            |            ❌            |           ✅          |          ❌          |
+| Fast                  |  ✅  |            ✅            |            ✅            |            ✅            |          🟧          |          🟨         |
+| Stable                |  ✅  |            ✅            |            🟨           |            ✅            |          🟨          |          ✅          |
+| Works in China        |  ✅  |            ✅            |            ✅            |            ✅            |           ✅          |          🟨         |
+| Unblocks Netflix      |  ✅  | <p>🟨 </p><p>(Some)</p> | <p>🟨 </p><p>(Some)</p> | <p>🟨 </p><p>(Some)</p> | <p>🟧</p><p>(US)</p> | <p>✅</p><p>(US)</p> |
+| Web-browsing / Email  |  ✅  |            ✅            |            ✅            |            ✅            |           ✅          |          ❌          |
+| Video Streaming       |  ✅  |            ✅            |            ✅            |            ✅            |          🟨          |          ❌          |
+| Gaming                |  🟨 |            🟨           |            🟧           |            ✅            |          🟥          |          ❌          |
+| VoIP/Video Conference |  🟨 |            🟨           |            🟨           |            ✅            |           ✅          |          ❌          |
+| Countries             |  19 |            19           |            19           |            6            |           6          |          1          |
 
 {% hint style="info" %}
 **GLOSSARY**
@@ -41,6 +40,29 @@ _Stability:_ A measurement of the frequency of disconnections and speed fluctuat
 _Gaming:_ A measurement of how the protocol performs when gaming. Gaming usually requires good UDP support, stable apps, and low ping (less RTTs).&#x20;
 {% endhint %}
 
+## Trojan
+
+Trojan started development in 2017. It attempts to imitate a normal HTTPS connection as closely as possible, with as little overhead as possible. Security is achieved using TLS as the outer layer.&#x20;
+
+It is fast, and effectively bypasses blocking by the Great Firewall, as well as firewalls in other countries such as Iran, Indonesia, and Russia. It supports both UDP and TCP. Unlike Xray, most apps support trojan, including Clash.
+
+Because of the speed, stability, and app compatibility of Trojan, we have migrated most of our servers to this protocol.&#x20;
+
+#### Use Trojan if:
+
+* You need to watch Netflix or other streaming channels
+* You need to connect to a wide variety of countries&#x20;
+* You need to connect to a specific country that is only on Xray/v2ray
+* You want fast downloads and HD YouTube streaming
+* Do extensive web-browsing, emails, etc.
+* You want to run a UDP-based application
+* You want to play online games&#x20;
+
+**Don't use Trojan if:**
+
+* You need OpenVPN for security
+* You are on a system that doesn't support it yet or has poor support for it
+
 ## Xray
 
 Xray is a fork of the v2ray protocol by a coder under the name of _rprx_ on github. The fork was created on November 9, 2020, and has quickly gained popularity over these past year, passing 5,500 stars on it's github repository (as of August 2021).&#x20;
@@ -49,16 +71,17 @@ The fork fixes several important issues with the original v2ray code, including 
 
 The only downside is that only a minority of apps have updated their software to support Xray, so you may need to update or switch to a different app to take advantage of this new technology. But it's worth it.
 
-Most of our servers now run Xray by default. Xray is fully compatible with v2ray.
+Xray is fully compatible with v2ray.
 
 Update: Xray currently has some compatibility issues with Whatsapp calls. If you need Whatsapp call support, please use the "WhatsApp" server.
 
-{% hint style="info" %}
-We HIGHLY recommend upgrading to Xray as soon as possible from v2ray and Shadowsocks.
+{% hint style="warning" %}
+We have now migrated from Xray to Trojan on most of our servers.&#x20;
 {% endhint %}
 
 #### Use Xray if:
 
+* **YOU DO NOT, OR CANNOT RUN TROJAN**
 * You need to watch Netflix or other streaming channels
 * You need to connect to a wide variety of countries&#x20;
 * You need to connect to a specific country that is only on Xray/v2ray
@@ -86,7 +109,7 @@ Xray is fully compatible with all v2ray setups.
 
 #### Use v2ray if:
 
-* **YOU DO NOT, OR CANNOT RUN XRAY**
+* **YOU DO NOT, OR CANNOT RUN TROJAN**
 * You need to watch Netflix or other streaming channels
 * You need to connect to a wide variety of countries&#x20;
 * You need to connect to a specific country that is only on v2ray
