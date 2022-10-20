@@ -1,4 +1,4 @@
-# V2rayN
+# V2rayN (Recommended)
 
 Updated: August 5, 2022
 
@@ -34,7 +34,7 @@ We HIGHLY recommend upgrading to version 5 or above.
 
 ### Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d\&id=42) to download the app. It will download it in .ZIP format.
+[Click here](https://wannaflix-sz-edge.b-cdn.net/v2rayN-Core-5.36.zip) to download the app. It will download it in .ZIP format.
 
 {% hint style="success" %}
 Alternative mirrors:
