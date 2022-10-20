@@ -123,6 +123,7 @@ If you need a router, or have a router but need help installing OpenWRT with all
 |                      | Merlin |                   OpenWRT                   |
 | -------------------- | :----: | :-----------------------------------------: |
 | Officially supported |    ❌   |                      ❌                      |
+| Trojan               |    ✅   |                      ✅                      |
 | Xray                 |    ❌   | <p>✅</p><p>Latest </p><p>Passwall only </p> |
 | v2ray                |    ✅   |                      ✅                      |
 | SSR                  |    ✅   |                      ✅                      |
