@@ -28,11 +28,11 @@ If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter vari
 
 We highly recommend watching the video tutorial. You can stream it in China too.
 
-[Video](https://watch.videodelivery.net/ba79ea793a3aa730b2eac46ab94f8c1b)
+[Video](https://video.bunnycdn.com/play/67103/e92d06b1-559b-4e98-aae8-5815f2da985a)
 
 ## Download and install Netch
 
-[Click here](https://get.wannaflix.link/d2178f) to download the app. It will download it in .ZIP format.
+[Click here](https://cdn-edge.wannaflix.net/Netch\_1.8.1.zip) to download the app. It will download it in .ZIP format.
 
 {% hint style="info" %}
 Version: v1.8.1

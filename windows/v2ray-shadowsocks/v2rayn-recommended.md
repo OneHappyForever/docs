@@ -1,4 +1,4 @@
-# V2rayN
+# V2rayN (Recommended)
 
 Updated: August 5, 2022
 
@@ -24,7 +24,7 @@ NOTE: This is the tutorial for the older version (version 2.50). They look basic
 We'll be releasing the new video tutorial soon
 {% endhint %}
 
-[Video](https://watch.cloudflarestream.com/c52143e01e64eed9c6a109e38e3e3239)
+[Video](https://video.bunnycdn.com/play/67103/78386af0-e533-49bf-9392-01c4b880c5e0)
 
 ## Version 5.26 and up (August 5, 2022)
 
@@ -34,7 +34,7 @@ We HIGHLY recommend upgrading to version 5 or above.
 
 ### Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d\&id=42) to download the app. It will download it in .ZIP format.
+[Click here](https://wannaflix-sz-edge.b-cdn.net/v2rayN-Core-5.36.zip) to download the app. It will download it in .ZIP format.
 
 {% hint style="success" %}
 Alternative mirrors:
