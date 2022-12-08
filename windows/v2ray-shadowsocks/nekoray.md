@@ -18,6 +18,12 @@ If you don't have it installed or encounter a .dll error when running the progra
 ****[**Click here**](https://wannaflix-sz-edge.b-cdn.net/VC\_redist.x64.exe) **** to download the installer.
 {% endhint %}
 
+## Watch Tutorial Video:
+
+We highly recommend watching the video tutorial. You can stream it in China too.
+
+{% embed url="https://video.bunnycdn.com/play/67103/71e59c80-6c66-43e6-8226-ae1cfec95562" %}
+
 ## Version 2.6+
 
 ### Download and install
