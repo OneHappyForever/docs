@@ -1,16 +1,8 @@
 # NekoRay
 
-{% hint style="danger" %}
-**THIS GUIDE IS STILL IN PROGRESS!!!**
-
-**THIS GUIDE IS STILL IN PROGRESS!!!**
-
-**THIS GUIDE IS STILL IN PROGRESS!!!**
-
-**PLEASE DO NOT INSTALL NEKORAY USING THIS GUIDE AT THIS TIME.**
+{% hint style="success" %}
+**This app replaces Netch.**
 {% endhint %}
-
-
 
 Updated: December 7, 2022
 

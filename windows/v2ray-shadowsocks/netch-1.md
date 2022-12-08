@@ -3,7 +3,7 @@
 Updated: August 5, 2022
 
 {% hint style="danger" %}
-**IMPORTANT: Netch is no longer updated and is now deprecated. Please use** [**V2rayN**](v2rayn-recommended.md) **instead.**
+**IMPORTANT: Netch is no longer updated and is now deprecated. Please use** [**Nekoray**](nekoray.md) **instead.**
 {% endhint %}
 
 
