@@ -1,12 +1,8 @@
 # v2rayNG (Recommended)
 
-Updated: March 9, 2021
+Updated: October 20, 2022
 
 The latest v2rayNG supports Xray-core and the XTLS protocol. Make sure to update to version 1.5.16 or later!
-
-{% hint style="warning" %}
-The google play version does not support XTLS yet. If you are running that version, update it to ours or use the old API link from the dashboard if you want to keep the old app.
-{% endhint %}
 
 ## Watch Tutorial Video:
 
@@ -18,11 +14,13 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 You need to download the correct installation file for your Android CPU architecture.
 
-We would suggest trying the 64-bit file first. If it doesn't work, please try the 32-bit file instead:
+We would suggest trying the compatible file first, then the 64-bit file. If it still doesn't work, please try the 32-bit file instead:
 
-[V2rayNG 64-bit (v1.6.30)](https://get.wannaflix.link/035c45)
+[V2rayNG Compatible (v1.7.20)](https://wannaflix-sz-edge.b-cdn.net/v2rayNG\_1.7.20.apk)
 
-[V2rayNG 32-bit (v1.6.30)](https://get.wannaflix.link/639b6d)
+[V2rayNG 64-bit (v1.7.20)](https://wannaflix-sz-edge.b-cdn.net/v2rayNG\_1.7.20\_arm64-v8a.apk)
+
+[V2rayNG 32-bit (v1.7.20)](https://wannaflix-sz-edge.b-cdn.net/v2rayNG\_1.7.20\_armeabi-v7a.apk)
 
 {% hint style="info" %}
 Neither apps above work? Try one of these versions:&#x20;
@@ -52,7 +50,7 @@ You may need to allow apps from "Unknown Sources" on your phone for the installa
 ### Get the api link
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php) dashboard
-2. Under "Android", select "V2rayNG (v1.5.16)"
+2. Under "Android", select "V2rayNG (v1.5.16+)"
 3. Click on the "Copy API" button to copy the API
 
 ### Paste the api link into the app

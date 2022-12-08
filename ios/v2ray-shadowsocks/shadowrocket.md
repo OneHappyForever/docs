@@ -2,12 +2,12 @@
 description: 'Time to complete the tutorial: 8 minutes'
 ---
 
-# Shadowrocket \(Recommended\)
+# Shadowrocket (Recommended)
 
-Updated: August 13, 2021
+Updated: October 20, 2022
 
 {% hint style="success" %}
-Shadowrocket now support the new VLESS+XTLS protocol. We HIGHLY recommend updating your APIs to the latest version 3.
+Shadowrocket now support the new Trojan protocol. We HIGHLY recommend updating your APIs to the latest version 3.
 {% endhint %}
 
 ## Watch Tutorial Video:
@@ -25,7 +25,7 @@ To find the login and password for our US iTunes account, login to your [client 
 {% endhint %}
 
 {% hint style="success" %}
-**See our** [**detailed guide on how to login to our iTunes account.**](../switching-itunes-account.md)\*\*\*\*
+**See our** [**detailed guide on how to login to our iTunes account.**](../switching-itunes-account.md)****
 {% endhint %}
 
 Search for "shadowrocket" and download it.
@@ -35,13 +35,13 @@ Search for "shadowrocket" and download it.
 {% endhint %}
 
 {% hint style="info" %}
-If the main account doesn't work, please try our secondary account. 
+If the main account doesn't work, please try our secondary account.&#x20;
 
 You can get our secondary account from the chat bot.
 {% endhint %}
 
 {% hint style="warning" %}
-If all our accounts don't work because the password needs to be reset, please send a message on our telegram group  or open a support ticket \(see your client area under "Support"\).
+If all our accounts don't work because the password needs to be reset, please send a message on our telegram group  or open a support ticket (see your client area under "Support").
 {% endhint %}
 
 ## Add the servers
@@ -50,10 +50,10 @@ If all our accounts don't work because the password needs to be reset, please se
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php) dashboard
 2. Select "Shadowrocket" from the iOS Setup dropdown menu
-3. Copy the api link provided 
+3. Copy the api link provided&#x20;
 
 {% hint style="info" %}
-The API link should start with https://api.wannaflix.com/**apiv3.php**?type=**shadowrocket**
+The API link should start with https://api.wannaflix.link/**apiv3.php**?type=**shadowrocket**
 {% endhint %}
 
 ### Paste the api link into the app
@@ -79,11 +79,10 @@ At the top of the server list, change the "Global Routing" to **Proxy** for bett
 
 ## Updating the App
 
-To update the app, simply log back in to our iTunes account and update it. 
+To update the app, simply log back in to our iTunes account and update it.&#x20;
 
 We recommend updating it once ever 6 months. If there is a major update that needs to be done earlier, we'll send you an email.
 
 ## Troubleshooting
 
 No major issues have been discovered. If you encounter any problems on iOS, please reach out to us. If we find an issue that pops up often, we'll add it here.
-
