@@ -115,7 +115,19 @@ If the VPN mode does not work, try the Proxy mode instead.
 Make sure only **ONE** of the options is selected! Do not select both VPN and Proxy mode at the same time.&#x20;
 {% endhint %}
 
+
+
 ## Troubleshooting
+
+### Update the server list
+
+Go to Server > Current Group > Update subscription.&#x20;
+
+Or use the shortcut: Ctrl+U
+
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-12-08 at 5.29.40 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Other
 
 There are currently no common bugs at this time. If you have an issue, please contact support.&#x20;
 
