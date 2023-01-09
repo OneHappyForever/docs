@@ -32,9 +32,9 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ### Download and install
 
-[Click here](https://cdn-edge.wannaflix.net/nekoray-2.6.zip) to download the app. It will download it in .ZIP format.
+[Click here ](https://wannaflix-sz-edge.b-cdn.net/nekoray.zip)to download the app. It will download it in .ZIP format.
 
-Find the nekoray-2.6.zip file in your download folder. Unzip it (right click > Extract all... ). Then, open the unzipped folder.&#x20;
+Find the nekoray.zip file in your download folder. Unzip it (right click > Extract all... ). Then, open the unzipped folder.&#x20;
 
 Double-click on the "nekoray" file to install.
 

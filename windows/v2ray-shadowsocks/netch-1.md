@@ -3,7 +3,7 @@
 Updated: August 5, 2022
 
 {% hint style="danger" %}
-**IMPORTANT: Netch is no longer updated and may not work reliably on Windows 11. Please use** [**Nekoray**](nekoray.md) **instead.**
+**IMPORTANT: Netch is no longer updated and is now deprecated. Please use** [**Nekoray**](nekoray.md) **instead.**
 {% endhint %}
 
 
@@ -15,7 +15,7 @@ Updated: August 5, 2022
 Netch supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software.
 
 {% hint style="success" %}
-Netch version 1.8.1 supports the latest VLESS+XTLS protocol
+Netch version 1.8.1+ supports the latest VLESS+XTLS protocol
 {% endhint %}
 
 {% hint style="danger" %}
