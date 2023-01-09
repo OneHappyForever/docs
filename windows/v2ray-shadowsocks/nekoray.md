@@ -1,7 +1,7 @@
 # NekoRay
 
 {% hint style="success" %}
-**This app replaces Netch.**
+**This app replaces Netch.**&#x20;
 {% endhint %}
 
 Updated: December 7, 2022
@@ -16,6 +16,10 @@ Required dependencies:
 If you don't have it installed or encounter a .dll error when running the program, please install VS C++.
 
 ****[**Click here**](https://wannaflix-sz-edge.b-cdn.net/VC\_redist.x64.exe) **** to download the installer.
+{% endhint %}
+
+{% hint style="success" %}
+**If you cannot install Visual Studio C++, please use V2rayN instead.**&#x20;
 {% endhint %}
 
 ## Watch Tutorial Video:
