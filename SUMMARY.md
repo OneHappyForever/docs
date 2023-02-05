@@ -135,6 +135,7 @@
   * [Updating the Server List](faq/updating-the-server-list.md)
   * [Alternative Apps + Downloads](faq/alternative-apps-+-downloads.md)
 * [BLOG](blog/README.md)
+  * [WannaFlix's Situation in Iran](blog/wannaflixs-situation-in-iran.md)
   * [China Situation - April 2022](blog/china-situation-april-2022.md)
   * [2022 Updates](blog/2022-updates.md)
   * [The Netflix Situation - August 2021](blog/the-netflix-situation-august-2021.md)
