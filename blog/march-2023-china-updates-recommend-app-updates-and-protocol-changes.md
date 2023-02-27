@@ -29,11 +29,11 @@ First, since the October meeting last year, datacenters within China have cracke
 
 Second, the Trojan protocol has become unreliable for direct connections. Before the October meeting, Trojan would virtually not be blocked, even when a lot of traffic was going through it. However, the GFW is now blocking Trojan servers from well-known datacenter IP ranges. We now need to obfuscate Trojan before traffic leaves China, and non-China servers are often blocked.
 
-Third, there has been a crackdown on Alipay payments in January and February this year. Some Alipay payment providers have closed shop, or have issues accepting payments. It is not unusual for them to close shop without warning and not pay us. To mitigate this, we are now using 2 Alipay payment gateways. If the first is not working, please try the backup gateway. In case they stop working, we have additional backup gateways ready to launch, so we are well prepared in this regard.
+Third, there has been a crackdown on Alipay payments in January and February this year. Some Alipay payment providers have closed shop, or have issues accepting payments. It is not unusual for them to close shop without warning and not pay us. To mitigate this, we are now using two Alipay payment gateways. If the first is not working, please try the backup gateway. In case they both stop working, we have additional backup gateways ready to launch, so we are well prepared in this regard.
 
-There have been other changes, but these are some of the major changes impacting the China side of things.
+There have been other changes, but these are some of the major ones impacting the China side of things.
 
-We have tried our best to mitigate each issue to provide you with the best service possible.&#x20;
+We will continue to monitor the situation and adapt accordingly.
 
 ### Other positive changes
 
@@ -43,7 +43,7 @@ The Clash app is now available on all major platforms except iOS. Clash now supp
 
 This means that we now have a single app for all platforms that works well, and that supports all our current protocols.&#x20;
 
-Therefore, **we have decided to simplify our recommended app list to recommend Clash for Windows, Mac OS, Android, and OpenWRT routers.** This will make it easy for you to set things up as you'll have the same look and feel accross platforms. You won't need to re-learn a new app for each platform.&#x20;
+Therefore, **we have decided to simplify our recommended app list to recommend Clash for Windows, Mac OS, Android, and OpenWRT routers.** We hope it will be easier for you to set things up as you'll have the same look and feel accross platforms. You won't need to re-learn a new app for each platform.&#x20;
 
 Benefits of using Clash:
 
@@ -55,35 +55,33 @@ Benefits of using Clash:
 * UI is well done
 * You can add your own rules (for the technically savy)
 
-We will continue to provide APIs for the other apps so if you prefer your current app, you can continue to use it. We try our best to keep backward-compatibility.
+We will continue to provide APIs for the other apps currently available. If you would like to continue using your current app, feel free to do so. We always try to maintain backward-compatibility.
 
 ### Reintroduction of the Shadowsocks protocol
 
-When we first started providing proxy/vpn services in China, we selected the Shadowsocks protocol. It was fast, stable, and unable to be blocked. At the time, the Trojan protocol did not exist, and v2ray was in it's early stages of development.&#x20;
+When we first started providing proxy/vpn services in China, we selected the Shadowsocks protocol. It was fast, stable, and it wasn't being blocked. At the time, the Trojan protocol did not exist, and v2ray was in it's early stages of development.&#x20;
 
-However, as the GFW evolved, Shadowsocks was becoming unstable, and we adpated by switching to v2ray, then Trojan.&#x20;
+However, as the GFW evolved, Shadowsocks became unstable, and we adpated by switching to v2ray, and then Trojan.&#x20;
 
-It is now time to adapt once again. Since all major protocols are now identifiable by the GFW to a certain extent, including Trojan, we are now using additional obfuscation mechanisms on the China middle servers. This obfuscation works on all protocols, including Shadowsocks.&#x20;
+We believe it is now time to adapt once again. Since all major protocols are now identifiable by the GFW to a certain extent, including Trojan, we are now using additional obfuscation mechanisms on the China middle servers. This obfuscation works on all protocols, including Shadowsocks.&#x20;
 
 Therefore, since going forward we will have to obfuscate traffic regardless, we are now free to select the best protocol without worrying about it being blocked, at least for connections routed through our China servers.&#x20;
 
-Shadowsocks is lightweight, and support UDP-over-UDP. It doesn't suffer from the TLS or v2ray handshake's additional RTTs (causing slower response times). Some datacenters within China are even more lenient toward Shadowsocks (non-descript TCP/UDP) vs TLS-based protocols.&#x20;
+Shadowsocks is lightweight, and support UDP-over-UDP. It doesn't suffer from the TLS or v2ray handshake's additional RTTs (causing slower response times). Some datacenters within China are even more lenient toward Shadowsocks (non-descript TCP/UDP) than TLS-based protocols.&#x20;
 
-For this reason, we have decided to **re-launch Shadowsocks on our CHINA servers on a trial basis.**&#x20;
+For this reason, we have decided to **re-launch Shadowsocks on our CHINA servers on a trial basis.** Since all apps support Shadowsocks, you won't need to switch apps for this change. You'll only need to copy-paste the Shadowsocks API into your apps if you wish to switch to it. We will continue to provide Trojan on all CHINA servers as before.
 
-If user's feedback is good, we will continue to offer Shadowsocks in China.&#x20;
+We will decide what to do based on your feedback in the coming weeks and months.
 
-However, since direct connections on Shadowsocks are easily identifiable, we will continue to offer Trojan only on the non-China servers.&#x20;
-
-Users in other restricted countries will find Trojan better suited for them than Shadowsocks.&#x20;
+However, since direct connections on Shadowsocks are easily identifiable, we will only offer Shadowsocks on the CHINA servers. Users in other restricted countries will find Trojan better suited for them than Shadowsocks.&#x20;
 
 ## Conclusion
 
-Well, that has been an eventful year indeed! We hope that these changes will make your internet experience easier in China.&#x20;
+Well, that has been an eventful year indeed! We hope that these changes will make your internet experience smoother in China.&#x20;
 
 If you have any questions, please feel free to reach out to us via ticket or on telegram.&#x20;
 
-Until next time!
+Happy surfing!
 
 The WannaFlix Team
 
