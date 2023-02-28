@@ -80,7 +80,7 @@ You can also try to manually update it by going to Config > remote config> updat
 2. Under WannaFlix, chose a server from the list
 3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix.&#x20;
 
-![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.12.32 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2023-02-28 at 6.21.38 PM.png>)
 
 You can select the server by clicking on Global and selecting a server from the list.&#x20;
 
