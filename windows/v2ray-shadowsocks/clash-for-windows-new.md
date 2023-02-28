@@ -1,6 +1,10 @@
-# Clash For Windows
+# Clash For Windows (Recommended)
 
-{% hint style="warning" %}
+{% hint style="success" %}
+**This app replaces Netch, Nekoray, and V2rayN, and is the recommended app for Windows.**
+{% endhint %}
+
+{% hint style="info" %}
 This guide is for Clash for Windows **version 0.20.5** and up.
 {% endhint %}
 

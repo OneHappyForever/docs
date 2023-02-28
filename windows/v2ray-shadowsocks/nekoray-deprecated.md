@@ -1,7 +1,7 @@
-# NekoRay
+# NekoRay \[Deprecated]
 
-{% hint style="success" %}
-**This app replaces Netch.**&#x20;
+{% hint style="danger" %}
+**This app is still under development and contains bugs. Please use Clash for Windows instead.**
 {% endhint %}
 
 Updated: December 7, 2022

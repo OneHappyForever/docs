@@ -1,4 +1,8 @@
-# V2rayN (Recommended)
+# V2rayN
+
+{% hint style="success" %}
+**V2rayN is stable and the UI is quite good. However, it does not support gaming, and only supports System Proxy mode. If you would like to send all app traffic via the VPN, please consider switching to** [**Clash for Windows**](../../installation-guides/windows/clash-for-windows.md)**.**
+{% endhint %}
 
 Updated: August 5, 2022
 
