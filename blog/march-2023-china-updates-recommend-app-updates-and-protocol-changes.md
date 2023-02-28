@@ -13,7 +13,7 @@ Recommended apps:
 | Mac OS (M1/M2) | Shadowrocket/ClashX Pro | Shadowrocket             |
 | Android        | Clash for Android       | V2rayNG                  |
 
-We will add Shadowsocks support for CHINA servers. Both Trojan and Shadowsocks will co-exist, and users will be able to choose their prefered protocol.
+**We will add Shadowsocks support for CHINA servers.** Both Trojan and Shadowsocks will co-exist, and users will be able to choose their prefered protocol.
 
 For non-CHINA servers, we will keep the Trojan protocol for the moment.&#x20;
 

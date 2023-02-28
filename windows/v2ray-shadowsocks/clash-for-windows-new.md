@@ -1,27 +1,21 @@
 # Clash For Windows
 
 {% hint style="warning" %}
-This guide is for Clash for Windows **version 0.13.6** and up.
+This guide is for Clash for Windows **version 0.20.5** and up.
 {% endhint %}
 
-{% hint style="warning" %}
-Clash for Windows does NOT support the new VLESS+XTLS protocol. We recommend using [Netch ](netch-1.md)or [v2rayN ](v2rayn-recommended.md)instead.
+Updated: March 1, 2023
 
-Clash for Windows is not officially supported but we provide this guide for those that may want to use it.
-{% endhint %}
-
-Updated: August 13, 2020
-
-Clash for Windows **version 0.13.6 and up** supports both v2ray AND ShadowsocksR. It also supports the TUN/TAP engine for capturing packets. This means it can run games without needing additional software.&#x20;
+Clash for Windows **version 0.20.5 and up** supports both Trojan AND Shadowsocks. It also supports the TUN engine for capturing packets, and provides support for the Windows app store via UWP. This means it can run games without needing additional software.&#x20;
 
 ## Download and install Clash
 
 [Click here](https://wannaflix-sz-edge.b-cdn.net/Clash.for.Windows.Setup.0.20.5.exe) to download the app. Once downloaded, double-click it to install.
 
 {% hint style="info" %}
-Version: v0.19.12
+Version: v0.20.17
 
-Released on: March 11, 2022
+Released on: February 24, 2023
 {% endhint %}
 
 {% hint style="success" %}
@@ -52,22 +46,35 @@ The app icon is a blue cat.
 
 1. Open Clash by double-clicking on the app icon in the tray on the bottom right corner of your screen (blue cat icon)
 2. Go to "Profile" (left-hand menu)
-3. Paste the API in the "Download from URL" box and click "Download"
+3. Paste the API in the "Download from a URL" box and click "Download"
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.36.13 PM.png" alt=""><figcaption></figcaption></figure>
 
 Your server list has now been downloaded to the app.
+
+{% hint style="success" %}
+**IMPORTANT:**
+
+Make sure you select the newly downloaded server config file, and not the default.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.38.45 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Connect
 
 ### Select a server and mode
 
 1. Go to "Proxies" (left-hand menu)
-2. Select either Global mode or Proxy mode from the top (see box below)
-3. Select a server from the list
+2. Select Rule mode from the top (see box below)
+3. Select a server from the list under "WannaFlix". This will be your main server.
+4. You can also select a different server for services like Netflix and Youtube.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.40.24 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Modes:
 
-Global - All websites go through WannaFlix
+Global - All websites go through one WannaFlix server
 
 Rule - Websites go to different servers based on pre-configured rule sets.
 {% endhint %}
@@ -76,6 +83,8 @@ Rule - Websites go to different servers based on pre-configured rule sets.
 
 1. Go to the "General" tab
 2. Toggle the "System Proxy" switch
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.42.39 PM.png" alt=""><figcaption></figcaption></figure>
 
 You are now connected.
 
@@ -91,23 +100,32 @@ To fix it, restart the app and turn the "System Proxy" switch OFF and then quit 
 
 ## Additional Steps \[IMPORTANT]
 
-### Install the TAP engine
+### Install the TUN engine
 
-If you want to play games with Clash or have all apps go through Clash, you need to install the TAP engine.
+If you want to play games with Clash or have all apps go through Clash, you need to install the TUN engine.
 
 1. Go to the "General" tab
-2. Click "Manage" next to "TAP Device"
+2. Click "Manage" next to "Service Mode"
 3. Click "Install"
+4. If you get any popups, click YES.
 
-Now reconnect.&#x20;
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.44.18 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.45.06 PM.png" alt=""><figcaption></figcaption></figure>
+
+If it is correctly installed, the globe will turn green.&#x20;
+
+Now disable System Proxy, and enable TUN mode.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.51.45 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Windows Store apps
 
-Windows Store apps do not go through the VPN by default, even when TAP is enabled. You need to force them by using the UWP Loopback Helper.
+Windows Store apps do not go through the VPN by default, even when TUN/TAP is enabled. You need to force them by using the UWP Loopback Helper.
 
 1. Go to the "General" tab
 2. Click "Launch Helper" next to "UWP Loopback"
-3. If there's a popup click "No"
+3. If there's a popup click "YES"
 4. Select all the apps you want to force through the VPN
 5. Click "Save Changes"
 
@@ -133,17 +151,17 @@ To kill all connections (and therefore forcibly reconnect via the new server), d
 
 ## Troubleshooting
 
-To be done.
+To be done. Please submit any issues to the team. Common issues and how to fix them will be added here.
 
 ### How can I play games with Clash for Windows?
 
-You need to install the TAP Device (see [above](clash-for-windows-new.md#install-the-tap-engine)), and connect to a server that supports UDP.
+You need to install the TUN Device (see [above](clash-for-windows-new.md#install-the-tap-engine)), and connect to a server that supports UDP.
 
 ### Spotify/OneDrive/Other app doesn't work
 
 Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper (see [above](clash-for-windows-new.md#windows-store-apps)).
 
-If it still doesn't work, make sure you've installed the TAP interface (see above).
+If it still doesn't work, make sure you've installed the TUN interface (see above).
 
 ### Netflix/other website is using another server to connect instead of the one I selected.
 
