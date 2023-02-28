@@ -1,5 +1,9 @@
 # Eclipse (OpenVPN)
 
+{% hint style="danger" %}
+**OpenVPN is no longer supported since February 2023.**
+{% endhint %}
+
 ### OpenVPN Connect Setup Tutorial <a href="#openvpnconnect" id="openvpnconnect"></a>
 
 You can download the OpenVPN for Android application [here](https://wannaflix.com/dl.php?type=d\&id=14), for free.
