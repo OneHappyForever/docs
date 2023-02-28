@@ -1,8 +1,12 @@
-# Eclipse \(OpenVPN\)
+# Eclipse (OpenVPN)
+
+{% hint style="danger" %}
+**OpenVPN is no longer supported since February 2023.**
+{% endhint %}
 
 ### 1. Download the App
 
-[Download the app.](https://wannaflix.com/dl.php?type=d&id=13)
+[Download the app.](https://wannaflix.com/dl.php?type=d\&id=13)
 
 Once you downloaded Tunnelblick and opened the .dmg file, double click on Tunnelblick icon to install.
 
@@ -26,7 +30,7 @@ In the top right corner of your screen you should now see the Tunnelblick icon.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/54506bb4e4b09c5ca725192d/images/561aa6ccc697916fa4a838e2/file-minH0rUV0w.png)
 
-### 3. Download the VPN config files and add them in 
+### 3. Download the VPN config files and add them in&#x20;
 
 **Go to** [**this page**](https://wannaflix.com/eclipse.php)**.**
 
@@ -51,4 +55,3 @@ Finally, **copy your Eclipse username and password** from [the same page](https:
 ... **and paste them in.**
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/54506bb4e4b09c5ca725192d/images/561aa8339033600a7a36d024/file-U4SJerSiJj.png)
-

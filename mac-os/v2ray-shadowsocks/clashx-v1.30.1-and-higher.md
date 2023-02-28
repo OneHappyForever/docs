@@ -1,6 +1,6 @@
-# ClashX v1.30.1 and Higher
+# ClashX v1.30.1 and Higher (Recommended)
 
-Updated: August 5, 2022
+Updated: March 1, 2023
 
 {% hint style="info" %}
 **IMPORTANT**
@@ -8,8 +8,8 @@ Updated: August 5, 2022
 **We no longer support versions under 1.30.1. Please update to the latest version if you are running a version older than 1.30.1.**
 {% endhint %}
 
-{% hint style="warning" %}
-**If you have an M1 Mac, we recommend using** [**Shadowrocket**](shadowrocket-m1-macs-only.md) **instead.**
+{% hint style="success" %}
+If you have an M1 Mac, [Shadowrocket](shadowrocket-m1-macs-only.md) is a good alternative.
 {% endhint %}
 
 ## Watch Tutorial Video:
@@ -20,12 +20,12 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install
 
-[Click here](https://wannaflix.com/dl.php?type=d\&id=41) to download the app, then run to install. ****&#x20;
+[Click here](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public) to download the latest version of the app, then run to install. ****&#x20;
 
 {% hint style="info" %}
-Version: 1.95.0.1
+Version: 1.97.0.4
 
-Released: July 13, 2022
+Released: February 23, 2023
 
 Native M1 Mac support
 {% endhint %}
@@ -34,8 +34,6 @@ Native M1 Mac support
 Alternative mirrors:
 
 Download via [App Center](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public) (ClashX PRO v1.72.0 and up)
-
-Download on [Github](https://github.com/yichengchen/clashX/releases/download/1.20.0/ClashX.dmg) (version 1.30.1 and up)
 {% endhint %}
 
 If it is the first time using ClashX, a pop up will appear saying that the app is from an unknown developer. You need to allow this app to open.
@@ -78,8 +76,8 @@ You can also try to manually update it by going to Config > remote config> updat
 
 ## Start the VPN
 
-1. Select Proxy Mode : (Global)
-2. Under GLOBAL, chose a server from the list
+1. Select Proxy Mode : Rule
+2. Under WannaFlix, chose a server from the list
 3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.12.32 PM.png>)
