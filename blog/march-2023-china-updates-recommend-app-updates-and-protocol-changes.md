@@ -23,7 +23,7 @@ It's been almost a year since our last China update. As the situation in China c
 
 ### &#x20;Major changes in the past year
 
-We have notices several major changes in the situation in China.&#x20;
+We have noticed several major changes in the situation in China.&#x20;
 
 First, since the October meeting last year, datacenters within China have cracked down on VPN traffic. Most of our suppliers closed shop, and new suppliers are unstable. Since then, we have had to change middle servers every few weeks. When a middle server goes down, it will affect the CHINA server being tunneled through it. This has been the main cause of some servers going offline from time to time. To mitigate this issue we are spreading traffic over multiple datacenters.
 
