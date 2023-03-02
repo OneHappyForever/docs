@@ -72,7 +72,7 @@ To do so, right click on the profile you just added, and go to settings. Under "
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.02.01 PM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.03.20 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.03.20 PM.png" alt=""><figcaption><p>Set the Update Interval to every 12 hours</p></figcaption></figure>
 
 ## Connect
 
