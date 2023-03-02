@@ -64,6 +64,16 @@ Make sure you select the newly downloaded server config file, and not the defaul
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-28 at 5.38.45 PM.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+We **HIGHLY** recommend to set the API to auto-update the server list at least once a day (preferably every 12 hours).&#x20;
+
+To do so, right click on the profile you just added, and go to settings. Under "Update Interval (hours)" type "12", then click OK.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.02.01 PM.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.03.20 PM.png" alt=""><figcaption></figcaption></figure>
+
 ## Connect
 
 ### Select a server and mode
@@ -156,6 +166,12 @@ To kill all connections (and therefore forcibly reconnect via the new server), d
 ## Troubleshooting
 
 To be done. Please submit any issues to the team. Common issues and how to fix them will be added here.
+
+### How can I update the server list?
+
+Go to profiles, and click on the refresh icon next to the profile you want to update.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.05.04 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### How can I play games with Clash for Windows?
 
