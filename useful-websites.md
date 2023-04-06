@@ -1,4 +1,4 @@
-# Useful Websites
+# Useful Websites/Tools
 
 A list of websites we like. We are not affiliated with any of these sites, nor do we get any monetary compensation from them.&#x20;
 
@@ -7,6 +7,16 @@ Disclaimer
 
 We are NOT responsible for any issues arising from your use of the services below. Prices and service quality may change over time and this page may not be updated frequently. Please do your own research. Should there be any problems with any of the services below, please address your concerns to their respective support system.
 {% endhint %}
+
+## YouTube adblock
+
+#### iOS
+
+Usually most people can block Youtube ads on PC/Mac, but have a hard time doing it on iOS.&#x20;
+
+Option #1: Brave Browser. Open YouTube in Brave. It blocks all the ads. They also have option to load popular adblocks.&#x20;
+
+Option #2: [Vinegar](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229). It's a Safari plugin. The app costs $2. It replaces the default Youtube player with the generic HTML player, and blocks Youtube ads. You can select the video quality to load (bypasses Youtube's default 360p quality on mobile).
 
 ## Twitch Streaming in China without VPN
 
