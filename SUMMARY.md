@@ -132,6 +132,7 @@
 * [FAQ](faq/README.md)
   * [Netflix](faq/netflix.md)
   * [China](faq/china.md)
+  * [Whatsapp](faq/whatsapp.md)
   * [Support](faq/faq.md)
   * [Updating the Server List](faq/updating-the-server-list.md)
   * [Alternative Apps + Downloads](faq/alternative-apps-+-downloads.md)
