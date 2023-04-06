@@ -25,7 +25,7 @@ To find the login and password for our US iTunes account, login to your [client 
 {% endhint %}
 
 {% hint style="success" %}
-**See our** [**detailed guide on how to login to our iTunes account.**](../switching-itunes-account.md)****
+**See our** [**detailed guide on how to login to our iTunes account.**](../switching-itunes-account.md)
 {% endhint %}
 
 Search for "shadowrocket" and download it.
@@ -85,4 +85,8 @@ We recommend updating it once ever 6 months. If there is a major update that nee
 
 ## Troubleshooting
 
-No major issues have been discovered. If you encounter any problems on iOS, please reach out to us. If we find an issue that pops up often, we'll add it here.
+If you encounter any problems on iOS, please reach out to us. If we find an issue that pops up often, we'll add it here.
+
+#### WhatsApp calls don't work
+
+Disable UDP forwarding in Shadowrocket settings. Open Shadowrocket > Settings > UDP > Disable UDP (set the switch to off)
