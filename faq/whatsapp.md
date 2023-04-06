@@ -6,7 +6,7 @@ Whatsapp text and pictures usually work fine. However, some users have encounter
 
 ### Shadowrocket
 
-Disable UDP forwarding in Shadowrocket settings. Open Shadowrocket > Settings > UDP > Disable UDP (set the switch to off).
+Disable UDP forwarding in Shadowrocket settings. Open Shadowrocket > Settings > UDP > Enable relay > OFF
 
 ## Android
 

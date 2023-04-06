@@ -89,4 +89,4 @@ If you encounter any problems on iOS, please reach out to us. If we find an issu
 
 #### WhatsApp calls don't work
 
-Disable UDP forwarding in Shadowrocket settings. Open Shadowrocket > Settings > UDP > Disable UDP (set the switch to off)
+Disable UDP forwarding in Shadowrocket settings. Open Shadowrocket > Settings > UDP > Enable relay > OFF
