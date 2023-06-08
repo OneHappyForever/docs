@@ -65,7 +65,7 @@ xcode-select --install
 
 If you encounter a permission issue while installing brew, paste the following into your terminal:
 
-sudo chgrp -R admin $(brew --prefix)/ __&#x20;
+sudo chgrp -R admin $(brew --prefix)/&#x20;
 
 sudo chmod -R g+w $(brew --prefix)/
 {% endhint %}

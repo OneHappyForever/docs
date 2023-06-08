@@ -45,7 +45,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 ![](../.gitbook/assets/543742.png)
 
-5\. **** Click the **"OK"** button.
+5\.  Click the **"OK"** button.
 
 ## WINDOWS 7
 

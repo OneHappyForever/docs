@@ -12,7 +12,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 ## How to Setup Xbox 360
 
-1\. __ First go to _Mybox_ and select _System Settings_
+1\. First go to _Mybox_ and select _System Settings_
 
 2\. Then select _Network Settings_
 

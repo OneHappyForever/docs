@@ -21,7 +21,7 @@ To find the login and password for our US iTunes account, login to your [client 
 {% endhint %}
 
 {% hint style="success" %}
-**See our** [**detailed guide on how to login to our iTunes account.**](../../ios/switching-itunes-account.md)****
+**See our** [**detailed guide on how to login to our iTunes account.**](../../ios/switching-itunes-account.md)
 {% endhint %}
 
 Open your Mac App Store. Search for "shadowrocket", and click the iPad/iPhone apps tab to find it. Download it.
@@ -73,4 +73,4 @@ No major issues have been discovered. If you encounter any problems on Mac, plea
 \
 
 
-### ****
+###

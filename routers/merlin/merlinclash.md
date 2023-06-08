@@ -126,7 +126,7 @@ First, you need to download the correct version of MerlinClash for your router.&
 
 You will need a telegram account to access the telegram group where the files are posted.&#x20;
 
-**Join the group:** [**https://t.me/merlinclashcat**](https://t.me/merlinclashcat)****
+**Join the group:** [**https://t.me/merlinclashcat**](https://t.me/merlinclashcat)
 
 Then find the latest file for your router. You will need to know the CPU type of your router.
 

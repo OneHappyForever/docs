@@ -12,7 +12,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 ## How to Set up Xbox One
 
-1\. __ Go to the _Dashboard_
+1\. Go to the _Dashboard_
 
 2\. Press _options_ button the controller
 

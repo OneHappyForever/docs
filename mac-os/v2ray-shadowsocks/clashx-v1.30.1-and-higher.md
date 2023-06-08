@@ -20,7 +20,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install
 
-[Click here](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public) to download the latest version of the app, then run to install. ****&#x20;
+[Click here](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution\_groups/public) to download the latest version of the app, then run to install.&#x20;
 
 {% hint style="info" %}
 Version: 1.97.0.4

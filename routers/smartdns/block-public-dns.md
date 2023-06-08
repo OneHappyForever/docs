@@ -64,8 +64,8 @@ Gateway: (use the IP address of your router)
 What this does is force your router to route requests to public DNS servers to itself, which will never get routed, so they will never work, and your device will fall back to using the DNS servers you have configured.
 
 **Additional Routes**\
-****\
-****Some of our users also suggested the use following static routes. But these may also cause issues on some other user networks. So please use the first set of static routes first and then if needed you can try followings:\
+\
+Some of our users also suggested the use following static routes. But these may also cause issues on some other user networks. So please use the first set of static routes first and then if needed you can try followings:\
 \
 Network Address: 23.246.0.0\
 Subnet Mask: 255.255.192.0 (or /18)\

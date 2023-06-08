@@ -30,7 +30,7 @@ First you need to find the IP of your router. Please use the appropriate method 
 
 ### Find Router IP on OS X
 
-1\. __ Open _System Preference_s
+1\. Open _System Preference_s
 
 2\. Go to _Network_
 

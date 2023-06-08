@@ -20,7 +20,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 ## How to set up Playstation 4
 
-1\. __ Go to _settings_
+1\. Go to _settings_
 
 2\. Go to _Network_
 

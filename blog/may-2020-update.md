@@ -124,7 +124,7 @@ We recommend staying on those servers during the next month for the best stabili
 
 If all servers stop working for any reason, please **update your server list first.**
 
-**See** [**how to update your server list.**](../faq/updating-the-server-list.md)****
+**See** [**how to update your server list.**](../faq/updating-the-server-list.md)
 
 Also, if you are running CLASH (ClashX, Clash for Windows, ClashA), please [see the section about it above](may-2020-update.md#what-should-i-do-to-benefit-from-the-new-update).
 

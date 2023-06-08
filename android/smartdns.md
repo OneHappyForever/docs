@@ -24,7 +24,7 @@ There are a lot of implementations of Android in the market. That is why each de
 
 ### Changing DNS on Android 9.x
 
-1\. **** Find Settings.
+1\. Find Settings.
 
 2\. Select "Network and Internet"&#x20;
 
@@ -161,4 +161,3 @@ There are a lot of implementations of Android in the market. That is why each de
 
 11\. Restart your device
 
-****

@@ -15,7 +15,7 @@ Required dependencies:
 
 If you don't have it installed or encounter a .dll error when running the program, please install VS C++.
 
-****[**Click here**](https://wannaflix-sz-edge.b-cdn.net/VC\_redist.x64.exe) **** to download the installer.
+[**Click here**](https://wannaflix-sz-edge.b-cdn.net/VC\_redist.x64.exe) to download the installer.
 {% endhint %}
 
 {% hint style="success" %}
@@ -45,9 +45,9 @@ If there's a "Windows protected your pc" pop-up, click "more info" > "run anyway
 <figure><img src="../../.gitbook/assets/windows-defender.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-If you have an additional error pop up at this point, you probably don't have **Visual Studio C++ 2015-2019** installed. ****&#x20;
+If you have an additional error pop up at this point, you probably don't have **Visual Studio C++ 2015-2019** installed.&#x20;
 
-****[**Click here**](https://wannaflix-sz-edge.b-cdn.net/VC\_redist.x64.exe) **** to download the installer. Then, install Visual Studio C++ on your PC. This program is from Microsoft, it is safe.&#x20;
+[**Click here**](https://wannaflix-sz-edge.b-cdn.net/VC\_redist.x64.exe) to download the installer. Then, install Visual Studio C++ on your PC. This program is from Microsoft, it is safe.&#x20;
 {% endhint %}
 
 {% hint style="info" %}

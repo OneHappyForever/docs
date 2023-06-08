@@ -37,7 +37,7 @@ Old app: v2rayNG
 Why the switch: ClashR not only brings SSR support, but is also simpler to use and more stable than v2rayN.
 
 {% hint style="warning" %}
-IMPORTANT: ClashR for Android _**is NOT the same**_ as __ Clash for Android. Clash for Android does not support SSR and uses a different API link than ClashR. They are NOT compatible with each other.&#x20;
+IMPORTANT: ClashR for Android _**is NOT the same**_ as Clash for Android. Clash for Android does not support SSR and uses a different API link than ClashR. They are NOT compatible with each other.&#x20;
 
 We do not officially support Clash for Android, though you can still get the API for it on your client area dashboard.
 {% endhint %}

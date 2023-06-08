@@ -14,7 +14,7 @@ Shadowrocket 现在支持新的 VLESS+XTLS 协议。 我们强烈推荐你更新
 
 我们强烈建议您观看视频教程，在中国也可以直接观看本视频。
 
-****[**视频**](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)
+[**视频**](https://watch.cloudflarestream.com/11c409c0fca6a7925f61e28945ff4bd1)
 
 ## **软件下载**
 
@@ -70,7 +70,7 @@ API 链接应以 https://api.wannaflix.com/**apiv3.php**?type=**shadowrocket** �
 3. 否则，您将无法使用本应用程序。
 
 在服务器列表顶部，将“路由”更改为“代理“，以获得更好的稳定性\
-****
+
 
 **Updating the App**
 

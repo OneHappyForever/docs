@@ -28,7 +28,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 ## Setting up the DNS on iOS 7-10
 
 1\. First open _Settings_\
-__2. Select _Wi-Fi_ \
+2\. Select _Wi-Fi_ \
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5ac77957042863075092293b/images/5ad0849a04286307509262a3/245223)
 
 3\. Press the blue arrow located on the right of the router you are connected to. \

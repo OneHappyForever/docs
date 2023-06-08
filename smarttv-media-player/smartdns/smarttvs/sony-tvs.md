@@ -30,7 +30,7 @@ If you have a North American Sony Bravia TV please you the guide below instead.
 
 The following guide has been created on a North American Sony Bravia TV.
 
-1\. __ Press  _Home_ on the remote
+1\. Press  _Home_ on the remote
 
 2\. Scroll down and choose  _Settings_
 

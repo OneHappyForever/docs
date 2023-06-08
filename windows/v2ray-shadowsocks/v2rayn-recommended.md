@@ -15,7 +15,7 @@ Required dependencies:
 
 This version is included in by default in Windows 8/8.1/10, but **needs to be installed separately on Windows 7.**
 
-****[**Click here**](https://support.microsoft.com/en-gb/topic/microsoft-net-framework-4-8-offline-installer-for-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0) **** to be redirected to Microsoft's website to download the .NET framework installer.
+[**Click here**](https://support.microsoft.com/en-gb/topic/microsoft-net-framework-4-8-offline-installer-for-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0) to be redirected to Microsoft's website to download the .NET framework installer.
 {% endhint %}
 
 ## Watch Tutorial Video:
