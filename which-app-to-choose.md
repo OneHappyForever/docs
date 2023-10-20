@@ -116,10 +116,6 @@ Routers are NOT officially supported. Support provided on a best-effort basis.
 
 If you get a OpenWRT router, it is **HIGHLY, HIGHLY** recommended to get it pre-installed. Installing it yourself is very complicated, if not impossible. We do not provide guides or support on how to install OpenWRT due to the complexity.
 
-{% hint style="info" %}
-If you need a router, or have a router but need help installing OpenWRT with all the apps needed, many of our users have had a good experience with @OpenFirmware. You can contact him on telegram via our group chat (mention him @OpenFirmware) or by private message [here](https://t.me/OpenFirmware).
-{% endhint %}
-
 |                      | Merlin |                   OpenWRT                   |
 | -------------------- | :----: | :-----------------------------------------: |
 | Officially supported |    ❌   |                      ❌                      |

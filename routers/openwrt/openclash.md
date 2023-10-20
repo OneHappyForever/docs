@@ -7,7 +7,7 @@ To see if your router will be installed with OpenClash, please contact your rout
 {% endhint %}
 
 {% hint style="warning" %}
-We only provide instructions on how to setup OpenClsah with WannaFlix. We do not provide instructions on how to install OpenClash on your router if it isn't already installed.
+We only provide instructions on how to setup OpenClash with WannaFlix. We do not provide instructions on how to install OpenClash on your router if it isn't already installed.
 {% endhint %}
 
 ## Initial setup
