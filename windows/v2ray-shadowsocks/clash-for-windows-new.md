@@ -14,12 +14,12 @@ Clash for Windows **version 0.20.5 and up** supports both Trojan AND Shadowsocks
 
 ## Download and install Clash
 
-[Click here](https://wannaflix-sz-edge.b-cdn.net/Clash.for.Windows.Setup.0.20.5.exe) to download the app. Once downloaded, double-click it to install.
+[Click here](https://wannaflix-sz-edge.b-cdn.net/Clash.for.Windows.Setup.0.20.39.exe) to download the app. Once downloaded, double-click it to install.
 
 {% hint style="info" %}
-Version: v0.20.17
+Version: v0.20.39
 
-Released on: February 24, 2023
+Released on: October, 2023
 {% endhint %}
 
 {% hint style="success" %}
