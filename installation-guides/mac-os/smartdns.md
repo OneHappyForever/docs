@@ -18,11 +18,11 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 1\. Open up System Preferences and find Network&#x20;
 
-![](../.gitbook/assets/file-dpubvwwyh5.png)
+![](../../.gitbook/assets/file-dpubvwwyh5.png)
 
 2\. Then select either Wi-Fi or Ethernet depending on the method you use to connect to the Internet.&#x20;
 
-![](../.gitbook/assets/file-uoahckseiw.png)
+![](../../.gitbook/assets/file-uoahckseiw.png)
 
 3\. Once selected click the advanced button on the lower right-side&#x20;
 
@@ -32,7 +32,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 6\. Add **165.227.243.239** and **165.227.254.128**&#x20;
 
-![](../.gitbook/assets/file-vkaaln7iwq.png)
+![](../../.gitbook/assets/file-vkaaln7iwq.png)
 
 7\. Remove any other DNS address&#x20;
 
