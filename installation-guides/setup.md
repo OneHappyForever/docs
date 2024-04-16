@@ -2,15 +2,15 @@
 
 ## Windows
 
-[Netch -- v2ray/Shadowsocks (Recommended)](../windows/v2ray-shadowsocks/netch-1.md)
+[Netch -- v2ray/Shadowsocks (Recommended)](windows/netch-1.md)
 
 [OpenVPN -- Eclipse (OpenVPN)](../windows/eclipse-openvpn.md)
 
-[SmartDNS (manual setup)](windows/smartdns.md)
+[SmartDNS (manual setup)](../windows/smartdns.md)
 
-[v2rayN -- v2ray](../windows/v2ray-shadowsocks/v2rayn-recommended.md)
+[v2rayN -- v2ray](../windows/v2rayn-recommended.md)
 
-[SSR -- Shadowsocks](../windows/shadowsocks/ssr.md)
+[SSR -- Shadowsocks](windows/ssr.md)
 
 ## Mac OS
 
@@ -18,7 +18,7 @@
 
 [Tunnelblick -- Eclipse (OpenVPN) (manual setup)](../mac-os/eclipse-openvpn.md)
 
-[SmartDNS (manual setup)](mac-os/smartdns.md)
+[SmartDNS (manual setup)](../mac-os/smartdns.md)
 
 [v2rayU -- v2ray ](mac-os/v2rayu.md)
 
@@ -28,7 +28,7 @@
 
 [OpenVPN -- Eclipse (OpenVPN) (manual setup)](../ios/eclipse-openvpn.md)
 
-[SmartDNS (manual setup)](ios/smartdns.md)
+[SmartDNS (manual setup)](../ios/smartdns.md)
 
 [Quantumult -- v2ray/Shadowsocks](../ios/v2ray-shadowsocks/quantumult-alternative-app.md)
 
@@ -38,7 +38,7 @@
 
 [OpenVPN -- Eclipse (OpenVPN) (manual setup)](../android/eclipse-openvpn.md)
 
-[SmartDNS (manual setup)](android/smartdns.md)
+[SmartDNS (manual setup)](../android/smartdns.md)
 
 [v2rayNG -- v2ray](../android/v2ray-shadowsocks/v2rayng-recommended.md)
 
@@ -54,5 +54,5 @@
 
 ## SmartTV/Media Player
 
-[SmartDNS (manual setup)](smarttv-media-player/smartdns/)
+[SmartDNS (manual setup)](../smarttv-media-player/smartdns/)
 

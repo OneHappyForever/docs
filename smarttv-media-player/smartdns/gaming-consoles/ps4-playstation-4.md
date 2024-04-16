@@ -3,7 +3,7 @@
 {% hint style="danger" %}
 Netflix has upgraded its geo-blocking recently and may not work with our SmartDNS on PS4 devices. Blocking public DNS server MAY solve the issue.&#x20;
 
-See how to block public DNS servers [here](../../../../routers/smartdns/block-public-dns.md).
+See how to block public DNS servers [here](../../../routers/smartdns/block-public-dns.md).
 
 Hulu, etc. still work.
 {% endhint %}

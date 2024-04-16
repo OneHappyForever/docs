@@ -8,7 +8,7 @@ We've released video tutorials for the 4 major platforms (Windows, Mac OS, Anroi
 
 #### Windows:
 
-New recommended app: [Netch](../../windows/v2ray-shadowsocks/netch-1.md)
+New recommended app: [Netch](../../installation-guides/windows/netch-1.md)
 
 Old app: v2rayN
 

@@ -4,12 +4,12 @@ We are extremely pleased to announce 6 new Shadowsocks servers for all our users
 
 These Shadowsocks servers are:
 
-* \[SSR\]\[CHINA\] Japan
-* \[SSR\]\[CHINA\] Singapore
-* \[SSR\]\[CHINA\] Hong Kong
-* \[SSR\]\[CHINA\] Germany
-* \[SSR\]\[CHINA\] UK London
-* \[SSR\]\[CHINA\] US Los Angeles
+* \[SSR]\[CHINA] Japan
+* \[SSR]\[CHINA] Singapore
+* \[SSR]\[CHINA] Hong Kong
+* \[SSR]\[CHINA] Germany
+* \[SSR]\[CHINA] UK London
+* \[SSR]\[CHINA] US Los Angeles
 
 All servers support Netflix. We may add additional servers in the future should there be enough demand.
 
@@ -27,7 +27,7 @@ At the time, there was no technology available to prevent the GFW from identifyi
 
 This has now changed.
 
-Over the past few months, new technology has arisen that now allows us to better hide Shadowsocks traffic. 
+Over the past few months, new technology has arisen that now allows us to better hide Shadowsocks traffic.&#x20;
 
 We are now using this technology on our servers, and this allows us to bring back Shadowsocks to you.
 
@@ -49,7 +49,7 @@ To get the new Shadowsocks servers, you'll need an app that supports the Shadows
 
 Here is a list of apps that do, along with links to guides:
 
-* Windows - [Netch](../windows/v2ray-shadowsocks/netch-1.md)
+* Windows - [Netch](../installation-guides/windows/netch-1.md)
 * Mac OS - [ClashX version 1.30.1 and up](../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
 * iOS - [Shadowrocket](../ios/v2ray-shadowsocks/shadowrocket.md)
 * iOS - [Quantumult](../ios/v2ray-shadowsocks/quantumult-alternative-app.md)
@@ -57,7 +57,7 @@ Here is a list of apps that do, along with links to guides:
 
 All of these apps support both v2ray and ShadowsocksR, so you can have all your servers on a single app.
 
-These apps have been tested and are performing well. 
+These apps have been tested and are performing well.&#x20;
 
 Therefore, we will start recommending these apps on the dashboard instead of v2rayN, v2rayU, and v2rayNG, which do not support the ShadowsocksR protocol. You can still continue to use the v2ray apps if you prefer. The guides, APIs, and downloads will still be available for all of them.
 
@@ -65,7 +65,7 @@ If you already are using one of the apps that support SSR, the SSR servers have 
 
 ### What about the VIP servers?
 
-Great question. 
+Great question.&#x20;
 
 If the feedback for the new Shadowsocks servers is positive, we will be rolling out Shadowsocks versions of all the VIP servers.
 
@@ -75,9 +75,9 @@ So please let us know how the Shadowsocks servers are performing and keep a look
 
 Well, that should do it for today's announcement.
 
-Please know that we're always looking for ways to improve your internet quality, and if anything new comes up that will improve our service, we'll be sure to let you know. 
+Please know that we're always looking for ways to improve your internet quality, and if anything new comes up that will improve our service, we'll be sure to let you know.&#x20;
 
-Thanks again for your continued support! We really love the community you've helped build with us, especially on telegram. 
+Thanks again for your continued support! We really love the community you've helped build with us, especially on telegram.&#x20;
 
 And thanks to all our beta testers who took the time to use the servers and give us constructive feedback. Your help was invaluable and much appreciated.
 
@@ -88,4 +88,3 @@ We hope you have a very happy Monday!
 The WannaFlix Team
 
 P.S. We've added a page about [which protocol to choose](../which-protocol-to-choose.md), and [which app to choose](../which-app-to-choose.md). You'll probably find them really interesting.
-

@@ -13,7 +13,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 {% hint style="danger" %}
 The Netflix app on the PS3 and PS4 is hard-coded to use public DNS servers. The good news is if you block access to these public DNS servers, it falls back to the DNS servers configured on your device (ours!).
 
-Follow [this guide](../../../../routers/smartdns/block-public-dns.md) to block public DNS servers.
+Follow [this guide](../../../routers/smartdns/block-public-dns.md) to block public DNS servers.
 {% endhint %}
 
 ## Add Our DNS Servers
