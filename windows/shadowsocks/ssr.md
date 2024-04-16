@@ -7,7 +7,7 @@ NOTE: This guide will no longer be updated as SSR is no longer under active deve
 {% endhint %}
 
 {% hint style="info" %}
-We personally find that the Netch app is easier to use and fully supports ShadowsocksR. [See the guide here >](netch-1.md)
+We personally find that the Netch app is easier to use and fully supports ShadowsocksR. [See the guide here >](../v2ray-shadowsocks/netch-1.md)
 {% endhint %}
 
 This app ONLY support Shadowsocks. It does NOT support v2ray.

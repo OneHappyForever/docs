@@ -16,15 +16,15 @@ You will also need an active WannaFlix subscription to connect to our servers.&#
 
 ## Windows
 
-[Netch -- v2ray/Shadowsocks (Recommended)](../../installation-guides/windows/netch-1.md)
+[Netch -- v2ray/Shadowsocks (Recommended)](../../windows/v2ray-shadowsocks/netch-1.md)
 
 [OpenVPN -- Eclipse (OpenVPN)](../../windows/eclipse-openvpn.md)
 
 [SmartDNS (manual setup)](../../windows/smartdns.md)
 
-[v2rayN -- v2ray](../../windows/v2rayn-recommended.md)
+[v2rayN -- v2ray](../../windows/v2ray-shadowsocks/v2rayn-recommended.md)
 
-[SSR -- Shadowsocks](../../installation-guides/windows/ssr.md)
+[SSR -- Shadowsocks](../../windows/shadowsocks/ssr.md)
 
 ## Mac OS
 

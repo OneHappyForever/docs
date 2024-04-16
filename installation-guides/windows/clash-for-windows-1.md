@@ -5,7 +5,7 @@ Updated: 11 October, 2020
 {% hint style="danger" %}
 **IMPORTANT**
 
-**We will be dropping support for Clash for Windows soon. Please use** [**Netch** ](netch-1.md)**instead!**
+**We will be dropping support for Clash for Windows soon. Please use** [**Netch** ](../../windows/v2ray-shadowsocks/netch-1.md)**instead!**
 {% endhint %}
 
 {% hint style="danger" %}
@@ -16,9 +16,9 @@ Many users find Clash for Windows confusing, and new versions often break old AP
 
 {% tabs %}
 {% tab title="Go to Netch or V2rayN" %}
-[Netch (Recommended) >](netch-1.md)
+[Netch (Recommended) >](../../windows/v2ray-shadowsocks/netch-1.md)
 
-[V2rayN >](../../windows/v2rayn-recommended.md)
+[V2rayN >](../../windows/v2ray-shadowsocks/v2rayn-recommended.md)
 {% endtab %}
 
 {% tab title="Show me the guide for Clash" %}

@@ -49,7 +49,7 @@ To get the new Shadowsocks servers, you'll need an app that supports the Shadows
 
 Here is a list of apps that do, along with links to guides:
 
-* Windows - [Netch](../installation-guides/windows/netch-1.md)
+* Windows - [Netch](../windows/v2ray-shadowsocks/netch-1.md)
 * Mac OS - [ClashX version 1.30.1 and up](../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
 * iOS - [Shadowrocket](../ios/v2ray-shadowsocks/shadowrocket.md)
 * iOS - [Quantumult](../ios/v2ray-shadowsocks/quantumult-alternative-app.md)
