@@ -16,7 +16,7 @@ Why the switch: Netch adds SSR support, supports TUN/TAP proxying of games and W
 
 #### **Mac OS:**
 
-New recommended app: [ClashX version 1.30.2 and up](../../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
+New recommended app: [ClashX version 1.30.2 and up](../../mac-os/clashx-v1.30.1-and-higher.md)
 
 Old app: ClashX version 1.30.0 and under, and v2rayU
 
