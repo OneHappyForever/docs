@@ -1,15 +1,15 @@
-# Shadowrocket (M1 Macs ONLY) (Recommended)
+# Shadowrocket \[M1 Macs ONLY]
 
-Updated: December 11, 2021
+Updated: April 17, 2024
 
-Shadowrocket is now working on all M1 Macs. If you have an M1 Mac and would like to use Shadowrocket on it, please refer to our iOS installation guide [here](../../ios/v2ray-shadowsocks/shadowrocket.md).
-
-{% hint style="success" %}
-Shadowrocket now support the new VLESS+XTLS protocol. We HIGHLY recommend updating your APIs to the latest version 3.
+{% hint style="danger" %}
+Shadowrocket is a third-party paid app. If you already have a non-chinese itunes account, we recommend using [OneClick](../oneclick-m1-macs-only-recommended.md) instead. OneClick's setup is easier as well.
 {% endhint %}
 
+Shadowrocket is now working on all M-series Macs.&#x20;
+
 {% hint style="info" %}
-If you don't have an M1 Mac, please use [ClashX](clashx-v1.30.1-and-higher.md#troubleshooting) instead. V2rayU is not as stable.
+If you don't have an M1 Mac, please use [ClashX](clashx-v1.30.1-and-higher.md) instead.&#x20;
 {% endhint %}
 
 ## Download the app
@@ -65,7 +65,7 @@ At the top of the server list, change the "Global Routing" to **Proxy** for bett
 
 ## Updating the App <a href="#updating-the-app" id="updating-the-app"></a>
 
-To update the app, simply log back in to our iTunes account and update it. We recommend updating it once ever 6 months. If there is a major update that needs to be done earlier, we'll send you an email.
+To update the app, simply log back in to our iTunes account and update it. We recommend updating it once every 12 months. If there is a major update that needs to be done earlier, we'll send you an email.
 
 ## Troubleshooting <a href="#troubleshooting" id="troubleshooting"></a>
 

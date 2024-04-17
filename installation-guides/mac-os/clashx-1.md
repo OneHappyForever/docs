@@ -8,7 +8,7 @@
 
 {% tabs %}
 {% tab title="Go to Clash v1.30.1 and up" %}
-[ClashX v1.30.1 and Higher >](../../mac-os/clashx-v1.30.1-and-higher.md)
+[ClashX v1.30.1 and Higher >](../../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
 {% endtab %}
 
 {% tab title="Show me the old guide" %}

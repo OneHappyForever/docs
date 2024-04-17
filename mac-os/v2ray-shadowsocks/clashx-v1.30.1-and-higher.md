@@ -9,7 +9,7 @@ Updated: April 17, 2024
 {% endhint %}
 
 {% hint style="success" %}
-If you have an M1 Mac, [OneClick](oneclick-m1-macs-only-recommended.md) is a good alternative.
+If you have an M1 Mac, [OneClick](../oneclick-m1-macs-only-recommended.md) is a good alternative.
 {% endhint %}
 
 ## Watch Tutorial Video:
@@ -34,7 +34,7 @@ If it is the first time using ClashX, a pop up will appear saying that the app i
 
 The first time ClashX runs, you will be prompted to install a plugin. This plugin is used to set up the system proxy, otherwise you will need to enter your administrator password each time you connect to the VPN. Click "Install" and macOS will prompt for the user password.
 
-![](<../.gitbook/assets/Screen Shot 2022-08-05 at 6.32.51 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 6.32.51 PM.png>)
 
 ## STEP 2: Add the servers
 
@@ -56,15 +56,15 @@ Subconverter API - only use this API if you know how to configure the subscripti
 
 1. After running ClashX, click the Clash icon (a kitten) on the menu bar, and then click Config > Remote Config > Manage in the menu.
 
-![](<../.gitbook/assets/Screen Shot 2022-08-05 at 8.04.24 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.04.24 PM.png>)
 
 2\. A new window will open. Click "Add", paste your Clash API link and click OK.
 
-![](<../.gitbook/assets/Screen Shot 2022-08-05 at 8.00.15 PM.png>) ![](<../.gitbook/assets/Screen Shot 2022-08-05 at 8.02.22 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.00.15 PM.png>) ![](<../../.gitbook/assets/Screen Shot 2022-08-05 at 8.02.22 PM.png>)
 
 If you have pasted the correct link and the network is properly connected to the Wannaflix API, you should see a success message.
 
-![](../.gitbook/assets/5d5c4570d5f092b49ab5137e92550bdc.png)
+![](../../.gitbook/assets/5d5c4570d5f092b49ab5137e92550bdc.png)
 
 {% hint style="info" %}
 If you do not see this message, check that you have an internet connection and an active subscription.&#x20;
@@ -84,7 +84,7 @@ You can also try to manually update it by going to Config > remote config> updat
 2. Under WannaFlix, choose a server from the list
 3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-17 at 2.19.37 PM.png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-17 at 2.19.37 PM.png" alt="" width="356"><figcaption></figcaption></figure>
 
 ### OPTION 2: Advanced API - Rule Mode
 
@@ -92,7 +92,7 @@ You can also try to manually update it by going to Config > remote config> updat
 2. Under WannaFlix, chose a server from the list
 3. Check "Set as system proxy" to enable ClashX and connect to Wannaflix.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2023-02-28 at 6.21.38 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2023-02-28 at 6.21.38 PM.png>)
 
 You can select the server by clicking on WannaFlix and selecting a server from the list.&#x20;
 
@@ -112,7 +112,7 @@ Please re-download the app from the link above. It's an updated version. Older v
 
 After updating from the old version of Clash to the new version, you may see the following error:
 
-![](../.gitbook/assets/378125d64dc2b271c9b1cafc42fdd634.png)
+![](../../.gitbook/assets/378125d64dc2b271c9b1cafc42fdd634.png)
 
 This is a known bug with the current version of clash. It's not related to the Wannaflix configuration API.&#x20;
 
@@ -120,7 +120,7 @@ To solve this, click the ClashX icon in the status bar and select "Configure" - 
 
 Delete the config.yaml file in the open Finder window.
 
-![](../.gitbook/assets/f2156562aac93e23b2730837ecbbc05c.png)
+![](../../.gitbook/assets/f2156562aac93e23b2730837ecbbc05c.png)
 
 Then exit and restart the ClashX application.
 
