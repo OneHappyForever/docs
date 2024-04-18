@@ -59,7 +59,7 @@ If you downloaded the file from github, it will default to Chinese. Scroll down 
 #### Get the api link
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php)&#x20;
-2. Under "Windows", select "V2rayN for Windows (v6.42+)"
+2. Under "Windows", select "V2rayN (v6.42+)"
 3. Click on the "Copy API" button to copy the API
 
 {% hint style="info" %}
