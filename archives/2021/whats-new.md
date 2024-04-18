@@ -44,7 +44,7 @@ We do not officially support Clash for Android, though you can still get the API
 
 #### What about iOS?
 
-[Shadowrocket ](../../ios/v2ray-shadowsocks/shadowrocket.md)is still our recommended app for iOS. It supports SSR, is regularly updated, and has been working well for several years without major issues.
+[Shadowrocket ](../../ios/shadowrocket.md)is still our recommended app for iOS. It supports SSR, is regularly updated, and has been working well for several years without major issues.
 
 {% hint style="info" %}
 _What to look forward to in the near future:_

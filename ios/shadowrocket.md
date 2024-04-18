@@ -2,9 +2,9 @@
 description: 'Time to complete the tutorial: 8 minutes'
 ---
 
-# Shadowrocket (Recommended)
+# Shadowrocket
 
-Updated: October 20, 2022
+Updated: April 18, 2024
 
 {% hint style="success" %}
 Shadowrocket now support the new Trojan protocol. We HIGHLY recommend updating your APIs to the latest version 3.
@@ -25,7 +25,7 @@ To find the login and password for our US iTunes account, login to your [client 
 {% endhint %}
 
 {% hint style="success" %}
-**See our** [**detailed guide on how to login to our iTunes account.**](../switching-itunes-account.md)
+**See our** [**detailed guide on how to login to our iTunes account.**](switching-itunes-account.md)
 {% endhint %}
 
 Search for "shadowrocket" and download it.

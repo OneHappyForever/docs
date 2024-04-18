@@ -1,27 +1,21 @@
-# OneClick \[M1 Macs ONLY] (Recommended)
+# OneClick (Recommended)
 
 Updated: April 17, 2024
 
 {% hint style="success" %}
-OneClick is the recommended app for M-series Macs. It is easy to setup. If you have an Intel Mac, please use [ClashX](v2ray-shadowsocks/clashx-v1.30.1-and-higher.md) instead. ClashX is just as stable and performant, but takes a little more time to set up.
+OneClick is the recommended app for iOS. It is easy to setup. If you need more advanced options like split-tunneling, you can try [Shadowrocket](../installation-guides/ios/shadowrocket.md) instead. Both apps work equally well.
 {% endhint %}
 
 ## STEP 1: Download OneClick
 
-[Click here](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) to be redirected to the App page on Apple.com. Then, click on the "View in Mac App Store" button to be redirected to the App Store. Download the app from there.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-17 at 2.50.54 PM.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Alternatively, you can search for OneClick on your Mac App Store directly. Select "iPhone/iPad apps" to find it. It will work on M-series Macs.
-{% endhint %}
+[Click here](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) to be redirected to the App Store app. Download it there.
 
 ## STEP 2: Add the server list
 
 ### Get the api link
 
 1. Go to your [client area](https://wannaflix.com/clientarea.php) dashboard
-2. Select "OneClick" from the Mac Setup dropdown menu
+2. Select "OneClick" from the iOS Setup dropdown menu
 3. Copy the api link provided&#x20;
 
 {% hint style="info" %}
