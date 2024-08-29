@@ -18,11 +18,11 @@ Github版炒作复杂，也没有运用我们的DNS服务器，推荐使用我�
 
 找到下载好的Netch.zip， 把它解压。
 
-![](../../.gitbook/assets/netch-extract.png)
+![](../../../.gitbook/assets/netch-extract.png)
 
 打开文件，点击Netch来运行软件。
 
-![](../../.gitbook/assets/find-netch.png)
+![](../../../.gitbook/assets/find-netch.png)
 
 ## 通过订阅地址加添服务器
 
@@ -35,11 +35,11 @@ Github版炒作复杂，也没有运用我们的DNS服务器，推荐使用我�
 
 1. 点击APP图示打开Netch
 
-![](../../.gitbook/assets/netch-icon.png)
+![](../../../.gitbook/assets/netch-icon.png)
 
 &#x20;    2\. 点击Subscribe > Manage Subscribe Links
 
-![](../../.gitbook/assets/add-api-1.png)
+![](../../../.gitbook/assets/add-api-1.png)
 
 &#x20;    3\. 吧订阅地址拷贝到 "Link" 那边
 
@@ -47,11 +47,11 @@ Github版炒作复杂，也没有运用我们的DNS服务器，推荐使用我�
 
 &#x20;    5\. 关闭视窗
 
-![](../../.gitbook/assets/netch-add.png)
+![](../../../.gitbook/assets/netch-add.png)
 
 &#x20;    5\. 点击 Subscribe > Update Servers from Subscribe Links 就能获取服务器信息
 
-![](../../.gitbook/assets/netch-api-2.png)
+![](../../../.gitbook/assets/netch-api-2.png)
 
 ## 把语言改成中文
 
@@ -65,7 +65,7 @@ Github版炒作复杂，也没有运用我们的DNS服务器，推荐使用我�
 2. 选择 "1) Global (System Proxy)"模式
 3. 点 Start （开始）
 
-![](../../.gitbook/assets/netch-systemproxy.png)
+![](../../../.gitbook/assets/netch-systemproxy.png)
 
 {% hint style="info" %}
 如果想打游戏，可以选Global (TUN/TAP) 模式
