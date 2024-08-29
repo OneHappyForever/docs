@@ -1,6 +1,6 @@
 # Clash For Windows (Recommended)
 
-Guide Updated: April 16, 2024
+指南更新日期：2024年4月16日
 
 {% hint style="success" %}
 **This app is the recommended app for Windows.**&#x20;
