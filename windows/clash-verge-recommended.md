@@ -152,13 +152,7 @@ To fix it, restart the app and turn the "System Proxy" switch OFF and then quit 
 When TUN mode is enabled, there is no need to enable system proxy.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 5.44.18 PM.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 5.45.06 PM.png" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-28 at 5.51.45 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-30 at 1.21.38 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Windows Store apps
 
