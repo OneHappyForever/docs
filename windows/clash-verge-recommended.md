@@ -150,6 +150,8 @@ Make sure to **turn the "System Proxy" switch OFF before quiting the app** or yo
 To fix it, restart the app and turn the "System Proxy" switch OFF and then quit the app.
 {% endhint %}
 
+***
+
 ## FYI \[IMPORTANT READ]
 
 ### If you want to play games with Clash or have all apps go through Clash, you need to use TUN Mode instead of System Proxy
