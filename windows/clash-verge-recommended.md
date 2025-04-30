@@ -5,23 +5,23 @@ Updated: May 1, 2025
 {% hint style="success" %}
 **This app is the recommended app for Windows.**
 
-**If you are running and old Windows 7 computer, please use Clash for Windows instead.**&#x20;
+**If you are running an old Windows 7 computer, please use Clash for Windows instead.**&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-This guide is for Clash Verge **version 2.2.3** and up (April 2025 release).&#x20;
-{% endhint %}
+### Clash Verge version 2.2.3 and up (April 2025 release).&#x20;
 
 Clash Verge **version 2.2.3 and up** supports all major protocols, and works with all our servers. It also supports the TUN engine for capturing packets, and provides support for the Windows app store via UWP. This means it can run games without needing additional software.&#x20;
+{% endhint %}
 
 ## STEP 1: Download and install Clash Verge
 
-{% hint style="info" %}
-Version: v2.2.3
-{% endhint %}
-
 {% hint style="success" %}
+### Version: v2.2.3
+
 [**Click here**](https://wannaflix-sz-edge.b-cdn.net/clash/windows/Clash.Verge_2.2.3_x64-setup.exe) **to download the app.**&#x20;
+
+
 
 Alternative mirrors:
 
@@ -47,9 +47,11 @@ Once installed, you can find it on your desktop, or by doing a search for "Clash
 Double-click to start the app.
 
 {% hint style="info" %}
-You will find the app in the tray at the bottom right corner of the screen.
+### App Icon
 
 The app icon is a cat in a purple circle.&#x20;
+
+You will find the app in the tray at the bottom right corner of the screen.
 
 ![](<../.gitbook/assets/Screenshot 2025-04-30 at 11.18.33 AM.png>)
 {% endhint %}
@@ -85,9 +87,9 @@ Your server list has now been downloaded to the app.
 ### OPTION 1: Simple API
 
 {% hint style="success" %}
-**REMINDER: If you are unfamiliar with Clash, we recommend this setup.**&#x20;
+### Recommended setup for new users
 
-**If you see a different setup that the screenshots, check that you got the correct config API from our website**
+If you see a different setup that the screenshots, check that you got the correct config API from our website
 {% endhint %}
 
 1. Go to "Home" (left-hand menu)
@@ -97,6 +99,12 @@ Your server list has now been downloaded to the app.
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-30 at 12.39.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### OPTION 2: Split-tunneling API - decide which server each site will go through
+
+{% hint style="warning" %}
+### Setup for advanced users
+
+If you don't need split-tunneling, we recommend sticking to the Simple API setup above
+{% endhint %}
 
 1. Go to "Home" (left-hand menu)
 2. Under "Current Node" select "Wannaflix" as the group
@@ -130,8 +138,10 @@ NOTE: If you are using the SIMPLE API, Rule mode does split tunneling for Chines
 
 ### You are now connected.
 
-{% hint style="info" %}
-To disconnect: Toggle the "System Proxy" switch again
+{% hint style="success" %}
+### How to disconnect
+
+Toggle the "System Proxy" switch again
 {% endhint %}
 
 {% hint style="danger" %}
@@ -156,7 +166,11 @@ When TUN mode is enabled, there is no need to enable system proxy.
 
 ### Windows Store apps
 
-Windows Store apps do not go through the VPN by default, even when TUN is enabled. You need to force them by using the UWP Loopback Helper.
+{% hint style="info" %}
+Windows Store apps do not go through the VPN by default, even when TUN is enabled.&#x20;
+
+* You need to force them by using the UWP Loopback Helper.
+{% endhint %}
 
 1. Go to the "Settings" tab
 2. Click "Open UWP tool"
@@ -166,16 +180,20 @@ Windows Store apps do not go through the VPN by default, even when TUN is enable
 
 ### Enable Start with Windows
 
+{% hint style="info" %}
 If you want Clash to automatically start when you boot your computer, you need to enable this option.
+{% endhint %}
 
 1. Go to the "Settings" tab
 2. Toggle the "Auto Launch" switch
 
 ### Kill all connections when changing server
 
+{% hint style="info" %}
 By default, old connections will not be redirected to the new server but will continue going to the old server until they timeout.
 
 This creates problems when you're switching servers to watch Netflix or if you need a specific IP address as the websites you've just visited will still be going through the old server.
+{% endhint %}
 
 To kill all connections (and therefore forcibly reconnect via the new server), do this:
 
@@ -192,13 +210,13 @@ Go to profiles, and click on the refresh icon next to the profile you want to up
 
 ### How can I play games with Clash for Windows?
 
-You need to install the TUN Device (see [above](v2ray-shadowsocks/clash-for-windows-new.md#install-the-tap-engine)), and connect to a server that supports UDP.
+You need to use Tun Mode (see above), and connect to a server that supports UDP.
 
 ### Spotify/OneDrive/Other app doesn't work
 
-Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper (see [above](v2ray-shadowsocks/clash-for-windows-new.md#windows-store-apps)).
+Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper (see above).
 
-If it still doesn't work, make sure you've installed the TUN interface (see above).
+If it still doesn't work, try to run it in Tun Mode (see above).
 
 ### Netflix/other website is using another server to connect instead of the one I selected.
 
