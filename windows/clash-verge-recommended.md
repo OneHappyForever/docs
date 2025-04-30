@@ -150,6 +150,8 @@ Make sure to **turn the "System Proxy" switch OFF before quiting the app** or yo
 To fix it, restart the app and turn the "System Proxy" switch OFF and then quit the app.
 {% endhint %}
 
+&#x20;                                     _**`END OF SETUP`**_                                      &#x20;
+
 ***
 
 ## FYI \[IMPORTANT READ]
