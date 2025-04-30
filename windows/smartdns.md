@@ -77,7 +77,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 ![](../.gitbook/assets/176890.jpg)
 
-5\. Depending on how your computer is connected to the Internet click either _Local Area Connection_ or_Wireless Network Connection_ if you are connected via Wi-Fi&#x20;
+5\. Depending on how your computer is connected to the Internet click either _Local Area Connection_ o&#x72;_&#x57;ireless Network Connection_ if you are connected via Wi-Fi&#x20;
 
 ![](../.gitbook/assets/176897.jpg)
 
@@ -97,7 +97,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 10\. In the General tab click on Use the following DNS server addresses and enter the DNS servers in the spaces provided: **165.227.243.239** and **165.227.254.128**
 
-![](../.gitbook/assets/windows7\_dns\_5-1-.jpg)
+![](../.gitbook/assets/windows7_dns_5-1-.jpg)
 
 11\. Click ok&#x20;
 

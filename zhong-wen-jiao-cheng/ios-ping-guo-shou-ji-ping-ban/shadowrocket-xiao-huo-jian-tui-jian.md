@@ -33,7 +33,7 @@ Shadowrocket应用已从中国应用商店下架，请使用我们美国的 iTun
 请搜索“shadowrocket”并下载。
 
 {% hint style="danger" %}
-**重要提示：**请确保您记住自己的 iTunes 帐户用户名和密码，以便在下载应用程序后重新登录您的帐户。
+**重要提示：**&#x8BF7;确保您记住自己的 iTunes 帐户用户名和密码，以便在下载应用程序后重新登录您的帐户。
 {% endhint %}
 
 {% hint style="warning" %}

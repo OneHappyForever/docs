@@ -21,7 +21,7 @@ Netch version 1.8.1 supports the latest VLESS+XTLS protocol
 {% hint style="danger" %}
 IMPORTANT: **Netch only supports Windows 10**.&#x20;
 
-If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter various issues. Please switch to [v2rayN ](v2rayn-recommended.md)or [SSR ](../shadowsocks/ssr.md)instead.
+If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter various issues. Please switch to [v2rayN ](../../installation-guides/windows/v2rayn-recommended.md)or [SSR ](../shadowsocks/ssr.md)instead.
 {% endhint %}
 
 ## Watch Tutorial Video:
@@ -32,7 +32,7 @@ We highly recommend watching the video tutorial. You can stream it in China too.
 
 ## Download and install Netch
 
-[Click here](https://cdn-edge.wannaflix.net/Netch\_1.8.1.zip) to download the app. It will download it in .ZIP format.
+[Click here](https://cdn-edge.wannaflix.net/Netch_1.8.1.zip) to download the app. It will download it in .ZIP format.
 
 {% hint style="info" %}
 Version: v1.8.1
@@ -150,7 +150,7 @@ If the issue still persists, check your computer time. For v2ray servers, you co
 
 ### Mode list doesn't show
 
-You are likely running an old version of Windows or lack some dependencies. If you can't see any modes, we recommend switching to [v2rayN ](v2rayn-recommended.md)instead, as troubleshooting which dependencies are lacking will likely be quite complicated.
+You are likely running an old version of Windows or lack some dependencies. If you can't see any modes, we recommend switching to [v2rayN ](../../installation-guides/windows/v2rayn-recommended.md)instead, as troubleshooting which dependencies are lacking will likely be quite complicated.
 
 ### Does not work on Windows 7
 
@@ -158,8 +158,8 @@ Netch needs various dependencies that are native on Windows 10, but which are la
 
 If you still want to try using Netch on Windows 7, you can install the update package from Microsoft:
 
-* [Download KB4503292 MSU for Windows 7 32-bit (x86)](http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x86\_932f3cccb6343fa2339648b391b80d28f8134870.msu)
-* [Download KB4503292 MSU for Windows 7 64-bit (x64)](http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x64\_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu)
+* [Download KB4503292 MSU for Windows 7 32-bit (x86)](http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x86_932f3cccb6343fa2339648b391b80d28f8134870.msu)
+* [Download KB4503292 MSU for Windows 7 64-bit (x64)](http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x64_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu)
 
 ### Failed to start Netch/Stuck on connecting
 
@@ -168,7 +168,7 @@ You may need to install lacking dependencies:
 * [Visual C++ ](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 * [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-offline-installer)
 * [TAP-Windows](https://build.openvpn.net/downloads/releases/tap-windows-9.21.2.exe)
-* [Download all dependecies in ZIP format](https://mega.nz/file/9OQ1EazJ#0pjJ3xt57AVLr29vYEEv15GSACtXVQOGlEOPpi\_2Ico)
+* [Download all dependecies in ZIP format](https://mega.nz/file/9OQ1EazJ#0pjJ3xt57AVLr29vYEEv15GSACtXVQOGlEOPpi_2Ico)
 
 ### NAT test failed when using TUN/TAP mode
 

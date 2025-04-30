@@ -1,11 +1,11 @@
-# Clash For Windows (Recommended)
+# Clash For Windows (Legacy app)
 
 Updated: April 16, 2024
 
 {% hint style="success" %}
 **This app is the recommended app for Windows.**&#x20;
 
-**However, if you would like a more simple interface, consider using** [**v2rayN**](v2rayn-recommended.md) **instead. Both work equally well.**&#x20;
+**However, if you would like a more simple interface, consider using** [**v2rayN**](../../installation-guides/windows/v2rayn-recommended.md) **instead. Both work equally well.**&#x20;
 
 **Clash supports split tunneling, whereas v2rayN sends all traffic through the same server. Split tunneling is more complicated to set up and can create issues if it is not set up correctly.**&#x20;
 {% endhint %}
@@ -74,11 +74,7 @@ We **HIGHLY** recommend to set the API to auto-update the server list at least o
 To do so, right click on the profile you just added, and go to settings. Under "Update Interval (hours)" type "12", then click OK.
 {% endhint %}
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.02.01 PM.png" alt="" width="306"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.02.01 PM.png" alt="" width="306"><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-03-02 at 9.03.20 PM.png" alt="" width="375"><figcaption><p>Set the Update Interval to every 12 hours</p></figcaption></figure>
 

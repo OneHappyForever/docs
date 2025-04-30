@@ -11,9 +11,9 @@ Each router is different. The same model may be flashed with a different version
 
 You'll need to flash your router with one of the firmwares in the links below:&#x20;
 
-For Merlin firmware version 380: [https://firmware.koolshare.cn/Koolshare\_Merlin\_Legacy\_380/](https://firmware.koolshare.cn/Koolshare\_Merlin\_Legacy\_380/)
+For Merlin firmware version 380: [https://firmware.koolshare.cn/Koolshare\_Merlin\_Legacy\_380/](https://firmware.koolshare.cn/Koolshare_Merlin_Legacy_380/)
 
-For Merlin firmware version 384: [https://firmware.koolshare.cn/Koolshare\_Merlin\_New\_Gen\_384/](https://firmware.koolshare.cn/Koolshare\_Merlin\_New\_Gen\_384/)
+For Merlin firmware version 384: [https://firmware.koolshare.cn/Koolshare\_Merlin\_New\_Gen\_384/](https://firmware.koolshare.cn/Koolshare_Merlin_New_Gen_384/)
 {% endhint %}
 
 ## Recommended routers
@@ -27,8 +27,8 @@ We have tested our software with these routers:
 ### Other Routers:
 
 * **ASUS ROUTERS:** RT-AC56U RT-AC68U RT-AC66U-B1 RT-AC1900P RT-AC87U RT-AC88U RT-AC3100 RT-AC3200 RT-AC5300
-* **NETGEAR ROUTERS：**R6300V2 R6400 R6900 R7000 R8000 R8500
-* **LINKSYS EA SERIES：**EA6200 EA6400 EA6500v2 EA6700 EA6900
+* **NETGEAR ROUTERS：**&#x52;6300V2 R6400 R6900 R7000 R8000 R8500
+* **LINKSYS EA SERIES：**&#x45;A6200 EA6400 EA6500v2 EA6700 EA6900
 * **HUAWEI ROUTERS:** WS880
 
 {% hint style="warning" %}
@@ -44,15 +44,15 @@ Merlin-Koolshare ONLY works with the routers above. If you have a different rout
 
 ### Download the KoolShare firmware
 
-1. Go to [https://firmware.koolshare.cn/Koolshare\_Merlin\_Legacy\_380/](https://firmware.koolshare.cn/Koolshare\_Merlin\_Legacy\_380/)
+1. Go to [https://firmware.koolshare.cn/Koolshare\_Merlin\_Legacy\_380/](https://firmware.koolshare.cn/Koolshare_Merlin_Legacy_380/)
 2. Find your router and download the latest KoolShare version available
 
 {% hint style="info" %}
-For EA6200 router, download the latest 7.9.1 firmware [here](https://wannaflix.com/downloads/EA6200\_380.70\_0-X7.9.1.trx).&#x20;
+For EA6200 router, download the latest 7.9.1 firmware [here](https://wannaflix.com/downloads/EA6200_380.70_0-X7.9.1.trx).&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-For Asus routers RT-AC86U and RT-AX88U on firmware version 384, go here instead: [https://firmware.koolshare.cn/Koolshare\_Merlin\_New\_Gen\_384/](https://firmware.koolshare.cn/Koolshare\_Merlin\_New\_Gen\_384/)
+For Asus routers RT-AC86U and RT-AX88U on firmware version 384, go here instead: [https://firmware.koolshare.cn/Koolshare\_Merlin\_New\_Gen\_384/](https://firmware.koolshare.cn/Koolshare_Merlin_New_Gen_384/)
 {% endhint %}
 
 ### Flash your router with KoolShare

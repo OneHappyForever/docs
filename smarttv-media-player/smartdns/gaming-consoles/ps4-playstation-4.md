@@ -28,7 +28,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 4\. Choose _custom_
 
-5_._ Choose _Wi-Fi_ or _LAN_ depending on how you connect to the Internet
+&#x35;_._ Choose _Wi-Fi_ or _LAN_ depending on how you connect to the Internet
 
 6\. Choose _Automatic_ for IP-address
 
