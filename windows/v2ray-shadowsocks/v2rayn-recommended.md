@@ -1,4 +1,4 @@
-# V2rayN
+# V2rayN (Legacy app) \[v6.42+]
 
 {% hint style="success" %}
 **V2rayN is stable and the UI is quite good. However, it does not support gaming or Windows Store apps, and only supports System Proxy mode. If you need these features, please consider switching to** [**Clash for Windows**](../../installation-guides/windows/clash-for-windows.md)**.**

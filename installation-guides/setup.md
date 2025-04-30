@@ -8,7 +8,7 @@
 
 [SmartDNS (manual setup)](../windows/smartdns.md)
 
-[v2rayN -- v2ray](windows/v2rayn-recommended.md)
+[v2rayN -- v2ray](../windows/v2ray-shadowsocks/v2rayn-recommended.md)
 
 [SSR -- Shadowsocks](../windows/shadowsocks/ssr.md)
 

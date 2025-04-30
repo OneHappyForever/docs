@@ -22,7 +22,7 @@ You will also need an active WannaFlix subscription to connect to our servers.&#
 
 [SmartDNS (manual setup)](../../windows/smartdns.md)
 
-[v2rayN -- v2ray](../../installation-guides/windows/v2rayn-recommended.md)
+[v2rayN -- v2ray](../../windows/v2ray-shadowsocks/v2rayn-recommended.md)
 
 [SSR -- Shadowsocks](../../windows/shadowsocks/ssr.md)
 

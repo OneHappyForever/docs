@@ -21,7 +21,7 @@ Netch version 1.8.1 supports the latest VLESS+XTLS protocol
 {% hint style="danger" %}
 IMPORTANT: **Netch only supports Windows 10**.&#x20;
 
-If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter various issues. Please switch to [v2rayN ](../../installation-guides/windows/v2rayn-recommended.md)or [SSR ](../shadowsocks/ssr.md)instead.
+If you have Windows XP/7/8/8.1 please do NOT use Netch as you may encounter various issues. Please switch to [v2rayN ](v2rayn-recommended.md)or [SSR ](../shadowsocks/ssr.md)instead.
 {% endhint %}
 
 ## Watch Tutorial Video:
@@ -150,7 +150,7 @@ If the issue still persists, check your computer time. For v2ray servers, you co
 
 ### Mode list doesn't show
 
-You are likely running an old version of Windows or lack some dependencies. If you can't see any modes, we recommend switching to [v2rayN ](../../installation-guides/windows/v2rayn-recommended.md)instead, as troubleshooting which dependencies are lacking will likely be quite complicated.
+You are likely running an old version of Windows or lack some dependencies. If you can't see any modes, we recommend switching to [v2rayN ](v2rayn-recommended.md)instead, as troubleshooting which dependencies are lacking will likely be quite complicated.
 
 ### Does not work on Windows 7
 

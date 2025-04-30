@@ -1,8 +1,4 @@
----
-icon: paw
----
-
-# Clash Verge (Recommended)
+# 👍 Clash Verge (Recommended)
 
 Updated: May 1, 2025
 

@@ -5,7 +5,7 @@ Updated: April 16, 2024
 {% hint style="success" %}
 **This app is the recommended app for Windows.**&#x20;
 
-**However, if you would like a more simple interface, consider using** [**v2rayN**](../../installation-guides/windows/v2rayn-recommended.md) **instead. Both work equally well.**&#x20;
+**However, if you would like a more simple interface, consider using** [**v2rayN**](v2rayn-recommended.md) **instead. Both work equally well.**&#x20;
 
 **Clash supports split tunneling, whereas v2rayN sends all traffic through the same server. Split tunneling is more complicated to set up and can create issues if it is not set up correctly.**&#x20;
 {% endhint %}

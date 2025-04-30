@@ -18,7 +18,7 @@ Many users find Clash for Windows confusing, and new versions often break old AP
 {% tab title="Go to Netch or V2rayN" %}
 [Netch (Recommended) >](../../windows/v2ray-shadowsocks/netch-1.md)
 
-[V2rayN >](v2rayn-recommended.md)
+[V2rayN >](../../windows/v2ray-shadowsocks/v2rayn-recommended.md)
 {% endtab %}
 
 {% tab title="Show me the guide for Clash" %}
