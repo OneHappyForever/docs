@@ -5,7 +5,7 @@ Updated: May 1, 2025
 {% hint style="success" %}
 **This app is the recommended app for Windows.**
 
-**If you are running an old Windows 7 computer, please use Clash for Windows instead.**&#x20;
+**If you are running an old Windows 7 computer, please use** [**Clash for Windows**](v2ray-shadowsocks/clash-for-windows-new.md) **instead.**&#x20;
 {% endhint %}
 
 {% hint style="info" %}
