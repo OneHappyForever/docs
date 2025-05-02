@@ -20,7 +20,7 @@ The video tutorial may be easier to follow. You can stream it in China too.
 
 ## STEP 1: Download and install
 
-[Click here](https://cdn-edge.wannaflix.net/ClashX\_1.118.1.1.dmg) to download the latest version of the app, then run to install.&#x20;
+[Click here](https://cdn-edge.wannaflix.net/ClashX_1.118.1.1.dmg) to download the latest version of the app, then run to install.&#x20;
 
 {% hint style="info" %}
 Version: 1.118.1.1
@@ -45,9 +45,9 @@ The first time ClashX runs, you will be prompted to install a plugin. This plugi
 3. Copy the API you want to use. If it is your first time, we recommend copying the "Basic API". If you want to use the split tunneling feature of Clash, copy the "Advanced API".&#x20;
 
 {% hint style="success" %}
-Basic API - tunnel all websites through the same server. **Should satisfy most users.**&#x20;
+Simple API - tunnel all websites through the same server. **Should satisfy most users.**&#x20;
 
-Advanced API - option to choose different servers for different services (like Netflix, Disney+, etc.)
+Split-tunneling API - option to choose different servers for different services (like Netflix, Disney+, etc.)
 
 Subconverter API - only use this API if you know how to configure the subscription converter. **Only for niche users.**
 {% endhint %}

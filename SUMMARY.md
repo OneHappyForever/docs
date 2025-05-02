@@ -26,6 +26,7 @@
   * [Clash For Windows (Legacy app)](windows/v2ray-shadowsocks/clash-for-windows-new.md)
   * [Troubleshooting](windows/troubleshooting.md)
 * [Mac OS](mac-os/README.md)
+  * [ClashX.Meta](mac-os/clashx.meta.md)
   * [OneClick \[M1 Macs ONLY\] (Recommended)](mac-os/oneclick-m1-macs-only-recommended.md)
   * [Shadowrocket \[M1 Macs ONLY\]](mac-os/v2ray-shadowsocks/shadowrocket-m1-macs-only.md)
   * [ClashX v1.30.1 and Higher](mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
