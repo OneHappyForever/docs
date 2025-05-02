@@ -2,7 +2,7 @@
 description: 'Time to complete the tutorial: 5 mins'
 ---
 
-# 👍 Streisand (Recommended)
+# Streisand
 
 Updated: May 1, 2025
 
