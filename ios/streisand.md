@@ -7,7 +7,7 @@ description: 'Time to complete the tutorial: 5 mins'
 Updated: May 1, 2025
 
 {% hint style="success" %}
-Streisand is the recommended app for iOS. It is easy to setup.&#x20;
+Streisand is a good alternative to OneClick. It is easy to setup.&#x20;
 {% endhint %}
 
 ## STEP 1: Download Streisand
