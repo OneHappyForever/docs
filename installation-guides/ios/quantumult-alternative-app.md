@@ -7,5 +7,5 @@ Updated: March 17, 2021
 {% hint style="danger" %}
 This app is deprecated as it does not support the latest protocols.&#x20;
 
-Please upgrade to [Shadowrocket](../../ios/shadowrocket.md).
+Please upgrade to [Shadowrocket](shadowrocket.md).
 {% endhint %}

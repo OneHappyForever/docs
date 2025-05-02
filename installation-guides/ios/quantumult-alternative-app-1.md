@@ -5,11 +5,11 @@ Updated: March 17, 2021
 {% hint style="danger" %}
 This app is deprecated as it does not support the latest protocols.&#x20;
 
-Please upgrade to [Shadowrocket](../../ios/shadowrocket.md).
+Please upgrade to [Shadowrocket](shadowrocket.md).
 {% endhint %}
 
 {% hint style="warning" %}
-NOTE: We only officially support [Shadowrocket](../../ios/shadowrocket.md).
+NOTE: We only officially support [Shadowrocket](shadowrocket.md).
 
 However, as some users prefer Quantumult, we've written a tutorial on how to use WannaFlix with it.
 {% endhint %}

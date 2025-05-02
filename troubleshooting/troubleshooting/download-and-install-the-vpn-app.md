@@ -38,7 +38,7 @@ You will also need an active WannaFlix subscription to connect to our servers.&#
 
 ## iOS
 
-[Shadowrocket -- v2ray/Shadowsocks (Recommended)](../../ios/shadowrocket.md)
+[Shadowrocket -- v2ray/Shadowsocks (Recommended)](../../installation-guides/ios/shadowrocket.md)
 
 [OpenVPN -- Eclipse (OpenVPN) (manual setup)](../../ios/eclipse-openvpn.md)
 

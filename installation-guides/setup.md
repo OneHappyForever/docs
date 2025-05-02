@@ -24,7 +24,7 @@
 
 ## iOS
 
-[Shadowrocket -- v2ray/Shadowsocks (Recommended)](../ios/shadowrocket.md)
+[Shadowrocket -- v2ray/Shadowsocks (Recommended)](ios/shadowrocket.md)
 
 [OpenVPN -- Eclipse (OpenVPN) (manual setup)](../ios/eclipse-openvpn.md)
 

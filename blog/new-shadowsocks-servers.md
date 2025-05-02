@@ -51,7 +51,7 @@ Here is a list of apps that do, along with links to guides:
 
 * Windows - [Netch](../windows/v2ray-shadowsocks/netch-1.md)
 * Mac OS - [ClashX version 1.30.1 and up](../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
-* iOS - [Shadowrocket](../ios/shadowrocket.md)
+* iOS - [Shadowrocket](../installation-guides/ios/shadowrocket.md)
 * iOS - [Quantumult](../installation-guides/ios/quantumult-alternative-app-1.md)
 * Android - [ClashR](../android/v2ray-shadowsocks/clashr-for-android-recommended.md)
 
