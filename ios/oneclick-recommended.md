@@ -1,3 +1,7 @@
+---
+description: 'Time to complete tutorial: 5 mins'
+---
+
 # 👍 OneClick (Recommended)
 
 Updated: May 1, 2025
