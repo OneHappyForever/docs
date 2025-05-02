@@ -60,7 +60,7 @@ You will find the app in the tray at the bottom right corner of the screen.
 
 ### Copy the API
 
-1. Login to your dashboard
+1. Login to your [client area](https://wannaflix.com/clientarea.php) dashboard
 2. Select "Clash Verge" in the dropdown for Windows
 3. Click "Copy API"
 
