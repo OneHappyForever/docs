@@ -1,9 +1,9 @@
-# OneClick \[M1 Macs ONLY] (Recommended)
+# 👍 OneClick \[M1 Macs ONLY] (Recommended)
 
 Updated: April 17, 2024
 
 {% hint style="success" %}
-OneClick is the recommended app for M-series Macs. It is easy to setup. If you have an Intel Mac, please use [ClashX](v2ray-shadowsocks/clashx-v1.30.1-and-higher.md) instead. ClashX is just as stable and performant, but takes a little more time to set up.
+OneClick is the recommended app for M-series Macs. It is easy to setup. If you have an Intel Mac, please use [ClashX](clashx.meta.md) instead. ClashX is just as stable and performant, but takes a little more time to set up.
 {% endhint %}
 
 ## STEP 1: Download OneClick

@@ -28,7 +28,7 @@ You will also need an active WannaFlix subscription to connect to our servers.&#
 
 ## Mac OS
 
-[ClashX (version 1.30.1 and up) -- v2ray/Shadowsocks (Recommended)](../../mac-os/v2ray-shadowsocks/clashx-v1.30.1-and-higher.md)
+[ClashX (version 1.30.1 and up) -- v2ray/Shadowsocks (Recommended)](../../installation-guides/mac-os/clashx-v1.30.1-and-higher.md)
 
 [Tunnelblick -- Eclipse (OpenVPN) (manual setup)](../../mac-os/eclipse-openvpn.md)
 

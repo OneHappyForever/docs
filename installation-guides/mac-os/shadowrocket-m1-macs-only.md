@@ -3,7 +3,7 @@
 Updated: April 17, 2024
 
 {% hint style="danger" %}
-Shadowrocket is a third-party paid app. If you already have a non-chinese itunes account, we recommend using [OneClick](../oneclick-m1-macs-only-recommended.md) instead. OneClick's setup is easier as well.
+Shadowrocket is a third-party paid app. If you already have a non-chinese itunes account, we recommend using [OneClick](../../mac-os/oneclick-m1-macs-only-recommended.md) instead. OneClick's setup is easier as well.
 {% endhint %}
 
 Shadowrocket is now working on all M-series Macs.&#x20;

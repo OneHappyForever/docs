@@ -60,7 +60,7 @@ If you encounter a warning stating that the app cannot be opened because **Apple
 * Open `ClashX Meta`&#x20;
 * Upon first launch, the app may prompt you to install a helper tool to manage system proxy settings. Click **"Install"** and provide your administrator password when prompted.​
 
-You will find the ClashX.Meta icon (a bit M) in the menu bar (top of the screen).
+You will find the ClashX.Meta icon (a big letter M) in the menu bar (top of the screen).
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-02 at 5.17.45 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -198,7 +198,7 @@ To fix it, restart the app and turn the "System Proxy" switch OFF and then quit 
 
 ### If you want to play games with Clash or have all apps go through Clash, you need to use TUN Mode instead of System Proxy
 
-1. Click the **ClashX.Meta** icon in the menu bar.
+1. Click the **ClashX Meta** icon in the menu bar.
 2. Select **TUN Mode**.
 3. Make sure **“Set as system proxy”** is **unchecked**, since TUN handles routing directly.
 

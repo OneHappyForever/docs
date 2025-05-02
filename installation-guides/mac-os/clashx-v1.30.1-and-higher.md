@@ -9,7 +9,7 @@ Updated: April 17, 2024
 {% endhint %}
 
 {% hint style="success" %}
-If you have an M1 Mac, [OneClick](../oneclick-m1-macs-only-recommended.md) is a good alternative.
+If you have an M1 Mac, [OneClick](../../mac-os/oneclick-m1-macs-only-recommended.md) is a good alternative.
 {% endhint %}
 
 ## Watch Tutorial Video:
