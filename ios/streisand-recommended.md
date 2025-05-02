@@ -4,23 +4,19 @@ Updated: May 1, 2025
 
 {% hint style="success" %}
 Streisand is the recommended app for iOS. It is easy to setup.&#x20;
-
-If you need more advanced options like split-tunneling, you can try [Shadowrocket](../installation-guides/ios/shadowrocket.md) instead.&#x20;
-
-Both apps work equally well.
 {% endhint %}
 
 ## STEP 1: Download Streisand
 
 [Click here](https://apps.apple.com/us/app/streisand/id6450534064) to be redirected to the App Store app. Download it there.
 
-## STEP 2: Add the Server List
+## STEP 2: Import Your Config
 
 ### Get the api link
 
 1. Login to your [client area](https://wannaflix.com/clientarea.php) dashboard
 2. Select "Streisand" from the iOS Setup dropdown menu
-3. Copy the api link provided&#x20;
+3. Click the "Copy API" button
 
 ### Paste the api link into the app
 
