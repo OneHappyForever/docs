@@ -14,6 +14,14 @@ Streisand is a good alternative to OneClick. It is easy to setup.&#x20;
 
 [Click here](https://apps.apple.com/us/app/streisand/id6450534064) to be redirected to the App Store app. Download it there.
 
+{% hint style="success" %}
+### **App Installation Note**
+
+The Streisand app can be downloaded for free using your own Apple ID, as long as it is _not_ a Chinese Apple ID.
+
+Only use [the provided Apple IDs](https://appleid.wannaflix.net/) if you cannot find the app by searching in the App Store.
+{% endhint %}
+
 ## STEP 2: Import Your Config
 
 ### Get the api link

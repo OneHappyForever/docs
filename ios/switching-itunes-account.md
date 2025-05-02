@@ -1,5 +1,13 @@
 # Switching iTunes Accounts
 
+{% hint style="success" %}
+### **App Installation Note**
+
+The Streisand and OneClick apps can be downloaded for free using your own Apple ID, as long as it is _not_ a Chinese Apple ID.
+
+Only use the [provided Apple IDs](https://appleid.wannaflix.net/) if you cannot find the app by searching in the App Store.
+{% endhint %}
+
 You may need to use our US iTunes account for some iOS apps. If so, you'll need to log out from your App Store account and log into ours. Once done, you'll need to log back into your own iTunes account.
 
 Here is how to do it.
@@ -38,7 +46,7 @@ Do **NOT** go to your Settings app. You must go to the App Store to log out.
 
 #### 8. When the "Two-Factor Authentication" popup appears, **Apple will send a code to the phone number linked to that account.**
 
-![](../.gitbook/assets/IMG\_0104.PNG)
+![](../.gitbook/assets/IMG_0104.PNG)
 
 &#x20;**IMPORTANT: Apple will a send a code when you login.** You can find that link in your client area dashboard, under iOS Setup > Shadowrocket > Download
 
@@ -52,11 +60,7 @@ If no code was sent to the "App Store login helper", then it may have been sent 
 
 * When the "Two-Factor Authentication" popup appears, hit the **"Didn't get a verification code"**(The blue text, if in Chinese) &#x20;
 
-<!---->
-
-* Then hit "Send to phone number".
-
-<!---->
+- Then hit "Send to phone number".
 
 * Once sent, you can refresh the  "App Store login helper" page to get the code.
 

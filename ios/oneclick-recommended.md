@@ -10,6 +10,14 @@ OneClick is the recommended app for iOS. It is easy to setup.&#x20;
 
 [Click here](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) to be redirected to the App Store app. Download it there.
 
+{% hint style="success" %}
+### **App Installation Note**
+
+The OneClick app can be downloaded for free using your own Apple ID, as long as it is _not_ a Chinese Apple ID.
+
+Only use the [provided Apple IDs](https://appleid.wannaflix.net/) if you cannot find the app by searching in the App Store.&#x20;
+{% endhint %}
+
 ## STEP 2: Add the server list
 
 ### Get the api link
