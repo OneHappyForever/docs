@@ -27,7 +27,7 @@
   * [Troubleshooting](windows/troubleshooting.md)
 * [Mac OS](mac-os/README.md)
   * [👍 OneClick \[M1 Macs ONLY\] (Recommended)](mac-os/oneclick-m1-macs-only-recommended.md)
-  * [ClashX.Meta](mac-os/clashx.meta.md)
+  * [ClashX Meta](mac-os/clashx-meta.md)
   * [Troubleshooting](mac-os/troubleshooting.md)
 * [iOS](ios/README.md)
   * [👍 OneClick (Recommended)](ios/oneclick-recommended.md)
