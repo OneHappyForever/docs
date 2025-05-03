@@ -53,7 +53,7 @@ Here is a list of apps that do, along with links to guides:
 * Mac OS - [ClashX version 1.30.1 and up](../installation-guides/mac-os/clashx-v1.30.1-and-higher.md)
 * iOS - [Shadowrocket](../installation-guides/ios/shadowrocket.md)
 * iOS - [Quantumult](../installation-guides/ios/quantumult-alternative-app-1.md)
-* Android - [ClashR](../android/v2ray-shadowsocks/clashr-for-android-recommended.md)
+* Android - [ClashR](../installation-guides/android/v2ray-shadowsocks/clashr-for-android-recommended.md)
 
 All of these apps support both v2ray and ShadowsocksR, so you can have all your servers on a single app.
 

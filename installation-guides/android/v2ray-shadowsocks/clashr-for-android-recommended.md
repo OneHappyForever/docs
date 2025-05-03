@@ -50,11 +50,11 @@ A generic guide on how to do it:
 1. Open the ClashR app (blue cat icon)
 2. Click on "Profiles" > New Profile
 
-![](../../.gitbook/assets/clashr-profiles.png)
+![](../../../.gitbook/assets/clashr-profiles.png)
 
 &#x20;   3\. Select URL as the type
 
-![](../../.gitbook/assets/clashr-url.png)
+![](../../../.gitbook/assets/clashr-url.png)
 
 &#x20;   4\. Type "WannaFlix" in the Name box.
 
@@ -62,15 +62,15 @@ A generic guide on how to do it:
 
 &#x20;   6\. Type "360" in the Auto Update box (this will update the server list every 6 hours. Type "1440" instead if you want to update every 24 hours.)
 
-![](../../.gitbook/assets/clashr-api.png)
+![](../../../.gitbook/assets/clashr-api.png)
 
 &#x20;   7\. Click the save button on the top right corner, and wait for it to download the server list.
 
-![](../../.gitbook/assets/clashr-save.png)
+![](../../../.gitbook/assets/clashr-save.png)
 
 &#x20;   8\. Select the newly added API from the list of profiles (if you went back to the main page, click profiles again)
 
-![](../../.gitbook/assets/clashr-selected.png)
+![](../../../.gitbook/assets/clashr-selected.png)
 
 Now, go back to the app main page.
 
@@ -78,11 +78,11 @@ Now, go back to the app main page.
 
 1. Click "Stopped"&#x20;
 
-![](../../.gitbook/assets/clashr-start.png)
+![](../../../.gitbook/assets/clashr-start.png)
 
 &#x20;   2\. Then click "Proxy" to select a server
 
-![](../../.gitbook/assets/clashr-serverselect.png)
+![](../../../.gitbook/assets/clashr-serverselect.png)
 
 &#x20;   3\. Select a server from the list
 
@@ -96,13 +96,13 @@ _YOU ARE NOW CONNECTED._
 
 Click the blue "Running" button.
 
-![](../../.gitbook/assets/clashr-disconnect.png)
+![](../../../.gitbook/assets/clashr-disconnect.png)
 
 ### To reconnect:
 
 Click the grey "Stopped" button.
 
-![](../../.gitbook/assets/clashr-start.png)
+![](../../../.gitbook/assets/clashr-start.png)
 
 ## Troubleshooting
 

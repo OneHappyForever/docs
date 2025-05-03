@@ -34,13 +34,13 @@
 
 ## Android
 
-[ClashR -- v2ray/Shadowsocks (Recommended)](../android/v2ray-shadowsocks/clashr-for-android-recommended.md)
+[ClashR -- v2ray/Shadowsocks (Recommended)](android/v2ray-shadowsocks/clashr-for-android-recommended.md)
 
 [OpenVPN -- Eclipse (OpenVPN) (manual setup)](../android/eclipse-openvpn.md)
 
 [SmartDNS (manual setup)](../android/smartdns.md)
 
-[v2rayNG -- v2ray](../android/v2ray-shadowsocks/v2rayng-recommended.md)
+[v2rayNG -- v2ray](android/v2ray-shadowsocks/v2rayng-recommended.md)
 
 ## Linux
 

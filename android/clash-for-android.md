@@ -2,7 +2,7 @@
 description: 'Tim to complete tutorial: 7 mins'
 ---
 
-# Clash for Android
+# 👍 Clash for Android
 
 Updated: May 3, 2025
 

@@ -30,7 +30,7 @@ IMPORTANT: When upgrading from an earlier version of ClashX, make sure to UPDATE
 
 #### Android:
 
-New recommended app: [ClashR for Android](../../android/v2ray-shadowsocks/clashr-for-android-recommended.md)
+New recommended app: [ClashR for Android](../../installation-guides/android/v2ray-shadowsocks/clashr-for-android-recommended.md)
 
 Old app: v2rayNG
 

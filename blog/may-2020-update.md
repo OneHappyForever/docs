@@ -34,7 +34,7 @@ If you are running any of these apps, please login to your client area dashboard
 
 * V2rayU for Mac ([Guide](../installation-guides/mac-os/v2rayu.md))
 * V2rayN for Windows ([Guide](../windows/v2ray-shadowsocks/v2rayn-recommended.md))
-* V2rayNG for Android ([Guide](../android/v2ray-shadowsocks/v2rayng-recommended.md))
+* V2rayNG for Android ([Guide](../installation-guides/android/v2ray-shadowsocks/v2rayng-recommended.md))
 
 These apps run on the official V2ray-core program and will work.
 
