@@ -2,7 +2,7 @@
 description: Setup takes about 8 mins
 ---
 
-# ClashX.Meta
+# ClashX Meta
 
 Updated: May 1, 2025
 
@@ -59,6 +59,8 @@ If you encounter a warning stating that the app cannot be opened because **Apple
 
 * Open `ClashX Meta`&#x20;
 * Upon first launch, the app may prompt you to install a helper tool to manage system proxy settings. Click **"Install"** and provide your administrator password when prompted.​
+
+<figure><img src="../.gitbook/assets/2025-05-03 22.36.39.jpg" alt="" width="256"><figcaption></figcaption></figure>
 
 You will find the ClashX.Meta icon (a big letter M) in the menu bar (top of the screen).
 
