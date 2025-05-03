@@ -59,7 +59,7 @@ Alternative mirrors:
    * **Auto Update:** 720
    * Tap `Save`
 
-<figure><img src="../.gitbook/assets/Screenshot_1746263873.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_1746263873 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot_1746261418.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -89,6 +89,18 @@ If you see a different setup that the screenshots, check that you got the correc
 4. Tap **Proxy** to open the server list, run a test by tapping the **lightning bolt icong** (:zap:) in the top right corner
 5. Select a server that has a number next to it (the lower the better)
 
+<figure><img src="../.gitbook/assets/Screenshot_1746263873 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_1746261485.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_1746261496.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_1746261500.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_1746265993.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_1746265454.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### OPTION 2: Split-tunneling API - decide which server each site will go through
 
 {% hint style="warning" %}
@@ -102,8 +114,6 @@ If you don't need split-tunneling, we recommend sticking to the Simple API setup
 3. Go to the **Home** tab → tap the big **power button** to connect.
 4. Tap **Proxy** to open the server list, run a test by tapping the **lightning bolt icong** (:zap:) in the top right corner
 5. Select a server that has a number next to it (the lower the better)
-
-
 
 {% hint style="success" %}
 ### Configure split tunneling (Optional)
