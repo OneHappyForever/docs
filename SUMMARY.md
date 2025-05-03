@@ -35,6 +35,7 @@
   * [Switching iTunes Accounts](ios/switching-itunes-account.md)
   * [Troubleshooting](ios/troubleshooting.md)
 * [Android](android/README.md)
+  * [Clash for Android](android/clash-for-android.md)
   * [Trojan](android/v2ray-shadowsocks/README.md)
     * [Clash for Android](android/v2ray-shadowsocks/clash-for-android.md)
     * [v2rayNG (Recommended)](android/v2ray-shadowsocks/v2rayng-recommended.md)
