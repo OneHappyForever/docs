@@ -1,6 +1,6 @@
 # Which App to Choose?
 
-Updated: August 13, 2021
+Updated: May 3, 2025
 
 {% hint style="info" %}
 **GLOSSARY**
@@ -12,97 +12,27 @@ _Stability:_ A measurement of the frequency of disconnections and speed fluctuat
 
 ## Windows
 
-Recommendation: Netch or V2rayN for Xray. Netch or Clash for Shadowsocks. Netch for gaming. If you are still running v2ray, please update to Xray as soon as possible (you will need to get the latest app versions from our website and the new API for it).
+Recommendation: Clash Verge (Easy to use, has Gaming support)
 
-{% hint style="info" %}
-If you don't need to game with it, we personally find v2rayN easier to use.&#x20;
-
-Both Netch and V2rayN run on the same Xray-core, so both will give you about the same speeds.
-
-Clash... is always behind the curve when it comes to protocol support. But some prefer the UI and the ability to add their own split-tunneling rules.
-{% endhint %}
-
-|                      |                   v2rayN                   | Netch |                     SSR                    | Clash | OpenVPN |
-| -------------------- | :----------------------------------------: | :---: | :----------------------------------------: | :---: | :-----: |
-| Officially supported |                      ✅                     |   ✅   |                      ✅                     |   ❌   |    ✅    |
-| Trojan               |                      ✅                     |   ✅   |                      ❌                     |   ✅   |    ❌    |
-| Xray                 |                      ✅                     |   ✅   |                      ❌                     |   ❌   |    ❌    |
-| v2ray                |                      ✅                     |   ✅   |                      ❌                     |   ✅   |    ❌    |
-| SSR                  |                      ❌                     |   ✅   |                      ✅                     |   ✅   |    ❌    |
-| Eclipse              |                      ❌                     |   ❌   |                      ❌                     |   ❌   |    ✅    |
-| Ease of Use          |                      ✅                     |   ✅   |                     🟧                     |   🟨  |    🟨   |
-| Speed                |                      ✅                     |   ✅   |                      ✅                     |   ✅   |    🟧   |
-| Stability            |                      ✅                     |   🟨  |                      ✅                     |   ✅   |    🟨   |
-| TCP                  |                      ✅                     |   ✅   |                      ✅                     |   ✅   |    ✅    |
-| UDP                  |                     🟨                     |   ✅   |                      ✅                     |   ✅   |    ✅    |
-| Netflix support      |                      ✅                     |   ✅   |                      ✅                     |   ✅   |    🟧   |
-| Gaming               | <p>🟧</p><p>May need separate software</p> |   ✅   | <p>🟨</p><p>May need separate software</p> |   ✅   |    🟥   |
+<table data-header-hidden><thead><tr><th width="249.33333333333331"></th><th align="center">Clash Verge</th><th align="center">Clash for Windows</th><th align="center">v2rayN</th><th data-hidden align="center">Netch</th></tr></thead><tbody><tr><td></td><td align="center">Clash Verge [Recommended]</td><td align="center">Clash for Windows [Legacy]</td><td align="center"><p>v2rayN </p><p>[Long-term Support]</p></td><td align="center">Netch</td></tr><tr><td>Officially supported</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td></tr><tr><td>Trojan</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>VMESS (v2ray)</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Shadowsocks</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Ease of Use</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟨</td><td align="center">✅</td></tr><tr><td>Speed</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Stability</td><td align="center">✅</td><td align="center">🟨<br>No longer updated</td><td align="center">✅</td><td align="center">🟨</td></tr><tr><td>TCP</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>UDP</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">✅</td></tr><tr><td>Netflix support</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Gaming</td><td align="center">✅</td><td align="center">✅</td><td align="center"><p>🟧</p><p>May need separate software</p></td><td align="center">✅</td></tr></tbody></table>
 
 ## Mac OS
 
-Recommendation: Shadowrocket if you have an M1 Mac. ClashX otherwise. Please note that ClashX does not support the new VLESS+XTLS protocol, only the older VMESS protocol.
+Recommendation: OneClick if you have an M1 Mac. ClashX otherwise.&#x20;
 
-If you need SSR servers, then download the latest ClashX version (at the very least, version 1.30.1 and up).&#x20;
-
-{% hint style="warning" %}
-ONLY use Qv2ray if you are up to the challenge. It is not an easy app to setup, even if it is the only app that supports Xray.
-{% endhint %}
-
-|                      | Shadowrocket (M1) |                             ClashX                             |                              V2rayU                             | Tunnelblick |
-| -------------------- | :---------------: | :------------------------------------------------------------: | :-------------------------------------------------------------: | :---------: |
-| Officially supported |         ✅         |                                ✅                               |                                ❌                                |      ✅      |
-| Trojan               |         ✅         |                                ✅                               |                                ❌                                |      ❌      |
-| Xray                 |         ✅         |                                ❌                               |                                ✅                                |      ❌      |
-| v2ray                |         ✅         |                                ✅                               |                                ✅                                |      ❌      |
-| SSR                  |         ✅         |                                ✅                               |                                ❌                                |      ❌      |
-| Eclipse              |         ❌         |                                ❌                               |                                ❌                                |      ✅      |
-| Ease of Use          |         ✅         |                                ✅                               |                                ✅                                |      🟨     |
-| Speed                |         ✅         |                                ✅                               |                                ✅                                |      🟧     |
-| Stability            |         ✅         |                                ✅                               |                                ✅                                |      🟨     |
-| TCP                  |         ✅         |                                ✅                               |                                ✅                                |      ✅      |
-| UDP                  |         ✅         |                                ✅                               |                                ✅                                |      ✅      |
-| Netflix support      |         ✅         |                                ✅                               |                                ✅                                |      🟧     |
-| Gaming               |         ✅         | <p>✅</p><p>May </p><p>need </p><p>separate </p><p>software</p> | <p>🟨</p><p>May </p><p>need </p><p>separate </p><p>software</p> |      🟥     |
+<table data-header-hidden><thead><tr><th width="249.33333333333331"></th><th align="center">OneClick (M1)</th><th align="center">ClashX Meta</th><th align="center">Shadowrocket (M1)</th><th data-hidden align="center">V2rayU</th><th data-hidden align="center">Tunnelblick</th></tr></thead><tbody><tr><td></td><td align="center">OneClick [Recommended]</td><td align="center">ClashX Meta</td><td align="center"><p>Shadowrocket </p><p>[Long-term Support]</p></td><td align="center">V2rayU</td><td align="center">Tunnelblick</td></tr><tr><td>Officially supported</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td></tr><tr><td>Apple Silicon (M1/M2...) Macs</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center"></td><td align="center"></td></tr><tr><td>Intel Macs</td><td align="center">❌</td><td align="center">✅</td><td align="center">❌</td><td align="center"></td><td align="center"></td></tr><tr><td>Trojan</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr><tr><td>VMESS (v2ray)</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td>Shadowsocks</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr><tr><td>Ease of Use</td><td align="center">✅</td><td align="center">🟧</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td></tr><tr><td>Speed</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟧</td></tr><tr><td>Stability</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td></tr><tr><td>TCP</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>UDP</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Netflix support</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟧</td></tr><tr><td>Gaming</td><td align="center">✅</td><td align="center"><p>✅</p><p>Use Tun Mode</p></td><td align="center">✅</td><td align="center"><p>🟨</p><p>May </p><p>need </p><p>separate </p><p>software</p></td><td align="center">🟥</td></tr></tbody></table>
 
 ## iOS
 
-Recommendation: Shadowrocket. Only Shadowrocket.
+Recommendation: OneClick (Easy UI) or Streisand (More regular updates)
 
-|                      | Shadowrocket | Quantumult | OpenVPN |
-| -------------------- | :----------: | :--------: | :-----: |
-| Officially supported |       ✅      |      ❌     |    ✅    |
-| Trojan               |       ✅      |      ❌     |    ❌    |
-| Xray                 |       ✅      |      ❌     |    ❌    |
-| v2ray                |       ✅      |      ✅     |    ❌    |
-| SSR                  |       ✅      |      ✅     |    ❌    |
-| Eclipse              |       ❌      |      ❌     |    ✅    |
-| Ease of Use          |       ✅      |     🟨     |    🟨   |
-| Speed                |       ✅      |     🟨     |    🟧   |
-| Stability            |       ✅      |      ✅     |    🟨   |
-| TCP                  |       ✅      |      ✅     |    ✅    |
-| UDP                  |       ✅      |     🟨     |    ✅    |
-| Netflix support      |       ✅      |      ✅     |    🟧   |
-| Gaming               |       ✅      |     🟨     |    🟧   |
+<table data-header-hidden><thead><tr><th></th><th align="center"></th><th align="center"></th><th align="center">Shadowrocket</th><th data-hidden align="center">Quantumult</th><th data-hidden align="center">OpenVPN</th></tr></thead><tbody><tr><td></td><td align="center">OneClick [Recommended]</td><td align="center">Streisand</td><td align="center"><p>Shadowrocket </p><p>[Long-term support]</p></td><td align="center">Quantumult</td><td align="center">OpenVPN</td></tr><tr><td>Officially supported</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td></tr><tr><td>Trojan</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr><tr><td>VMESS (v2ray)</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td>Shadowsocks</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td>Ease of Use</td><td align="center">✅</td><td align="center">🟨</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟨</td></tr><tr><td>Speed</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟧</td></tr><tr><td>Stability</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td></tr><tr><td>TCP</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>UDP</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">✅</td></tr><tr><td>Netflix support</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟧</td></tr><tr><td>Gaming</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟧</td></tr></tbody></table>
 
 ## Android
 
-Recommendation: Latest AnXray. This app supports all our protocols except for OpenVPN. Performance of all apps highly dependent on Phone type, Android version, and CPU.
+Recommendation: Clash for Android (It's great, what more do you want?)
 
-|                      | AnXray | v2rayNG | ClashR | SSR | OpenVPN |
-| -------------------- | :----: | :-----: | :----: | :-: | :-----: |
-| Officially supported |    ✅   |    ✅    |    ❌   |  ❌  |    ✅    |
-| Trojan               |    ✅   |    ✅    |    ❌   |  ❌  |    ❌    |
-| Xray                 |    ✅   |    ✅    |    ❌   |  ❌  |    ❌    |
-| v2ray                |    ✅   |    ✅    |    ✅   |  ❌  |    ❌    |
-| SSR                  |    ✅   |    ❌    |    ✅   |  ✅  |    ❌    |
-| Eclipse              |    ❌   |    ❌    |    ❌   |  ❌  |    ✅    |
-| Ease of Use          |    ✅   |    ✅    |    ✅   |  ✅  |    🟨   |
-| Speed                |    ✅   |    ✅    |    ✅   |  🟨 |    🟧   |
-| Stability            |    ✅   |    ✅    |    ✅   |  🟨 |    🟨   |
-| TCP                  |    ✅   |    ✅    |    ✅   |  ✅  |    ✅    |
-| UDP                  |    ✅   |    ✅    |    ✅   |  ✅  |    ✅    |
-| Netflix support      |    ✅   |    ✅    |    ✅   |  🟨 |    🟧   |
-| Gaming               |    ✅   |    🟨   |   🟨   |  🟨 |    🟥   |
+<table data-header-hidden><thead><tr><th></th><th align="center" valign="top">Clash for Android</th><th data-hidden align="center">AnXray</th><th data-hidden align="center">v2rayNG</th><th data-hidden align="center">ClashR</th><th data-hidden align="center">SSR</th><th data-hidden align="center">OpenVPN</th></tr></thead><tbody><tr><td></td><td align="center" valign="top">Clash for Android [Recommended]</td><td align="center">AnXray</td><td align="center">v2rayNG</td><td align="center">ClashR</td><td align="center">SSR</td><td align="center">OpenVPN</td></tr><tr><td>Officially supported</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">✅</td></tr><tr><td>Trojan</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td><td align="center">❌</td></tr><tr><td>VMESS (v2ray)</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">❌</td></tr><tr><td>Shadowsocks</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">❌</td><td align="center">✅</td><td align="center">✅</td><td align="center">❌</td></tr><tr><td>Ease of Use</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td></tr><tr><td>Speed</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟧</td></tr><tr><td>Stability</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟨</td></tr><tr><td>TCP</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>UDP</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td>Netflix support</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟧</td></tr><tr><td>Gaming</td><td align="center" valign="top">✅</td><td align="center">✅</td><td align="center">🟨</td><td align="center">🟨</td><td align="center">🟨</td><td align="center">🟥</td></tr></tbody></table>
 
 ## Linux
 
