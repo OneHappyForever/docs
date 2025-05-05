@@ -25,7 +25,7 @@ ClashX.Meta is a continuation of the previous app, ClashX Pro. ClashX Pro is no 
 {% hint style="success" %}
 ### Version: v1.4.12
 
-[**Click here**](https://wannaflix-sz-edge.b-cdn.net/clash/macos/ClashX.Meta.zip) **to download the app.**&#x20;
+[**Click here**](https://cdn-edge.wannaflix.net/clash/macos/ClashX.Meta.zip) **to download the app.**&#x20;
 
 Alternative mirrors:
 

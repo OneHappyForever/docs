@@ -19,7 +19,7 @@ Clash Verge **version 2.2.3 and up** supports all major protocols, and works wit
 {% hint style="success" %}
 ### Version: v2.2.3
 
-[**Click here**](https://wannaflix-sz-edge.b-cdn.net/clash/windows/Clash.Verge_2.2.3_x64-setup.exe) **to download the app.**&#x20;
+[**Click here**](https://cdn-edge.wannaflix.net/clash/windows/Clash.Verge_2.2.3_x64-setup.exe) **to download the app.**&#x20;
 
 
 
