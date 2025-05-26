@@ -10,7 +10,7 @@ During that time, Shadowsocks has become our Chinese users' preferred protocol, 
 
 It seems that Shadowsocks is once again the better option for China as of 2025.&#x20;
 
-Therefore, we have decided to retain Shadowsocks as the main China protocol going forward, and phase out v2ray.&#x20;
+**Therefore, we have decided to retain Shadowsocks as the main China protocol going forward, and phase out v2ray starting June 1, 2025.**
 
 ### **Why the change?**
 
@@ -32,7 +32,7 @@ In addition, consolidating the server list around the best protocol has advantag
 
 Among many other benefits.&#x20;
 
-**Therefore, we have decided to remove the v2ray server protocol from the server list starting June 1, 2025.**
+These are just some of the reasons we have decided to remove the v2ray server protocol from the server list starting June 1, 2025.
 
 ### What do I need to do?&#x20;
 
