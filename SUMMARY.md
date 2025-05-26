@@ -137,6 +137,7 @@
   * [Updating the Server List](faq/updating-the-server-list.md)
   * [Alternative Apps + Downloads](faq/alternative-apps-+-downloads.md)
 * [BLOG](blog/README.md)
+  * [May 26, 2025 China Updates](blog/may-26-2025-china-updates.md)
   * [March 2023 China Updates - Recommend app updates and Protocol changes](blog/march-2023-china-updates-recommend-app-updates-and-protocol-changes.md)
   * [WannaFlix's Situation in Iran](blog/wannaflixs-situation-in-iran.md)
   * [China Situation - April 2022](blog/china-situation-april-2022.md)
