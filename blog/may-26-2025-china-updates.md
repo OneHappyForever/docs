@@ -12,6 +12,22 @@ It seems that Shadowsocks is once again the better option for China as of 2025.&
 
 **Therefore, we have decided to retain Shadowsocks as the main China protocol going forward, and phase out v2ray starting June 1, 2025.**
 
+{% hint style="success" %}
+## What are you phasing out exactly?
+
+We are phasing out the v2ray SERVERS not the apps.
+
+You can still use all your apps as before.&#x20;
+
+What we mean by "v2ray" is the VMESS protocol. So in your server list, you have:&#x20;
+
+* \[SS]\[CHINA] servers - these are the Shadowsocks servers, these will remain
+* \[CHINA] servers - these are the v2ray servers (VMESS protocol). These will disappear. They are just copies of the \[SS]\[CHINA] servers, so all servers will still be accessible, just only on the Shadowsocks protocol
+* Other servers (not labelled \[CHINA]) - these are the Trojan servers. These will also remain available
+
+Hopefully that clarifies what is exactly being phased out. :smile:
+{% endhint %}
+
 ### **Why the change?**
 
 As pointed out in our March 2023 update, Shadowsocks has several benefits over v2ray and Trojan:
