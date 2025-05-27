@@ -36,6 +36,8 @@ These are just some of the reasons we have decided to remove the v2ray server pr
 
 ### What do I need to do?&#x20;
 
+<mark style="background-color:green;">**NO action required on your end.**</mark>
+
 The short answer is nothing. The new server list will appear automatically on June 1 in your apps. If it does not, you can simply update the server list from the API link manually (see [this guide](../faq/updating-the-server-list.md)).&#x20;
 
 All servers currently available will still be there! Just on the Shadowsocks.
