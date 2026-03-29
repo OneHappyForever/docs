@@ -2,20 +2,14 @@
 description: Setup takes about 8 mins
 ---
 
-# ClashX Meta
+# 👍 ClashX Meta
 
-Updated: May 1, 2025
-
-{% hint style="success" %}
-### App recommendations
-
-If you have an M1 Mac, we recommend [OneClick](oneclick-m1-macs-only-recommended.md) for ease of use instead.
-{% endhint %}
+Updated: March 29, 2026
 
 {% hint style="info" %}
-### ClashX.Meta version 1.4.12 and up (April 2025 release).&#x20;
+### ClashX.Meta version 1.4.31 and up (March 2026 release).&#x20;
 
-ClashX.Meta **version 1.4.12 and up** supports all major protocols, and works with all our servers. It also supports the TUN engine for capturing all app traffic.
+ClashX.Meta **version 1.4.31 and up** supports all major protocols, and works with all our servers. It also supports the TUN engine for capturing all app traffic.
 
 ClashX.Meta is a continuation of the previous app, ClashX Pro. ClashX Pro is no longer updated, so we recommend switching to ClashX.Meta or OneClick instead.
 {% endhint %}
@@ -23,7 +17,7 @@ ClashX.Meta is a continuation of the previous app, ClashX Pro. ClashX Pro is no 
 ## STEP 1: Download and install ClashX
 
 {% hint style="success" %}
-### Version: v1.4.12
+### Version: v1.4.31
 
 [**Click here**](https://cdn-edge.wannaflix.net/clash/macos/ClashX.Meta.zip) **to download the app.**&#x20;
 

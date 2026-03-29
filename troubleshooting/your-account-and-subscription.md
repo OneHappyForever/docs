@@ -8,7 +8,7 @@
 ## How can I renew my subscription?
 
 1. Login to your [client area](https://wannaflix.com/clientarea.php)
-2. On the left-hand menu, click on Billing &gt; My Invoices
+2. On the left-hand menu, click on Billing > My Invoices
 3. Pay the invoice
 
 {% hint style="info" %}
@@ -19,12 +19,12 @@ The invoice will be automatically generated 14 days before your subscription exp
 
 1. Login to your [client area](https://wannaflix.com/clientarea.php)
 2. Under the "your subscription" box, click on "cancel VPN subscription"
-3. On the next screen, choose the cancellation type \(immediate/end of billing period\) and click on "Request Cancellation"
+3. On the next screen, choose the cancellation type (immediate/end of billing period) and click on "Request Cancellation"
 
 ## How can I apply for a refund?
 
 1. Make sure you are still within 30 days of your purchase
-2. Login to your client area and **open a ticket** 
+2. Login to your client area and **open a ticket**&#x20;
 
 {% hint style="info" %}
 We will usually process the refund within 3 days.
@@ -37,18 +37,16 @@ Simply cancelling your subscription will not get you refunded. You need to open 
 ## Where can I get my invoice?
 
 1. Login to your [client area](https://wannaflix.com/clientarea.php)
-2. On the left-hand menu, click on Billing &gt; My Invoices
+2. On the left-hand menu, click on Billing > My Invoices
 
 {% hint style="info" %}
 If you have setup an automatic payment subscription, then the invoice will be automatically paid when it becomes due.
 {% endhint %}
 
-## **Where can I find my WannaFlix VPN API Link \(activation code\)?**
+## **Where can I find my WannaFlix VPN API Link (activation code)?**
 
 1. Login to your [client area](https://wannaflix.com/clientarea.php)
 2. Scroll down untill you see the box "Your API Links"
-
-
 
 
 

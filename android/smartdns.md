@@ -58,8 +58,7 @@ There are a lot of implementations of Android in the market. That is why each de
 
 9\. Tap Save.
 
-10\. Restart your device. \
-
+10\. Restart your device. <br>
 
 ### Changing DNS on Android 8.x
 

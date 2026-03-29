@@ -4,18 +4,18 @@ description: 'Tim to complete tutorial: 7 mins'
 
 # 👍 Clash for Android
 
-Updated: May 3, 2025
+Updated: March 29, 2026
 
 {% hint style="info" %}
-### Clash for Android version 2.11.9 and up (April 2025 release).&#x20;
+### Clash for Android version 2.11.24 and up (March 2026 release).&#x20;
 
-Clash Meta for Android **version 2.11.9  and up** supports all major protocols, and works with all our servers.&#x20;
+Clash Meta for Android **version 2.11.24  and up** supports all major protocols, and works with all our servers.&#x20;
 {% endhint %}
 
 ## STEP 1: Download and install Clash for Android
 
 {% hint style="success" %}
-### Version: v2.11.9
+### Version: v2.11.24
 
 [**Click here**](https://cdn-edge.wannaflix.net/clash/android/cmfa-2.11.9-meta-universal-release.apk) **to download the app.**&#x20;
 

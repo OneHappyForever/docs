@@ -7,26 +7,26 @@ description: This app supports obfuscation and the Subscribe Link
 ## Download the App
 
 1. Go to [https://wannaflix.com/downloads.html](https://wannaflix.com/downloads.html)
-2. Click on the "SSR" button 
+2. Click on the "SSR" button&#x20;
 
 {% hint style="info" %}
-Alternatively, [click here](https://wannaflix.com/dl.php?type=d&id=3) to download the app directly.
+Alternatively, [click here](https://wannaflix.com/dl.php?type=d\&id=3) to download the app directly.
 {% endhint %}
 
 ## Install the App
 
-1. Find the apk \(likely in your downloads\) and click on it to launch the installation. Make sure to click allow on any popup that may appear.
+1. Find the apk (likely in your downloads) and click on it to launch the installation. Make sure to click allow on any popup that may appear.
 2. Once the app has installed, click "open"
 
 {% hint style="info" %}
-You may need to allow apps from "Unknown Sources" on your phone for the installation to complete. 
+You may need to allow apps from "Unknown Sources" on your phone for the installation to complete.&#x20;
 {% endhint %}
 
 ## Add Your Servers
 
 ### Copy your Subscribe Link
 
-1. Login to your client area \([https://wannaflix.com/clientarea.php](https://wannaflix.com/clientarea.php)\)
+1. Login to your client area ([https://wannaflix.com/clientarea.php](https://wannaflix.com/clientarea.php))
 2. Click on "Manage your VPN Subscription" under 'Your Subscription'
 3. Under the box "Your Subscribe Links", click on the "Subscribe Link" button to copy your link to the clipboard
 
@@ -52,4 +52,3 @@ If your browser does not support copying the link directly to the keyboard, clic
 
 To remove a server profile, press and hold your finger over the profile name and then swipe to the left or right.
 {% endhint %}
-

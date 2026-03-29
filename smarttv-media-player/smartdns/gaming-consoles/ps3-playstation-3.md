@@ -24,8 +24,7 @@ Follow [this guide](../../../routers/smartdns/block-public-dns.md) to block publ
 4. Then select _Custom_ and leave all settings as they are until you come to _DNS settings_
 5. Select _Manual_ and input Primary DNS **165.227.243.239** & Secondary DNS **165.227.254.128**
 6. Then keep pressing the right button until you are offered to check connection. Go ahead and do the check and then save settings
-7. Go on to restart the PS3\
-
+7. Go on to restart the PS3<br>
 
 {% hint style="warning" %}
 **IMPORTANT:** In order to install US apps on your PS3 you need a US PSN account. Follow the steps below to set it up.
@@ -33,8 +32,7 @@ Follow [this guide](../../../routers/smartdns/block-public-dns.md) to block publ
 
 ## Get a US PSN account and install Netflix
 
-Netflix (and other streaming apps) are only available on the US PSN store, and so to get access to those you will need to create a US PSN account. Once created and once the apps are downloaded and installed, they will appear within your primary PSN account, so the US PSN account is just a temporary one so the apps can be downloaded.\
-
+Netflix (and other streaming apps) are only available on the US PSN store, and so to get access to those you will need to create a US PSN account. Once created and once the apps are downloaded and installed, they will appear within your primary PSN account, so the US PSN account is just a temporary one so the apps can be downloaded.<br>
 
 ### **Create a New User**
 

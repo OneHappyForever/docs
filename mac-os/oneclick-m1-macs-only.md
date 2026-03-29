@@ -1,4 +1,4 @@
-# 👍 OneClick \[M1 Macs ONLY] (Recommended)
+# OneClick \[M1 Macs ONLY]
 
 Updated: April 17, 2024
 

@@ -26,8 +26,7 @@ You will have to re-submit your IP address each time it changes (router reboots,
 
 Changing the country on the Smart TV will make it show different apps depending on the location selected. Most users change the country to the "United States" in order to get both the Netflix and Hulu Plus apps.\
 \
-Please note that performing these steps will reset your TV settings back to factory defaults.\
-
+Please note that performing these steps will reset your TV settings back to factory defaults.<br>
 
 1. Set the source to "TV". Press the "Source" button and use the navigation pad to select "TV", then click to select.
 2. Open the Menu by pressing the "Menu" button. Use the navigational pad to select "System", then click to enter the sub menu.

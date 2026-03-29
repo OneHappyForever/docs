@@ -9,7 +9,7 @@ This information is current as of August 13, 2021
 {% endhint %}
 
 {% hint style="success" %}
-For VIP servers, see [this page.](vip-servers/routing.md)
+For VIP servers, see [this page.](archives/vip-servers/routing.md)
 {% endhint %}
 
 ## Recommended Servers
@@ -18,44 +18,44 @@ For VIP servers, see [this page.](vip-servers/routing.md)
 
 #### China Telecom
 
-China Telecom's international connections have been increasingly throttled over the past couple years and this trend will likely continue as demand continues to exceed supply. 
+China Telecom's international connections have been increasingly throttled over the past couple years and this trend will likely continue as demand continues to exceed supply.&#x20;
 
-Right now, almost no direct connections offer fast speeds. Please use \[CHINA\] servers for faster speeds.
+Right now, almost no direct connections offer fast speeds. Please use \[CHINA] servers for faster speeds.
 
 * **CHINA DAILY USAGE 1-4**
-* **All \[CHINA\] servers** 
+* **All \[CHINA] servers**&#x20;
 
 #### China Unicom
 
 China Unicom has the best international speeds of all 3 ISPs in China. International bandwidth is much less throttled and some locations may offer good speeds even when connecting directly.
 
-If you have a choice of ISPs, we suggest getting a China Unicom line rather than China Telecom. 
+If you have a choice of ISPs, we suggest getting a China Unicom line rather than China Telecom.&#x20;
 
 * **CHINA DAILY USAGE 1,3,4**
-* **All \[CHINA\] servers**
-* Russia \(recommended for north of China, including Beijing\)
-* Germany \(some locations\)
+* **All \[CHINA] servers**
+* Russia (recommended for north of China, including Beijing)
+* Germany (some locations)
 
 #### China Mobile
 
 China Mobile's recently surpassed China Unicom in total number of users, but with much less total international bandwidth, speeds tend to slow down considerably in the evenings.
 
-Try Germany, or else stick with the \[CHINA\] servers.
+Try Germany, or else stick with the \[CHINA] servers.
 
 * **CHINA DAILY USAGE 1-4**
-* **All \[CHINA\] servers**
-* Hong Kong 2 \(some locations\)
-* Japan \(some locations\)
-* Germany \(some locations\)
+* **All \[CHINA] servers**
+* Hong Kong 2 (some locations)
+* Japan (some locations)
+* Germany (some locations)
 
-#### Other ISPs in China\(GreatWall, etc.\)
+#### Other ISPs in China(GreatWall, etc.)
 
-These ISPs purchase international bandwidth from the big 3. Lines are oversold and speeds in the evenings drop to almost 0. 
+These ISPs purchase international bandwidth from the big 3. Lines are oversold and speeds in the evenings drop to almost 0.&#x20;
 
-Some locations may benefit from the \[CHINA\] servers special routing. If the \[CHINA\] servers don't give you any kind of speed, then you're left with only 1 option: finding a better ISP. 
+Some locations may benefit from the \[CHINA] servers special routing. If the \[CHINA] servers don't give you any kind of speed, then you're left with only 1 option: finding a better ISP.&#x20;
 
 * **CHINA DAILY USAGE 3, 4**
-* All \[CHINA\] servers
+* All \[CHINA] servers
 
 ### North America
 
@@ -65,7 +65,7 @@ Keep in mind that servers inside the United States will still perform better.
 
 ### South America
 
-South American ISPs tend to peer with the US more than between themselves. The main entry point to the US is in Florida and New York, specifically in the NAP of the Americas internet exchange in Miami. 
+South American ISPs tend to peer with the US more than between themselves. The main entry point to the US is in Florida and New York, specifically in the NAP of the Americas internet exchange in Miami.&#x20;
 
 We've recently opened a new Brazil location as well.
 
@@ -100,7 +100,7 @@ Europe has very good peering both between countries within Europe, and with Nort
 * Canada
 * New York
 * Singapore
-* Los Angeles 
+* Los Angeles&#x20;
 
 ### Middle East
 
@@ -123,7 +123,7 @@ If you are in South Africa, you can connect to our South African server as well.
 * Germany
 * Netherlands
 * UK
-* South Africa \(for South Africans only\)
+* South Africa (for South Africans only)
 
 ## Netflix
 
@@ -132,6 +132,5 @@ Since August 2021, Netflix has been cracking down really hard on VPNs, so we've 
 ## Recommendations
 
 1. On **Windows**, we highly recommend using **Netch** over SSTap, as SSTap has several known bugs.
-2. Choose one of the \[CHINA\] for the best speeds and stability if you are in China
+2. Choose one of the \[CHINA] for the best speeds and stability if you are in China
 3. **Join our telegram group** to stay up to date with the latest developments: [https://t.me/wannaflixvpn](https://t.me/wannaflixvpn)
-

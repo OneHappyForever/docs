@@ -1,6 +1,6 @@
 # 👍 Clash Verge (Recommended)
 
-Updated: May 1, 2025
+Updated: March 29, 2026
 
 {% hint style="success" %}
 **This app is the recommended app for Windows.**
@@ -9,17 +9,17 @@ Updated: May 1, 2025
 {% endhint %}
 
 {% hint style="info" %}
-### Clash Verge version 2.2.3 and up (April 2025 release).&#x20;
+### Clash Verge version 2.4.7 and up (March 2026 release).&#x20;
 
-Clash Verge **version 2.2.3 and up** supports all major protocols, and works with all our servers. It also supports the TUN engine for capturing packets, and provides support for the Windows app store via UWP. This means it can run games without needing additional software.&#x20;
+Clash Verge **version 2.4.7 and up** supports all major protocols, and works with all our servers. It also supports the TUN engine for capturing packets, and provides support for the Windows app store via UWP. This means it can run games without needing additional software.&#x20;
 {% endhint %}
 
 ## STEP 1: Download and install Clash Verge
 
 {% hint style="success" %}
-### Version: v2.2.3
+### Version: v2.4.7
 
-[**Click here**](https://cdn-edge.wannaflix.net/clash/windows/Clash.Verge_2.2.3_x64-setup.exe) **to download the app.**&#x20;
+[**Click here**](https://cdn-edge.wannaflix.net/clash/windows/Clash.Verge_2.4.7_x64-setup.exe) **to download the app.**&#x20;
 
 
 
