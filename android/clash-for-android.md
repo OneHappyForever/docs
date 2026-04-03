@@ -17,7 +17,7 @@ Clash Meta for Android **version 2.11.24  and up** supports all major protocols,
 {% hint style="success" %}
 ### Version: v2.11.24
 
-[**Click here**](https://cdn-edge.wannaflix.net/clash/android/cmfa-2.11.9-meta-universal-release.apk) **to download the app.**&#x20;
+[**Click here**](https://cdn-edge.wannaflix.net/clash/android/cmfa-2.11.24-meta-universal-release.apk) **to download the app.**&#x20;
 
 Alternative mirrors:
 
