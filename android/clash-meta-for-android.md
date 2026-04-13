@@ -2,12 +2,16 @@
 description: 'Tim to complete tutorial: 7 mins'
 ---
 
-# 👍 Clash for Android
+# 👍 Clash Meta for Android
 
 Updated: March 29, 2026
 
+{% hint style="warning" %}
+**Not to be confused with&#x20;**_**ClashforAndroid**_**,** which is no longer updated or supported
+{% endhint %}
+
 {% hint style="info" %}
-### Clash for Android version 2.11.24 and up (March 2026 release).&#x20;
+### Clash Meta for Android version 2.11.24 and up (March 2026 release).&#x20;
 
 Clash Meta for Android **version 2.11.24  and up** supports all major protocols, and works with all our servers.&#x20;
 {% endhint %}

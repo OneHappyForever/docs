@@ -3,7 +3,7 @@
 Updated: August 5, 2022
 
 {% hint style="danger" %}
-**IMPORTANT: Netch is no longer updated and may not work reliably on Windows 11. Please use** [**Clash for Windows** ](../../installation-guides/windows/clash-for-windows.md)**instead.**
+**IMPORTANT: Netch is no longer updated and may not work reliably on Windows 11. Please use** [**Clash for Windows** ](/broken/pages/-Lc04d4Hia6GXXy4ebm4)**instead.**
 {% endhint %}
 
 

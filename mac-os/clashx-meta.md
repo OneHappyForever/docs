@@ -2,7 +2,7 @@
 description: Setup takes about 8 mins
 ---
 
-# 👍 ClashX Meta
+# ClashX Meta
 
 Updated: March 29, 2026
 

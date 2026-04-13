@@ -1,12 +1,6 @@
-# 👍 Clash Verge (Recommended)
+# 👍 Clash Verge (Recommended
 
 Updated: March 29, 2026
-
-{% hint style="success" %}
-**This app is the recommended app for Windows.**
-
-**If you are running an old Windows 7 computer, please use** [**Clash for Windows**](v2ray-shadowsocks/clash-for-windows-new.md) **instead.**&#x20;
-{% endhint %}
 
 {% hint style="info" %}
 ### Clash Verge version 2.4.7 and up (March 2026 release).&#x20;
