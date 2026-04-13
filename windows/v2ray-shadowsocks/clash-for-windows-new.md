@@ -9,7 +9,7 @@
 Updated: May 1, 2025
 
 {% hint style="success" %}
-**Clash for Windows is no longer regularly updated. We recommend users to switch to** [**Clash Verge** ](../../windows/clash-verge-recommended.md)**instead.**&#x20;
+**Clash for Windows is no longer regularly updated. We recommend users to switch to** [**Clash Verge** ](../clash-verge-recommended.md)**instead.**&#x20;
 {% endhint %}
 
 {% hint style="info" %}

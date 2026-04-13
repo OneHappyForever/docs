@@ -11,7 +11,7 @@ Updated: August 5, 2022
 {% endhint %}
 
 {% hint style="danger" %}
-IMPORTANT: v2rayU is extremely unstable on M1 Macs. If you have M1, please use [Shadowrocket](../../mac-os/shadowrocket-m1-macs-only.md) instead. Shadowrocket supports the new VLESS+XTLS protocol as well.
+IMPORTANT: v2rayU is extremely unstable on M1 Macs. If you have M1, please use [Shadowrocket](shadowrocket-m1-macs-only.md) instead. Shadowrocket supports the new VLESS+XTLS protocol as well.
 {% endhint %}
 
 {% hint style="success" %}

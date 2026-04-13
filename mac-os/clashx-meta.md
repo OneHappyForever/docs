@@ -4,6 +4,10 @@ description: Setup takes about 8 mins
 
 # ClashX Meta
 
+{% hint style="danger" %}
+ClashX Meta is complicated to set up. Please consider using [FlClash](flclash-recommended.md) instead.
+{% endhint %}
+
 Updated: March 29, 2026
 
 {% hint style="info" %}

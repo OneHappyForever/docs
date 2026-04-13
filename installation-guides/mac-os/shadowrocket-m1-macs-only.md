@@ -11,14 +11,14 @@ Once purchased, you can also install it on your iOS devices (iPhone/iPads).
 Shadowrocket is now working on all M-series Macs.&#x20;
 
 {% hint style="info" %}
-If you don't have an M-series Mac, please use[ FlClash](flclash-recommended.md) instead.&#x20;
+If you don't have an M-series Mac, please use[ FlClash](../../mac-os/flclash-recommended.md) instead.&#x20;
 {% endhint %}
 
 ## Download the app
 
 Open your Mac App Store. Search for "shadowrocket" and download it.
 
-<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2026-04-13 at 5.05.12 PM.png" alt="" width="104"><figcaption><p>Shadowrocket</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2026-04-13 at 5.05.12 PM.png" alt="" width="104"><figcaption><p>Shadowrocket</p></figcaption></figure></div>
 
 {% hint style="info" %}
 You can also find it via this link: [https://apps.apple.com/us/app/shadowrocket/id932747118](https://apps.apple.com/us/app/shadowrocket/id932747118)
@@ -37,12 +37,12 @@ You can also find it via this link: [https://apps.apple.com/us/app/shadowrocket/
 1. Open the Shadowrocket app.
 2. Click on the "+" icon on the top right corner.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-13 at 4.58.03 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-13 at 4.58.03 PM.png" alt=""><figcaption></figcaption></figure>
 
 3. Change the "Type" to **subscribe** (it should default to subscribe, just double check that it's the case)
 4. **Paste the API link into the URL box**, type "Wannaflix" in the REMARKS box, and click **Save**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-13 at 4.59.24 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-13 at 4.59.24 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### **Connect**
 
@@ -50,7 +50,7 @@ You can also find it via this link: [https://apps.apple.com/us/app/shadowrocket/
 2. If it is the first time setting up the app, it will ask you to allow the creation of a VPN profile. Click allow and enter your pin/touch ID/face ID.
 3. Otherwise, you will be connected.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-13 at 5.08.54 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-04-13 at 5.08.54 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 At the top of the server list, change the "Global Routing" to **Proxy** for better stability
