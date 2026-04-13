@@ -70,7 +70,6 @@ If you encounter a warning stating that the app cannot be opened because **Apple
 
 * **Simple API**: One proxy group, easy to set up, suitable for basic use. _**Recommended for new users.**_
 * **Split-tunneling API**: Supports multiple proxy groups and service-based routing for advanced control.
-* **Subconverter API**: A technical tool for advanced users to convert and customize subscription configs across different formats (Clash, Surge, etc.). _**DO NOT USE unless you know how to configure the subconverter.**_
 {% endhint %}
 
 ### Paste the API&#x20;
